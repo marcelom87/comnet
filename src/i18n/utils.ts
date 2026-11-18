@@ -40,3 +40,4 @@ export function getSwitchLocaleUrl(currentUrl: URL, targetLang: Lang): string {
     return `${baseUrl}${stripped}`;
   }
 }
+

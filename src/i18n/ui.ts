@@ -199,3 +199,4 @@ export const ui = {
     'footer.rights': 'COMNET — Computer Networks Laboratory • University of Brasília (UnB).'
   }
 } as const;
+
