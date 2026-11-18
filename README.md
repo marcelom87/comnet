@@ -59,3 +59,4 @@ Este repositório possui um workflow automatizado em `.github/workflows/deploy.y
 - **Verde UnB:** `#006633`
 - **Verde Esmeralda/Accent:** `#00A389`
 - **Slate Escuro:** `#0A2540`
+

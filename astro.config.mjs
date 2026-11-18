@@ -3,8 +3,8 @@ import tailwind from '@astrojs/tailwind';
 
 // https://astro.build/config
 export default defineConfig({
-  site: process.env.ASTRO_SITE || 'https://unb-cic.github.io',
-  base: process.env.ASTRO_BASE || '/comnet_site',
+  site: process.env.ASTRO_SITE || 'https://marcelom87.github.io',
+  base: process.env.ASTRO_BASE || '/comnet',
   integrations: [tailwind()],
   output: 'static',
   trailingSlash: 'always'

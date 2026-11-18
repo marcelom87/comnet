@@ -31,3 +31,4 @@ export const collections = {
   professores,
   projetos,
 };
+
