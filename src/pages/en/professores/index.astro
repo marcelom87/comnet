@@ -1,0 +1,52 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import ProfessorCard from '../../../components/ProfessorCard.astro';
+import { getCollection } from 'astro:content';
+import { useTranslations } from '../../../i18n/utils';
+
+const lang = 'en';
+const t = useTranslations(lang);
+
+const allProfessores = await getCollection('professores');
+const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'en'));
+---
+
+<BaseLayout
+  lang={lang}
+  title="Faculty & Researchers | COMNET — CIC / UnB"
+  description="Meet the faculty researchers, principal investigators, and advisors at the COMNET Laboratory, University of Brasília."
+>
+  <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
+          {t('members.tag')}
+        </span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
+          {t('members.title')}
+        </h1>
+        <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
+          {t('members.subtitle')}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {professores.map((prof) => (
+          <ProfessorCard
+            lang={lang}
+            id={prof.slug}
+            name={prof.data.name}
+            role={prof.data.role}
+            email={prof.data.email}
+            lattesUrl={prof.data.lattesUrl}
+            areas={prof.data.areas}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

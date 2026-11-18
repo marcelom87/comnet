@@ -1,14 +1,29 @@
 ---
-const baseUrl = import.meta.env.BASE_URL;
-const pathname = Astro.url.pathname;
+import { getLangFromUrl, useTranslations, getSwitchLocaleUrl } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  lang?: Lang;
+}
+
+const currentUrl = Astro.url;
+const lang = Astro.props.lang || getLangFromUrl(currentUrl);
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const pathname = currentUrl.pathname;
+
+const prefix = lang === 'en' ? `${baseUrl}/en` : baseUrl;
 
 const navLinks = [
-  { name: 'Início', href: `${baseUrl}` },
-  { name: 'Membros', href: `${baseUrl}professores/` },
-  { name: 'Projetos', href: `${baseUrl}projetos/` },
-  { name: 'Alunos', href: `${baseUrl}alunos/` },
-  { name: 'Sobre & Contato', href: `${baseUrl}sobre/` },
+  { name: t('nav.home'), href: `${prefix}/` },
+  { name: t('nav.members'), href: `${prefix}/professores/` },
+  { name: t('nav.projects'), href: `${prefix}/projetos/` },
+  { name: t('nav.students'), href: `${prefix}/alunos/` },
+  { name: t('nav.about'), href: `${prefix}/sobre/` },
 ];
+
+const ptUrl = getSwitchLocaleUrl(currentUrl, 'pt');
+const enUrl = getSwitchLocaleUrl(currentUrl, 'en');
 ---
 
 <header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-sm transition-all">
@@ -16,7 +31,7 @@ const navLinks = [
     <div class="flex items-center justify-between h-20">
       
       <!-- Logo COMNET + UnB -->
-      <a href={baseUrl} class="flex items-center gap-3 group">
+      <a href={`${prefix}/`} class="flex items-center gap-3 group">
         <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-unb-blue to-unb-green flex items-center justify-center text-white font-bold text-xl shadow-md group-hover:scale-105 transition-transform">
           CN
         </div>
@@ -38,11 +53,12 @@ const navLinks = [
       <!-- Desktop Navigation -->
       <nav class="hidden md:flex items-center gap-1">
         {navLinks.map((link) => {
-          const isActive = pathname === link.href || (link.href !== baseUrl && pathname.startsWith(link.href));
+          const isHome = link.href === `${prefix}/` || link.href === prefix;
+          const isActive = isHome ? (pathname === prefix || pathname === `${prefix}/`) : pathname.startsWith(link.href);
           return (
             <a
               href={link.href}
-              class={`px-4 py-2 rounded-lg text-sm font-semibold transition-all ${
+              class={`px-3.5 py-2 rounded-lg text-sm font-semibold transition-all ${
                 isActive
                   ? 'bg-unb-blue text-white shadow-sm'
                   : 'text-slate-700 hover:text-unb-blue hover:bg-slate-100'
@@ -52,10 +68,53 @@ const navLinks = [
             </a>
           );
         })}
+
+        <!-- Seletor de Idioma (Desktop) -->
+        <div class="ml-3 pl-3 border-l border-slate-200 flex items-center gap-1 text-xs font-bold">
+          <a
+            href={ptUrl}
+            class={`px-2 py-1 rounded transition-all ${
+              lang === 'pt'
+                ? 'bg-emerald-100 text-emerald-900 border border-emerald-300 shadow-2xs'
+                : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+            }`}
+            title="Versão em Português"
+          >
+            🇧🇷 PT
+          </a>
+          <span class="text-slate-300">|</span>
+          <a
+            href={enUrl}
+            class={`px-2 py-1 rounded transition-all ${
+              lang === 'en'
+                ? 'bg-emerald-100 text-emerald-900 border border-emerald-300 shadow-2xs'
+                : 'text-slate-500 hover:text-slate-900 hover:bg-slate-100'
+            }`}
+            title="English Version"
+          >
+            🇺🇸 EN
+          </a>
+        </div>
       </nav>
 
-      <!-- Mobile Menu Button -->
-      <div class="md:hidden flex items-center">
+      <!-- Mobile Menu & Lang Switcher -->
+      <div class="md:hidden flex items-center gap-2">
+        <!-- Seletor de Idioma Mobile -->
+        <div class="flex items-center gap-1 text-xs font-bold bg-slate-100 p-1 rounded-lg">
+          <a
+            href={ptUrl}
+            class={`px-2 py-0.5 rounded ${lang === 'pt' ? 'bg-white text-slate-900 shadow-xs' : 'text-slate-500'}`}
+          >
+            PT
+          </a>
+          <a
+            href={enUrl}
+            class={`px-2 py-0.5 rounded ${lang === 'en' ? 'bg-white text-slate-900 shadow-xs' : 'text-slate-500'}`}
+          >
+            EN
+          </a>
+        </div>
+
         <button
           type="button"
           id="mobile-menu-btn"
@@ -93,4 +152,3 @@ const navLinks = [
     });
   }
 </script>
-

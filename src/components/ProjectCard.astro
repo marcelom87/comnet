@@ -1,18 +1,27 @@
 ---
+import type { Lang } from '../i18n/ui';
+import { getLangFromUrl } from '../i18n/utils';
+
 interface Props {
   slug: string;
   title: string;
+  title_en?: string;
   period: string;
   coordinator: string;
   funding?: string;
   status: string;
   featured?: boolean;
   descriptionSnippet?: string;
+  lang?: Lang;
 }
 
-const { slug, title, period, coordinator, funding, status, featured, descriptionSnippet } = Astro.props;
-const baseUrl = import.meta.env.BASE_URL;
+const currentUrl = Astro.url;
+const lang = Astro.props.lang || getLangFromUrl(currentUrl);
+const { slug, title, title_en, period, coordinator, funding, status, featured, descriptionSnippet } = Astro.props;
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = lang === 'en' ? `${baseUrl}/en` : baseUrl;
 
+const displayTitle = (lang === 'en' && title_en) ? title_en : title;
 const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCase().includes('atual');
 ---
 
@@ -32,25 +41,27 @@ const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCa
           ? 'bg-emerald-100 text-emerald-800 border border-emerald-300'
           : 'bg-slate-100 text-slate-600'
       }`}>
-        {isOngoing ? '● Em Andamento' : '✓ Concluído'}
+        {isOngoing 
+          ? (lang === 'en' ? '● Ongoing' : '● Em Andamento')
+          : (lang === 'en' ? '✓ Completed' : '✓ Concluído')}
       </span>
     </div>
 
     <!-- Título do Projeto -->
     <h3 class="text-lg font-bold text-slate-900 hover:text-unb-blue transition-colors mb-2 leading-snug">
-      <a href={`${baseUrl}projetos/${slug}/`}>
-        {title}
+      <a href={`${prefix}/projetos/${slug}/`}>
+        {displayTitle}
       </a>
     </h3>
 
     <!-- Coordenação & Financiamento -->
     <div class="space-y-1 text-xs text-slate-500 mb-4">
       <p>
-        <strong class="text-slate-700">Coordenação:</strong> {coordinator}
+        <strong class="text-slate-700">{lang === 'en' ? 'Coordinator:' : 'Coordenação:'}</strong> {coordinator}
       </p>
       {funding && (
         <p>
-          <strong class="text-slate-700">Fomento:</strong> {funding}
+          <strong class="text-slate-700">{lang === 'en' ? 'Sponsor:' : 'Fomento:'}</strong> {funding}
         </p>
       )}
     </div>
@@ -65,12 +76,11 @@ const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCa
   <!-- Ação -->
   <div class="pt-4 border-t border-slate-100 flex items-center justify-between">
     <a
-      href={`${baseUrl}projetos/${slug}/`}
+      href={`${prefix}/projetos/${slug}/`}
       class="text-xs font-bold text-unb-blue hover:text-unb-green flex items-center gap-1 transition-colors"
     >
-      <span>Ver Detalhes do Projeto</span>
+      <span>{lang === 'en' ? 'View Project Details' : 'Ver Detalhes do Projeto'}</span>
       <span>→</span>
     </a>
   </div>
 </div>
-

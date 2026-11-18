@@ -1,22 +1,32 @@
 ---
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { getLangFromUrl } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
 
 interface Props {
   title?: string;
   description?: string;
+  lang?: Lang;
 }
 
+const currentUrl = Astro.url;
+const lang = Astro.props.lang || getLangFromUrl(currentUrl);
+
 const {
-  title = 'COMNET — Laboratório de Redes de Comunicações | UnB',
-  description = 'Laboratório de Pesquisa em Redes de Computadores do Departamento de Ciência da Computação (CIC) da Universidade de Brasília (UnB).',
+  title = lang === 'en'
+    ? 'COMNET — Computer Networks Laboratory | UnB'
+    : 'COMNET — Laboratório de Redes de Comunicações | UnB',
+  description = lang === 'en'
+    ? 'Cutting-edge research in 5G/6G Networks, Distributed Systems, Softwarization, and AI at University of Brasília.'
+    : 'Laboratório de Pesquisa em Redes de Computadores do Departamento de Ciência da Computação (CIC) da Universidade de Brasília (UnB).',
 } = Astro.props;
 
 const baseUrl = import.meta.env.BASE_URL;
 ---
 
 <!doctype html>
-<html lang="pt-BR" class="scroll-smooth">
+<html lang={lang === 'en' ? 'en' : 'pt-BR'} class="scroll-smooth">
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -26,11 +36,10 @@ const baseUrl = import.meta.env.BASE_URL;
     <title>{title}</title>
   </head>
   <body class="bg-slate-50 text-slate-800 antialiased min-h-screen flex flex-col font-sans selection:bg-emerald-500 selection:text-white">
-    <Header />
+    <Header lang={lang} />
     <main class="flex-grow">
       <slot />
     </main>
-    <Footer />
+    <Footer lang={lang} />
   </body>
 </html>
-

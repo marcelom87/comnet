@@ -1,0 +1,107 @@
+---
+import { getCollection } from 'astro:content';
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+
+export async function getStaticPaths() {
+  const professores = await getCollection('professores');
+  return professores.map((professor) => ({
+    params: { slug: professor.slug },
+    props: { professor },
+  }));
+}
+
+const lang = 'en';
+const { professor } = Astro.props;
+const { Content } = await professor.render();
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = `${baseUrl}/en`;
+
+const initials = professor.data.name
+  .split(' ')
+  .filter((_, idx, arr) => idx === 0 || idx === arr.length - 1)
+  .map(n => n[0])
+  .join('');
+---
+
+<BaseLayout
+  lang={lang}
+  title={`${professor.data.name} | COMNET — CIC / UnB`}
+  description={`Academic profile of ${professor.data.name}, researcher at COMNET Laboratory, University of Brasília.`}
+>
+  <div class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-14">
+    <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="mb-4">
+        <a href={`${prefix}/professores/`} class="text-xs font-semibold text-emerald-400 hover:text-emerald-300 flex items-center gap-1 transition-colors">
+          <span>←</span>
+          <span>Back to Members</span>
+        </a>
+      </div>
+
+      <div class="flex flex-col sm:flex-row items-start sm:items-center gap-6">
+        <div class="w-20 h-20 rounded-2xl bg-gradient-to-br from-emerald-500 to-teal-700 flex items-center justify-center text-white font-extrabold text-2xl shadow-xl flex-shrink-0">
+          {initials}
+        </div>
+        <div>
+          <h1 class="text-3xl sm:text-4xl font-extrabold">{professor.data.name}</h1>
+          <p class="text-emerald-300 font-medium text-base mt-1">{professor.data.role}</p>
+          <div class="flex flex-wrap items-center gap-4 mt-3 text-xs text-slate-300">
+            {professor.data.email && (
+              <a href={`mailto:${professor.data.email}`} class="hover:text-white flex items-center gap-1">
+                <span>✉</span> {professor.data.email}
+              </a>
+            )}
+            <a
+              href={professor.data.lattesUrl}
+              target="_blank"
+              rel="noopener noreferrer"
+              class="inline-flex items-center gap-1.5 px-3 py-1 rounded-md bg-white/10 hover:bg-white/20 text-white border border-white/20 transition-all font-semibold"
+            >
+              <span>🔗 Curriculum Lattes (CNPq)</span>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+    <div class="grid grid-cols-1 lg:grid-cols-3 gap-8">
+      
+      <!-- Main Content -->
+      <div class="lg:col-span-2 bg-white rounded-2xl border border-slate-200 p-8 shadow-sm prose prose-slate max-w-none prose-headings:text-unb-blue prose-a:text-unb-green">
+        <Content />
+      </div>
+
+      <!-- Sidebar -->
+      <div class="space-y-6">
+        <div class="bg-white rounded-2xl border border-slate-200 p-6 shadow-sm">
+          <h3 class="text-sm font-bold text-slate-900 uppercase tracking-wider mb-4">
+            Research Areas
+          </h3>
+          <ul class="space-y-2">
+            {professor.data.areas.map((area: string) => (
+              <li class="text-xs font-medium text-slate-700 flex items-start gap-2 bg-slate-50 p-2.5 rounded-lg border border-slate-100">
+                <span class="text-emerald-600 font-bold">✓</span>
+                <span>{area}</span>
+              </li>
+            ))}
+          </ul>
+        </div>
+
+        <div class="bg-gradient-to-br from-slate-900 to-unb-blue rounded-2xl p-6 text-white shadow-sm">
+          <h3 class="text-base font-bold mb-2">Advising & Collaboration</h3>
+          <p class="text-xs text-slate-300 mb-4 leading-relaxed">
+            Interested in pursuing a Ph.D., Master's degree, or scientific research at COMNET? Contact the faculty advisor directly via email.
+          </p>
+          <a
+            href={`mailto:${professor.data.email || 'cic@unb.br'}`}
+            class="block w-full py-2.5 text-center rounded-lg bg-emerald-500 hover:bg-emerald-600 text-slate-950 font-bold text-xs transition-colors"
+          >
+            Get in Touch
+          </a>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</BaseLayout>

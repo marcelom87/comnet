@@ -1,0 +1,108 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import MapEmbed from '../../components/MapEmbed.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const lang = 'en';
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<BaseLayout
+  lang={lang}
+  title="About & Contact | COMNET — CIC / UnB"
+  description="History, research testbeds, location at CIC/EST Building, and contact information for the COMNET Laboratory at University of Brasília."
+>
+  <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
+          {t('about.tag')}
+        </span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
+          {t('about.title')}
+        </h1>
+        <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
+          {t('about.subtitle')}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-16">
+    
+    <!-- Presentation & Infrastructure -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div class="space-y-6">
+        <h2 class="text-3xl font-extrabold text-slate-900">
+          Pioneering Research at the Department of Computer Science
+        </h2>
+        <p class="text-slate-600 leading-relaxed">
+          The <strong>COMNET (Computer Networks Laboratory)</strong> is based in the Department of Computer Science (CIC) at the University of Brasília (UnB). The lab operates at the vital intersection of physical telecommunications infrastructure and computational intelligence.
+        </p>
+        <p class="text-slate-600 leading-relaxed">
+          Our multidisciplinary team of professors, postdocs, Ph.D. candidates, master's students, and undergraduate researchers investigates challenging questions in optimal resource allocation, network function virtualization, open 5G/6G architectures (O-RAN), distributed fault tolerance, and IoT for smart connected communities.
+        </p>
+
+        <div class="grid grid-cols-2 gap-4 pt-2">
+          <div class="p-4 rounded-xl bg-slate-100 border border-slate-200">
+            <div class="text-2xl font-bold text-unb-blue">UnB • CIC</div>
+            <p class="text-xs text-slate-500 mt-1">Graduate Program in Informatics (PPGI)</p>
+          </div>
+          <div class="p-4 rounded-xl bg-slate-100 border border-slate-200">
+            <div class="text-2xl font-bold text-unb-green">FAPDF & CNPq</div>
+            <p class="text-xs text-slate-500 mt-1">Government and industry research grants</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Lab Images -->
+      <div class="space-y-4">
+        <div class="rounded-2xl overflow-hidden border border-slate-200 shadow-md">
+          <img
+            src={`${baseUrl}/images/lab.jpg`}
+            alt="COMNET laboratory testbed and infrastructure"
+            class="w-full h-64 object-cover"
+          />
+        </div>
+        <p class="text-xs text-slate-500 italic text-center">
+          Hardware benches, SDRs, and simulation servers at the CIC/EST Building.
+        </p>
+      </div>
+    </div>
+
+    <!-- Infrastructure & Testbeds Section -->
+    <section class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm">
+      <h3 class="text-2xl font-bold text-slate-900 mb-6">{t('about.infrastructure.title')}</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="p-5 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
+          <div class="text-2xl">🖥️</div>
+          <h4 class="font-bold text-slate-800 text-sm">High-Performance Compute Clusters</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Virtualized environments with support for OpenStack, Kubernetes, Mininet, and large-scale emulation of 5G core and RAN topologies.
+          </p>
+        </div>
+
+        <div class="p-5 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
+          <div class="text-2xl">📡</div>
+          <h4 class="font-bold text-slate-800 text-sm">Software-Defined Radios (SDR)</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            USRP devices and rapid prototyping boards for experimental evaluation of physical layer, MAC protocols, and cognitive radio algorithms.
+          </p>
+        </div>
+
+        <div class="p-5 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
+          <div class="text-2xl">⚡</div>
+          <h4 class="font-bold text-slate-800 text-sm">IoT & Vehicular Testbeds</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Equipment and sensor motes for real-world experimentation with LoRaWAN, ZigBee, WiFi 6/7, and connected vehicle on-board units.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Map & Contact Info -->
+    <MapEmbed lang={lang} />
+
+  </div>
+</BaseLayout>

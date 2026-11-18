@@ -1,4 +1,14 @@
 ---
+import type { Lang } from '../i18n/ui';
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+
+interface Props {
+  lang?: Lang;
+}
+
+const currentUrl = Astro.url;
+const lang = Astro.props.lang || getLangFromUrl(currentUrl);
+const t = useTranslations(lang);
 ---
 
 <div class="bg-white rounded-2xl border border-slate-200 overflow-hidden shadow-sm">
@@ -8,28 +18,40 @@
         📍
       </div>
       <div>
-        <h3 class="text-xl font-bold text-slate-900">Localização do Laboratório</h3>
-        <p class="text-xs text-slate-500">Campus Darcy Ribeiro — Asa Norte, Brasília/DF</p>
+        <h3 class="text-xl font-bold text-slate-900">{t('about.location.title')}</h3>
+        <p class="text-xs text-slate-500">
+          {lang === 'en' ? 'Darcy Ribeiro University Campus — Asa Norte, Brasília/DF, Brazil' : 'Campus Darcy Ribeiro — Asa Norte, Brasília/DF'}
+        </p>
       </div>
     </div>
 
     <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
       <div class="p-4 rounded-xl bg-slate-50 border border-slate-100">
-        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">Prédio</h4>
-        <p class="text-sm font-semibold text-slate-800">CIC / EST — Térreo</p>
-        <p class="text-xs text-slate-500 mt-1">Departamento de Ciência da Computação</p>
+        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">
+          {lang === 'en' ? 'Building' : 'Prédio'}
+        </h4>
+        <p class="text-sm font-semibold text-slate-800">{t('about.location.building')}</p>
+        <p class="text-xs text-slate-500 mt-1">
+          {lang === 'en' ? 'Department of Computer Science' : 'Departamento de Ciência da Computação'}
+        </p>
       </div>
 
       <div class="p-4 rounded-xl bg-slate-50 border border-slate-100">
-        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">Endereço Postal</h4>
+        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">
+          {lang === 'en' ? 'Mailing Address' : 'Endereço Postal'}
+        </h4>
         <p class="text-sm font-semibold text-slate-800">Campus Universitário Darcy Ribeiro</p>
-        <p class="text-xs text-slate-500 mt-1">Asa Norte, Brasília - DF, CEP 70910-900</p>
+        <p class="text-xs text-slate-500 mt-1">
+          {lang === 'en' ? 'Asa Norte, Brasília - DF, 70910-900, Brazil' : 'Asa Norte, Brasília - DF, CEP 70910-900'}
+        </p>
       </div>
 
       <div class="p-4 rounded-xl bg-slate-50 border border-slate-100">
-        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">Contatos Oficiais</h4>
-        <p class="text-sm font-semibold text-slate-800">E-mail: cic@unb.br</p>
-        <p class="text-xs text-slate-500 mt-1">Telefone: +55 (61) 3107-3661</p>
+        <h4 class="text-xs font-bold text-slate-400 uppercase tracking-wider mb-1">
+          {lang === 'en' ? 'Official Contacts' : 'Contatos Oficiais'}
+        </h4>
+        <p class="text-sm font-semibold text-slate-800">Email: cic@unb.br</p>
+        <p class="text-xs text-slate-500 mt-1">Phone: +55 (61) 3107-3661</p>
       </div>
     </div>
   </div>
@@ -37,7 +59,7 @@
   <!-- Google Maps Embed -->
   <div class="w-full h-80 bg-slate-100 relative border-t border-slate-200">
     <iframe
-      title="Mapa de Localização do CIC/EST UnB"
+      title="Google Maps Location CIC/EST UnB"
       src="https://maps.google.com/maps?q=CIC%20UnB%20Brasilia&t=&z=16&ie=UTF8&iwloc=&output=embed"
       class="w-full h-full border-0"
       loading="lazy"
@@ -45,4 +67,3 @@
     ></iframe>
   </div>
 </div>
-

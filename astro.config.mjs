@@ -7,5 +7,12 @@ export default defineConfig({
   base: process.env.ASTRO_BASE || '/comnet',
   integrations: [tailwind()],
   output: 'static',
-  trailingSlash: 'always'
+  trailingSlash: 'always',
+  i18n: {
+    defaultLocale: 'pt',
+    locales: ['pt', 'en'],
+    routing: {
+      prefixDefaultLocale: false
+    }
+  }
 });

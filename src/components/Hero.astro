@@ -1,5 +1,16 @@
 ---
-const baseUrl = import.meta.env.BASE_URL;
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  lang?: Lang;
+}
+
+const currentUrl = Astro.url;
+const lang = Astro.props.lang || getLangFromUrl(currentUrl);
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = lang === 'en' ? `${baseUrl}/en` : baseUrl;
 ---
 
 <section class="relative overflow-hidden bg-gradient-to-br from-slate-900 via-unb-blue-dark to-unb-blue text-white py-20 lg:py-28">
@@ -13,7 +24,7 @@ const baseUrl = import.meta.env.BASE_URL;
       <div class="lg:col-span-7 space-y-6">
         <div class="inline-flex items-center gap-2 px-3 py-1.5 rounded-full bg-emerald-500/20 border border-emerald-400/30 text-emerald-300 text-xs font-semibold uppercase tracking-wider">
           <span class="w-2 h-2 rounded-full bg-emerald-400"></span>
-          Universidade de Brasília • CIC / UnB
+          {t('hero.badge')}
         </div>
 
         <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold tracking-tight leading-tight">
@@ -21,29 +32,29 @@ const baseUrl = import.meta.env.BASE_URL;
         </h1>
 
         <p class="text-xl sm:text-2xl font-light text-slate-200">
-          Laboratório de Redes de Comunicações e Computação Avançada
+          {t('hero.subtitle')}
         </p>
 
         <p class="text-base text-slate-300 leading-relaxed max-w-2xl">
-          Desenvolvendo pesquisa de fronteira em <strong>Redes 5G/6G</strong>, <strong>Softwarização de Redes (SDN/NFV)</strong>, <strong>Internet das Coisas (IoT)</strong>, <strong>Sistemas Distribuídos</strong> e <strong>Inteligência Artificial Aplicada</strong> no Departamento de Ciência da Computação da UnB.
+          {t('hero.description')}
         </p>
 
         <div class="flex flex-wrap gap-4 pt-4">
           <a
-            href={`${baseUrl}professores/`}
+            href={`${prefix}/professores/`}
             class="px-6 py-3.5 rounded-xl font-semibold bg-emerald-500 hover:bg-emerald-600 text-slate-950 transition-all shadow-lg hover:shadow-emerald-500/25 flex items-center gap-2 group"
           >
-            <span>Conhecer Pesquisadores</span>
+            <span>{t('hero.cta.members')}</span>
             <svg class="w-4 h-4 group-hover:translate-x-1 transition-transform" fill="none" stroke="currentColor" viewBox="0 0 24 24">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M14 5l7 7m0 0l-7 7m7-7H3" />
             </svg>
           </a>
 
           <a
-            href={`${baseUrl}projetos/`}
+            href={`${prefix}/projetos/`}
             class="px-6 py-3.5 rounded-xl font-semibold bg-white/10 hover:bg-white/20 text-white border border-white/20 transition-all backdrop-blur-sm"
           >
-            Ver Projetos & Parcerias
+            {t('hero.cta.projects')}
           </a>
         </div>
 
@@ -51,15 +62,15 @@ const baseUrl = import.meta.env.BASE_URL;
         <div class="grid grid-cols-3 gap-4 pt-8 border-t border-slate-700/60 max-w-lg">
           <div>
             <div class="text-2xl sm:text-3xl font-extrabold text-emerald-400">10</div>
-            <div class="text-xs text-slate-400 uppercase tracking-wide">Professores</div>
+            <div class="text-xs text-slate-400 uppercase tracking-wide">{t('hero.stats.professors')}</div>
           </div>
           <div>
             <div class="text-2xl sm:text-3xl font-extrabold text-emerald-400">25+</div>
-            <div class="text-xs text-slate-400 uppercase tracking-wide">Alunos Ativos</div>
+            <div class="text-xs text-slate-400 uppercase tracking-wide">{t('hero.stats.students')}</div>
           </div>
           <div>
             <div class="text-2xl sm:text-3xl font-extrabold text-emerald-400">120+</div>
-            <div class="text-xs text-slate-400 uppercase tracking-wide">Egressos Formados</div>
+            <div class="text-xs text-slate-400 uppercase tracking-wide">{t('hero.stats.alumni')}</div>
           </div>
         </div>
       </div>
@@ -71,14 +82,14 @@ const baseUrl = import.meta.env.BASE_URL;
           <!-- Imagem 1: Lab Real -->
           <div class="relative group rounded-2xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-800">
             <img
-              src={`${baseUrl}images/lab.jpg`}
+              src={`${baseUrl}/images/lab.jpg`}
               alt="Ambiente de Pesquisa e Bancadas do COMNET"
               class="w-full h-56 sm:h-64 object-cover group-hover:scale-105 transition-transform duration-500"
               loading="eager"
             />
             <div class="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-transparent to-transparent flex items-end p-4">
               <span class="text-xs font-medium text-slate-200 bg-slate-900/80 px-2.5 py-1 rounded-md backdrop-blur-sm">
-                Ambiente de Pesquisa & Bancadas de Teste
+                {t('hero.img1.caption')}
               </span>
             </div>
           </div>
@@ -86,14 +97,14 @@ const baseUrl = import.meta.env.BASE_URL;
           <!-- Imagem 2: Lab Futuro / Conectividade -->
           <div class="relative group rounded-2xl overflow-hidden shadow-2xl border border-slate-700 bg-slate-800">
             <img
-              src={`${baseUrl}images/lab_fut.png`}
+              src={`${baseUrl}/images/lab_fut.png`}
               alt="Visão de Futuro e Inovação COMNET"
               class="w-full h-44 sm:h-48 object-cover group-hover:scale-105 transition-transform duration-500"
               loading="lazy"
             />
             <div class="absolute inset-0 bg-gradient-to-t from-slate-950/80 via-transparent to-transparent flex items-end p-4">
               <span class="text-xs font-medium text-emerald-300 bg-slate-900/80 px-2.5 py-1 rounded-md backdrop-blur-sm">
-                Inovação em Redes do Futuro (5G/6G & IBN)
+                {t('hero.img2.caption')}
               </span>
             </div>
           </div>
@@ -104,4 +115,3 @@ const baseUrl = import.meta.env.BASE_URL;
     </div>
   </div>
 </section>
-

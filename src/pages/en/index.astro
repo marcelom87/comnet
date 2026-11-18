@@ -1,0 +1,218 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import Hero from '../../components/Hero.astro';
+import ProfessorCard from '../../components/ProfessorCard.astro';
+import ProjectCard from '../../components/ProjectCard.astro';
+import MapEmbed from '../../components/MapEmbed.astro';
+import { getCollection } from 'astro:content';
+import { useTranslations } from '../../i18n/utils';
+
+const lang = 'en';
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = `${baseUrl}/en`;
+
+// Fetch professors ordered alphabetically by name
+const allProfessores = await getCollection('professores');
+const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'en'));
+
+// Fetch featured projects
+const allProjetos = await getCollection('projetos');
+const featuredProjetos = allProjetos
+  .filter((p) => p.data.featured || p.data.status.includes('andamento'))
+  .slice(0, 4);
+
+const researchLines = [
+  {
+    icon: '📶',
+    title: t('research.line1.title'),
+    desc: t('research.line1.desc')
+  },
+  {
+    icon: '⚡',
+    title: t('research.line2.title'),
+    desc: t('research.line2.desc')
+  },
+  {
+    icon: '🌐',
+    title: t('research.line3.title'),
+    desc: t('research.line3.desc')
+  },
+  {
+    icon: '🤖',
+    title: t('research.line4.title'),
+    desc: t('research.line4.desc')
+  },
+  {
+    icon: '🔒',
+    title: t('research.line5.title'),
+    desc: t('research.line5.desc')
+  },
+  {
+    icon: '💡',
+    title: t('research.line6.title'),
+    desc: t('research.line6.desc')
+  }
+];
+---
+
+<BaseLayout
+  lang={lang}
+  title="COMNET — Computer Networks Laboratory | UnB"
+  description="Conducting cutting-edge research in 5G/6G Networks, Distributed Systems, Softwarization, and Applied AI at the University of Brasília."
+>
+  <Hero lang={lang} />
+
+  <!-- Mission & Vision -->
+  <section class="py-16 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        
+        <!-- Mission Card -->
+        <div class="p-8 rounded-2xl bg-gradient-to-br from-slate-50 to-emerald-50/30 border border-slate-200/80 shadow-sm relative overflow-hidden group">
+          <div class="w-12 h-12 rounded-xl bg-unb-blue text-white flex items-center justify-center text-2xl font-bold mb-4 shadow-sm group-hover:scale-110 transition-transform">
+            🎯
+          </div>
+          <h2 class="text-2xl font-bold text-slate-900 mb-3">{t('mission.title')}</h2>
+          <p class="text-slate-600 leading-relaxed">
+            {t('mission.desc')}
+          </p>
+        </div>
+
+        <!-- Vision Card -->
+        <div class="p-8 rounded-2xl bg-gradient-to-br from-slate-50 to-blue-50/30 border border-slate-200/80 shadow-sm relative overflow-hidden group">
+          <div class="w-12 h-12 rounded-xl bg-unb-green text-white flex items-center justify-center text-2xl font-bold mb-4 shadow-sm group-hover:scale-110 transition-transform">
+            🚀
+          </div>
+          <h2 class="text-2xl font-bold text-slate-900 mb-3">{t('vision.title')}</h2>
+          <p class="text-slate-600 leading-relaxed">
+            {t('vision.desc')}
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Research Lines -->
+  <section class="py-20 bg-slate-50 border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-3xl mx-auto mb-16">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full">
+          {t('research.tag')}
+        </span>
+        <h2 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-3">
+          {t('research.title')}
+        </h2>
+        <p class="text-base text-slate-600 mt-4 leading-relaxed">
+          {t('research.subtitle')}
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {researchLines.map((line) => (
+          <div class="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-500/40 transition-all duration-300">
+            <div class="w-12 h-12 rounded-xl bg-slate-100 flex items-center justify-center text-2xl mb-4">
+              {line.icon}
+            </div>
+            <h3 class="text-lg font-bold text-slate-900 mb-2">
+              {line.title}
+            </h3>
+            <p class="text-sm text-slate-600 leading-relaxed">
+              {line.desc}
+            </p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Featured Projects -->
+  <section class="py-20 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-12">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-unb-blue bg-blue-100 px-3 py-1 rounded-full">
+            {t('projects.tag')}
+          </span>
+          <h2 class="text-3xl font-extrabold text-slate-900 mt-3">
+            {t('projects.title')}
+          </h2>
+          <p class="text-slate-600 mt-2">
+            {t('projects.subtitle')}
+          </p>
+        </div>
+        <a
+          href={`${prefix}/projetos/`}
+          class="mt-4 md:mt-0 inline-flex items-center gap-1.5 text-sm font-bold text-unb-blue hover:text-unb-green transition-colors"
+        >
+          <span>{t('projects.viewAll')}</span>
+          <span>→</span>
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {featuredProjetos.map((proj) => (
+          <ProjectCard
+            lang={lang}
+            slug={proj.slug}
+            title={proj.data.title}
+            period={proj.data.period}
+            coordinator={proj.data.coordinator}
+            funding={proj.data.funding}
+            status={proj.data.status}
+            featured={proj.data.featured}
+            descriptionSnippet={proj.body.substring(0, 160) + '...'}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Faculty / Members Preview -->
+  <section class="py-20 bg-slate-50 border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-12">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full">
+            {t('members.tag')}
+          </span>
+          <h2 class="text-3xl font-extrabold text-slate-900 mt-3">
+            {t('members.title')}
+          </h2>
+          <p class="text-slate-600 mt-2">
+            {t('members.subtitle')}
+          </p>
+        </div>
+        <a
+          href={`${prefix}/professores/`}
+          class="mt-4 md:mt-0 inline-flex items-center gap-1.5 text-sm font-bold text-unb-blue hover:text-unb-green transition-colors"
+        >
+          <span>{t('members.viewAll')}</span>
+          <span>→</span>
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {professores.slice(0, 6).map((prof) => (
+          <ProfessorCard
+            lang={lang}
+            id={prof.slug}
+            name={prof.data.name}
+            role={prof.data.role}
+            email={prof.data.email}
+            lattesUrl={prof.data.lattesUrl}
+            areas={prof.data.areas}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Location Map -->
+  <section class="py-20 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <MapEmbed lang={lang} />
+    </div>
+  </section>
+</BaseLayout>

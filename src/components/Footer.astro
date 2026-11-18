@@ -1,5 +1,16 @@
 ---
-const baseUrl = import.meta.env.BASE_URL;
+import { getLangFromUrl, useTranslations } from '../i18n/utils';
+import type { Lang } from '../i18n/ui';
+
+interface Props {
+  lang?: Lang;
+}
+
+const currentUrl = Astro.url;
+const lang = Astro.props.lang || getLangFromUrl(currentUrl);
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+const prefix = lang === 'en' ? `${baseUrl}/en` : baseUrl;
 const currentYear = new Date().getFullYear();
 ---
 
@@ -15,11 +26,11 @@ const currentYear = new Date().getFullYear();
           </div>
           <div>
             <h3 class="text-white font-bold text-lg">COMNET</h3>
-            <p class="text-xs text-slate-400">Laboratório de Redes de Comunicações</p>
+            <p class="text-xs text-slate-400">{t('footer.about')}</p>
           </div>
         </div>
         <p class="text-sm text-slate-400 leading-relaxed max-w-md">
-          Grupo de pesquisa de excelência dedicado à inovação em redes de comunicação, sistemas distribuídos, 5G/6G, softwarização e inteligência artificial aplicada no Departamento de Ciência da Computação da Universidade de Brasília.
+          {t('footer.desc')}
         </p>
         <div class="flex items-center gap-3 pt-2">
           <span class="inline-flex items-center gap-1.5 px-3 py-1 rounded-full text-xs font-medium bg-slate-800 text-emerald-400 border border-slate-700">
@@ -27,30 +38,38 @@ const currentYear = new Date().getFullYear();
             CIC / UnB
           </span>
           <span class="text-xs text-slate-400">
-            Campus Universitário Darcy Ribeiro
+            Campus Darcy Ribeiro
           </span>
         </div>
       </div>
 
       <!-- Coluna 2: Navegação Rápida -->
       <div>
-        <h4 class="text-white font-semibold text-sm uppercase tracking-wider mb-4">Navegação</h4>
+        <h4 class="text-white font-semibold text-sm uppercase tracking-wider mb-4">
+          {lang === 'en' ? 'Quick Links' : 'Navegação'}
+        </h4>
         <ul class="space-y-2 text-sm">
-          <li><a href={`${baseUrl}`} class="hover:text-emerald-400 transition-colors">Início</a></li>
-          <li><a href={`${baseUrl}professores/`} class="hover:text-emerald-400 transition-colors">Membros & Professores</a></li>
-          <li><a href={`${baseUrl}projetos/`} class="hover:text-emerald-400 transition-colors">Projetos de Pesquisa</a></li>
-          <li><a href={`${baseUrl}alunos/`} class="hover:text-emerald-400 transition-colors">Alunos Ativos & Egressos</a></li>
-          <li><a href={`${baseUrl}sobre/`} class="hover:text-emerald-400 transition-colors">Sobre & Contato</a></li>
+          <li><a href={`${prefix}/`} class="hover:text-emerald-400 transition-colors">{t('nav.home')}</a></li>
+          <li><a href={`${prefix}/professores/`} class="hover:text-emerald-400 transition-colors">{t('nav.members')}</a></li>
+          <li><a href={`${prefix}/projetos/`} class="hover:text-emerald-400 transition-colors">{t('nav.projects')}</a></li>
+          <li><a href={`${prefix}/alunos/`} class="hover:text-emerald-400 transition-colors">{t('nav.students')}</a></li>
+          <li><a href={`${prefix}/sobre/`} class="hover:text-emerald-400 transition-colors">{t('nav.about')}</a></li>
         </ul>
       </div>
 
       <!-- Coluna 3: Localização & Contato -->
       <div>
-        <h4 class="text-white font-semibold text-sm uppercase tracking-wider mb-4">Contato Institucional</h4>
+        <h4 class="text-white font-semibold text-sm uppercase tracking-wider mb-4">
+          {lang === 'en' ? 'Contact Info' : 'Contato Institucional'}
+        </h4>
         <div class="space-y-3 text-sm text-slate-400">
           <p class="flex items-start gap-2">
             <span class="text-emerald-400">📍</span>
-            <span>Prédio CIC/EST, Térreo<br/>Universidade de Brasília (UnB)<br/>Brasília - DF, CEP 70910-900</span>
+            <span>
+              {lang === 'en' 
+                ? 'CIC/EST Building, Ground Floor\nUniversity of Brasília (UnB)\nBrasília - DF, Brazil'
+                : 'Prédio CIC/EST, Térreo\nUniversidade de Brasília (UnB)\nBrasília - DF, CEP 70910-900'}
+            </span>
           </p>
           <p class="flex items-center gap-2">
             <span class="text-emerald-400">✉️</span>
@@ -68,15 +87,14 @@ const currentYear = new Date().getFullYear();
     <!-- Linha de Copyright -->
     <div class="pt-8 border-t border-slate-800 flex flex-col sm:flex-row items-center justify-between gap-4 text-xs text-slate-500">
       <p>
-        © {currentYear} COMNET — Laboratório de Redes de Comunicações • Universidade de Brasília (UnB).
+        © {currentYear} {t('footer.rights')}
       </p>
       <p class="flex items-center gap-2">
-        <span>Desenvolvido com</span>
-        <a href="https://astro.build" target="_blank" rel="noopener noreferrer" class="text-slate-400 hover:text-white font-semibold">Astro.build</a>
+        <span>Powered by</span>
+        <a href="https://astro.build" target="_blank" rel="noopener noreferrer" class="text-slate-400 hover:text-white font-semibold">Astro</a>
         <span>&</span>
         <a href="https://pages.github.com" target="_blank" rel="noopener noreferrer" class="text-slate-400 hover:text-white font-semibold">GitHub Pages</a>
       </p>
     </div>
   </div>
 </footer>
-
