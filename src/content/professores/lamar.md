@@ -3,7 +3,7 @@ name: "Marcus Vinicius Lamar"
 role: "Professor Associado • UnB"
 lattesUrl: "http://lattes.cnpq.br/0125818896954714"
 email: "lamar@unb.br"
-order: 6
+order: 8
 areas:
   - "Processamento Digital de Sinais (DSP)"
   - "Redes Neurais Artificiais e Deep Learning"

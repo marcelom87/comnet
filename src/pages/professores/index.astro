@@ -4,7 +4,7 @@ import ProfessorCard from '../../components/ProfessorCard.astro';
 import { getCollection } from 'astro:content';
 
 const allProfessores = await getCollection('professores');
-const professores = allProfessores.sort((a, b) => a.data.order - b.data.order);
+const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'pt-BR'));
 ---
 
 <BaseLayout

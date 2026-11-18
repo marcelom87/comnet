@@ -3,7 +3,7 @@ name: "Roberto Vito Rodrigues Filho"
 role: "Professor Assistente • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/3150867071308016"
 email: "roberto.filho@unb.br"
-order: 3
+order: 10
 areas:
   - "Sistemas Distribuídos e Computação em Nuvem"
   - "Redes Tolerantes a Atrasos e Desconexões (DTN)"

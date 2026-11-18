@@ -3,7 +3,7 @@ name: "Marcelo Antonio Marotta"
 role: "Professor Adjunto • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/3793781874827385"
 email: "marotta@unb.br"
-order: 1
+order: 6
 areas:
   - "Redes Sem Fio e Móveis (5G/6G)"
   - "Redes Baseadas em Intenção (IBN)"

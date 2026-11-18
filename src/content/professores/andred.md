@@ -3,7 +3,7 @@ name: "André Costa Drummond"
 role: "Professor Associado • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/8525132522308309"
 email: "andred@unb.br"
-order: 2
+order: 1
 areas:
   - "Redes Ópticas e Elásticas (EON)"
   - "Engenharia de Tráfego e Roteamento"

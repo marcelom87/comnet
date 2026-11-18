@@ -3,7 +3,7 @@ name: "Eduardo Adilio Pelinson Alchieri"
 role: "Professor Associado • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/4885132018861296"
 email: "alchieri@unb.br"
-order: 8
+order: 3
 areas:
   - "Sistemas Distribuídos Confiáveis e Tolerância a Falhas"
   - "Consenso Distribuído e Blockchain"

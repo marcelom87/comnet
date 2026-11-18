@@ -3,7 +3,7 @@ name: "Priscila América Solís Mendez Barreto"
 role: "Professora Associada • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/6544098578171957"
 email: "mendez@unb.br"
-order: 7
+order: 9
 areas:
   - "Qualidade de Serviço (QoS) e QoE"
   - "Segurança e Gerenciamento de Redes"

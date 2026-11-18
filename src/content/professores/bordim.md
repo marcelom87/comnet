@@ -3,7 +3,7 @@ name: "Jacir Luiz Bordim"
 role: "Professor Associado • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/8594325955153756"
 email: "bordim@unb.br"
-order: 9
+order: 5
 areas:
   - "Algoritmos Paralelos e Distribuídos"
   - "Redes Sem Fio e Redes de Sensores Ad Hoc"

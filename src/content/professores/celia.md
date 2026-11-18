@@ -3,7 +3,7 @@ name: "Célia Ghedini Ralha"
 role: "Professora Titular • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/5632722847264046"
 email: "ghedini@unb.br"
-order: 5
+order: 2
 areas:
   - "Inteligência Artificial e Sistemas Multiagentes"
   - "Sistemas Baseados em Conhecimento"
