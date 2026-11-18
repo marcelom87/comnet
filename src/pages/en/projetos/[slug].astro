@@ -3,7 +3,7 @@ import { getCollection } from 'astro:content';
 import BaseLayout from '../../../layouts/BaseLayout.astro';
 
 export async function getStaticPaths() {
-  const projetos = await getCollection('projetos');
+  const projetos = await getCollection('projetos_en');
   return projetos.map((projeto) => ({
     params: { slug: projeto.slug },
     props: { projeto },

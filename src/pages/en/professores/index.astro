@@ -7,7 +7,7 @@ import { useTranslations } from '../../../i18n/utils';
 const lang = 'en';
 const t = useTranslations(lang);
 
-const allProfessores = await getCollection('professores');
+const allProfessores = await getCollection('professores_en');
 const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'en'));
 ---
 

@@ -13,11 +13,11 @@ const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 const prefix = `${baseUrl}/en`;
 
 // Fetch professors ordered alphabetically by name
-const allProfessores = await getCollection('professores');
+const allProfessores = await getCollection('professores_en');
 const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'en'));
 
 // Fetch featured projects
-const allProjetos = await getCollection('projetos');
+const allProjetos = await getCollection('projetos_en');
 const featuredProjetos = allProjetos
   .filter((p) => p.data.featured || p.data.status.includes('andamento'))
   .slice(0, 4);

@@ -7,7 +7,7 @@ import { useTranslations } from '../../../i18n/utils';
 const lang = 'en';
 const t = useTranslations(lang);
 
-const allProjetos = await getCollection('projetos');
+const allProjetos = await getCollection('projetos_en');
 
 const projetos = allProjetos.sort((a, b) => {
   const aOngoing = a.data.status.includes('andamento') || a.data.period.includes('Atual') ? 1 : 0;
