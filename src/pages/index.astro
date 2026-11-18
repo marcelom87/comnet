@@ -1,0 +1,212 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import Hero from '../components/Hero.astro';
+import ProfessorCard from '../components/ProfessorCard.astro';
+import ProjectCard from '../components/ProjectCard.astro';
+import MapEmbed from '../components/MapEmbed.astro';
+import { getCollection } from 'astro:content';
+
+const baseUrl = import.meta.env.BASE_URL;
+
+// Fetch professors ordered by custom order
+const allProfessores = await getCollection('professores');
+const professores = allProfessores.sort((a, b) => a.data.order - b.data.order);
+
+// Fetch featured projects
+const allProjetos = await getCollection('projetos');
+const featuredProjetos = allProjetos
+  .filter((p) => p.data.featured || p.data.status.includes('andamento'))
+  .slice(0, 4);
+
+const researchLines = [
+  {
+    icon: '📶',
+    title: 'Redes Sem Fio, 5G & 6G',
+    desc: 'Arquiteturas C-RAN/O-RAN, alocação de recursos de rádio, computação em nuvem na borda e comunicação de ultra-baixa latência.'
+  },
+  {
+    icon: '⚡',
+    title: 'Softwarização de Redes (SDN/NFV)',
+    desc: 'Programabilidade de planos de dados, virtualização de funções de rede, orquestração de fatiamento de rede (Network Slicing).'
+  },
+  {
+    icon: '🌐',
+    title: 'Internet das Coisas & Cidades Inteligentes',
+    desc: 'Protocolos de comunicação para IoT, redes de sensores sem fio, cidades inteligentes e redes veiculares (VANETs).'
+  },
+  {
+    icon: '🤖',
+    title: 'Redes Baseadas em Intenção & IA',
+    desc: 'Inteligência Artificial e Aprendizado por Reforço aplicados ao gerenciamento autônomo e preditivo de infraestruturas de rede.'
+  },
+  {
+    icon: '🔒',
+    title: 'Sistemas Distribuídos & Segurança',
+    desc: 'Tolerância a falhas, algoritmos de consenso, tecnologia blockchain, privacidade e mitigação de ataques em redes.'
+  },
+  {
+    icon: '💡',
+    title: 'Redes Ópticas & Modelagem',
+    desc: 'Redes ópticas elásticas (EON), engenharia de tráfego, simulação em larga escala e algoritmos de otimização de rotas.'
+  }
+];
+---
+
+<BaseLayout
+  title="COMNET — Laboratório de Redes de Comunicações | UnB"
+  description="Pesquisa de ponta em Redes 5G/6G, Sistemas Distribuídos, Softwarização e Inteligência Artificial no Departamento de Ciência da Computação da UnB."
+>
+  <!-- Hero Section com Imagens do Laboratório -->
+  <Hero />
+
+  <!-- Missão & Visão -->
+  <section class="py-16 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        
+        <!-- Card Missão -->
+        <div class="p-8 rounded-2xl bg-gradient-to-br from-slate-50 to-emerald-50/30 border border-slate-200/80 shadow-sm relative overflow-hidden group">
+          <div class="w-12 h-12 rounded-xl bg-unb-blue text-white flex items-center justify-center text-2xl font-bold mb-4 shadow-sm group-hover:scale-110 transition-transform">
+            🎯
+          </div>
+          <h2 class="text-2xl font-bold text-slate-900 mb-3">Nossa Missão</h2>
+          <p class="text-slate-600 leading-relaxed">
+            Produzir pesquisa científica e inovação tecnológica de padrão internacional nas áreas de redes de computadores e sistemas distribuídos, formando recursos humanos qualificados em níveis de graduação e pós-graduação capazes de liderar transformações na academia e na indústria.
+          </p>
+        </div>
+
+        <!-- Card Visão -->
+        <div class="p-8 rounded-2xl bg-gradient-to-br from-slate-50 to-blue-50/30 border border-slate-200/80 shadow-sm relative overflow-hidden group">
+          <div class="w-12 h-12 rounded-xl bg-unb-green text-white flex items-center justify-center text-2xl font-bold mb-4 shadow-sm group-hover:scale-110 transition-transform">
+            🚀
+          </div>
+          <h2 class="text-2xl font-bold text-slate-900 mb-3">Nossa Visão</h2>
+          <p class="text-slate-600 leading-relaxed">
+            Consolidar o COMNET como um centro de excelência e referência nacional e internacional no desenvolvimento das redes do futuro (6G, redes autônomas e IBN), fomentando parcerias estratégicas com órgãos governamentais, agências de fomento e o setor produtivo.
+          </p>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- Linhas de Pesquisa -->
+  <section class="py-20 bg-slate-50 border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-3xl mx-auto mb-16">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full">
+          Áreas de Investigação
+        </span>
+        <h2 class="text-3xl sm:text-4xl font-extrabold text-slate-900 mt-3">
+          Linhas de Pesquisa Estratégicas
+        </h2>
+        <p class="text-base text-slate-600 mt-4 leading-relaxed">
+          Nossas frentes de pesquisa cobrem desde a camada física e óptica até inteligência artificial e segurança cibernética em larga escala.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+        {researchLines.map((line) => (
+          <div class="p-6 rounded-2xl bg-white border border-slate-200 shadow-sm hover:shadow-md hover:border-emerald-500/40 transition-all duration-300">
+            <div class="w-12 h-12 rounded-xl bg-slate-100 flex items-center justify-center text-2xl mb-4">
+              {line.icon}
+            </div>
+            <h3 class="text-lg font-bold text-slate-900 mb-2">
+              {line.title}
+            </h3>
+            <p class="text-sm text-slate-600 leading-relaxed">
+              {line.desc}
+            </p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Projetos em Destaque (Incluindo PROFISSA) -->
+  <section class="py-20 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-12">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-unb-blue bg-blue-100 px-3 py-1 rounded-full">
+            Inovação & Financiamento
+          </span>
+          <h2 class="text-3xl font-extrabold text-slate-900 mt-3">
+            Projetos em Destaque
+          </h2>
+          <p class="text-slate-600 mt-2">
+            Projetos financiados por FAPDF, CNPq, RNP e parceiros industriais.
+          </p>
+        </div>
+        <a
+          href={`${baseUrl}projetos/`}
+          class="mt-4 md:mt-0 inline-flex items-center gap-1.5 text-sm font-bold text-unb-blue hover:text-unb-green transition-colors"
+        >
+          <span>Ver todos os projetos</span>
+          <span>→</span>
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {featuredProjetos.map((proj) => (
+          <ProjectCard
+            slug={proj.slug}
+            title={proj.data.title}
+            period={proj.data.period}
+            coordinator={proj.data.coordinator}
+            funding={proj.data.funding}
+            status={proj.data.status}
+            featured={proj.data.featured}
+            descriptionSnippet={proj.body.substring(0, 160) + '...'}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Corpo Docente / Professores -->
+  <section class="py-20 bg-slate-50 border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex flex-col md:flex-row md:items-end justify-between mb-12">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full">
+            Corpo Docente
+          </span>
+          <h2 class="text-3xl font-extrabold text-slate-900 mt-3">
+            Professores Pesquisadores
+          </h2>
+          <p class="text-slate-600 mt-2">
+            Docentes e orientadores credenciados no Departamento de Ciência da Computação da UnB.
+          </p>
+        </div>
+        <a
+          href={`${baseUrl}professores/`}
+          class="mt-4 md:mt-0 inline-flex items-center gap-1.5 text-sm font-bold text-unb-blue hover:text-unb-green transition-colors"
+        >
+          <span>Ver todos os membros</span>
+          <span>→</span>
+        </a>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {professores.slice(0, 6).map((prof) => (
+          <ProfessorCard
+            id={prof.slug}
+            name={prof.data.name}
+            role={prof.data.role}
+            email={prof.data.email}
+            lattesUrl={prof.data.lattesUrl}
+            areas={prof.data.areas}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Seção de Localização e Contato -->
+  <section class="py-20 bg-white">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <MapEmbed />
+    </div>
+  </section>
+</BaseLayout>

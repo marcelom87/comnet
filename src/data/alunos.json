@@ -1,0 +1,1022 @@
+{
+  "active": [
+    {
+      "name": "Alessandro Cordeiro de Lima",
+      "advisor": "Eduardo Adilio Pelinson Alchieri",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "Alexandro de Oliveria Paula",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "Amauri Dorneles Otto",
+      "advisor": "Eduardo Adilio Pelinson Alchieri",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Andher Paulo Capanema Santana",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Ângela Brígida Albarello",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "Caio Franco Porto",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Graduação",
+      "title": ""
+    },
+    {
+      "name": "Carlos Joel Tavares da Silva",
+      "advisor": "Célia Ghedini Ralha",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "Dissertação (Mestrado em Ciências da Informação) -\nUniversidade de Brasília",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Dissertação (Mestrado em Computação Aplicada) -\nUniversidade de Brasília",
+      "advisor": "Marcos Fagundes Caetano",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Dissertação (Mestrado em Informática) - Universidade de\nBrasília",
+      "advisor": "Célia Ghedini Ralha",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "ERASMO RIBEIRO DE LIMA",
+      "advisor": "Marcos Fagundes Caetano",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Gabriel de Carvalho Ferreira",
+      "advisor": "Eduardo Adilio Pelinson Alchieri",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "Gabriel Faustino Lima da Rocha",
+      "advisor": "Eduardo Adilio Pelinson Alchieri",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Guilherme Mantovani Oliveira",
+      "advisor": "Priscila América Solís Mendez Barreto",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Heitor Gomes Pereira",
+      "advisor": "Marcos Fagundes Caetano",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "João Batista Rodrigues Fonseca",
+      "advisor": "Marcos Fagundes Caetano",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "João Felipe Knoller Marques",
+      "advisor": "Célia Ghedini Ralha",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Laiana Kaene Carvalho Barbosa",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Iniciação Científica",
+      "title": ""
+    },
+    {
+      "name": "Leonardo Alves Riether",
+      "advisor": "Marcus Vinicius Lamar",
+      "level": "Graduação",
+      "title": ""
+    },
+    {
+      "name": "Letícia Machado Magalhães",
+      "advisor": "Célia Ghedini Ralha",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Lucas Vasconcelos de Morais",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "Marcella Queiroz de Castro",
+      "advisor": "Célia Ghedini Ralha",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "MARCELO DOS SANTOS",
+      "advisor": "Priscila América Solís Mendez Barreto",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "MARCOS JOSÉ DOS SANTOS NETO",
+      "advisor": "Eduardo Adilio Pelinson Alchieri",
+      "level": "Doutorado",
+      "title": ""
+    },
+    {
+      "name": "NATALIA SOUZA DE JESUS",
+      "advisor": "Priscila América Solís Mendez Barreto",
+      "level": "Mestrado",
+      "title": ""
+    },
+    {
+      "name": "Ruan Petrus Alves Leite",
+      "advisor": "Marcus Vinicius Lamar",
+      "level": "Graduação",
+      "title": ""
+    }
+  ],
+  "alumni": {
+    "doutorado": [
+      {
+        "name": "Liriam Michi Enamoto",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Doutorado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Lucas de Melo Guimarães",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Doutorado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Paulo Roberto da Paz Ferraz Santos",
+        "advisor": "André Costa Drummond",
+        "level": "Doutorado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Pedro Pinheiro Cardoso",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Doutorado",
+        "year": 2024,
+        "title": ""
+      }
+    ],
+    "mestrado": [
+      {
+        "name": "Alessandro Cordeiro de Lima",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Aurea Fernanda de Brito Loiloa Aguiar Fernandes",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "az na Infraestrutura de TI da Universidade de Brasília",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Bruna Michelly de Oliveira Silva Cordeiro",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Claudio Xavier de Oliveira",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Computação) - Universidade de Brasília,",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Cristhian Albert Celestino Cortez",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Cristoffer Silva Leite",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "da Administração Pública Federal",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Daniel Almendra",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Danilo Moura Pereira",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Dissertação (Mestrado em Ciência da Computação) -\nUniversidade de Brasília, Coordenação de Aperfeiçoamento de\nPessoal de Nível Superior",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Dissertação (Mestrado em Engenharia Elétrica) -\nUniversidade de Brasília,",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Dissertação (Mestrado em Informática) - Universidade de\nBrasília,",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Dissertação (Mestrado em Informática) - Universidade de\nBrasília, Coordenação de Aperfeiçoamento de Pessoal de Nível\nSuperior",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Dissertação (Mestrado em Mestrado em Informática) -\nUniversidade de Brasília,",
+        "advisor": "Célia Ghedini Ralha",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Dissertação (Mestrado em Pós-Graduação em Informática) -\nUniversidade de Brasília,",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Eduardo Schnell e Schühli",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Felipe de Moraes Modesto",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Férias",
+        "advisor": "Célia Ghedini Ralha",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Gabriel Irribarem Soares Ruas",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Guilherme Holsbach Costa",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Humprey Corrêa da Fonseca",
+        "advisor": "Célia Ghedini Ralha",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Juarez Paulino da Silva Júnior",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Juliano João Bazzo",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Kaio Alexandre da Silva",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Leia Sousa de Sousa",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Luan Borges dos Santos",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Lucas Rodrigues Costa",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Marcelo Nascimento dos Santos",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Marcelo Tupaíba Nunez Alves",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Marcos José dos Santos Neto",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Marcos Vinicius de Paula Pinto",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Maurílio Humberto Rodrigues Miranda",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Mayra de Moraes Campos",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Monografia",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Nacional de Desenvolvimento Científico e Tecnológico",
+        "advisor": "Célia Ghedini Ralha",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "NATHANIEL SIMCH DE MORAIS",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Nivando Araujo Cavalcante",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Palton Lima Alves",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Paulo Cesar Prandel",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Paulo Magno de Melo Rodrigues Alves",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Rafael Henrique Nogalha de Lima",
+        "advisor": "Célia Ghedini Ralha",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Rodrigo Otávio Ribeiro Hagstrom",
+        "advisor": "André Costa Drummond",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Simei Gomes Wysoski",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Sistemas Mecatrônicos) - Universidade de Brasília,",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Ticiano Augusto Callai Bragatto",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Universidade de Brasília,",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Vitor Coimbra de Oliveira",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Mestrado",
+        "year": 2024,
+        "title": ""
+      }
+    ],
+    "graduacao": [
+      {
+        "name": "(Curso de curta duração ministrado/Outra)",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "(Graduação em Ciência da Computação) - Universidade de\nBrasília",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Alexandre Mitsuru Kaihara",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Alon Mota Lourenço",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Antônio Vinícius Silva Dutra",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "ARTHUR DE SÁ ANTERO",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Bernardo Pandolfi Costa",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Branco, Guilherme David Pala e Samuel Vinícius Vieira",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Camila Feitosa Rêgo",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Carlos Gil Martins da Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Conclusão de Curso",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "DA SILVA, LUIZ ; MARQUEZ-BARJA, JOHANN M",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Daniel Sundfeld Lima",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Éden de Lucas Castelar Vale Medeiro",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Emme Costa de Menezes",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Gabriel Henrique Rosa Oswaldo",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Guilherme Henrique Medeiros Fernandes",
+        "advisor": "André Costa Drummond",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Gulherme Silva Souza",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "GUSTAVO FALCOMER PONTES VIEGAS",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Gustavo Fernandes de Almeida",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Humbeto H Vieira",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Instrumentalizada com Sensores IMU",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "João Paulo Souza do Espírito Santos",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "João Victor Bohrer Munhoz",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Jonas Soares Rangel",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Jonatas Rocha de Paiva",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Jose B C S Borges e Ricardo Barbosa Roriz",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Juliano Balçante Pereira",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "LEITE, C",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Luan Mendes Gonçalves Freitas",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Lucas Avelino de Lima Jacinto",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Lucas Campos Jorge",
+        "advisor": "André Costa Drummond",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Lucas de Souza Dantas Amorim Araújo",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Luine Ito Madeira de Ley",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Luiz Antônio da Silva",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Luiz Carlos da Silva Neto Vartuli",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Manuela Matos Correia de Souza",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Marcos Fagundes Caetano; Marcelo Antonio Marotta",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "MAROTTA, M",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Mateus Antunes Braga",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Mikael Marques Mello",
+        "advisor": "André Costa Drummond",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "NATHALIA PIMENTEL DE ASSIS",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Nathan Ferraz da Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Nicole Nagel e Ruzbeh Shokranian",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Patente: Programa de Computador",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Paulo Roberto Dias Vieira",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Paulo Victor Gonçalves Farias",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Pedro Rogério Vieira Dias",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Pereira, Raphael Rodrigues Ferreira e Pedro Henrique Lima",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Rafael Amaral Soares",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Renato A",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Renato Silva Dias",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "ROCHA FILHO, G",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "ROCHA FILHO, GERALDO P",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "ROCHA FILHO, GERALDO P; MENEGUETTE, R",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "RODRIGUES FILHO, R",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Samuel de Souza Teixeira Junior",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "SERRANO, ANDRÉ L",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "level": "Iniciação Científica",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Silas Souza Fernandes",
+        "advisor": "Marcus Vinicius Lamar",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Thays Cistina Costa de Araújo e Márcio Vinícius de Moura Rib",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Thiago Rocha de Paiva",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Thiago Santaguida Magalhães de Souza",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Thiago Tokarski",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Thiago Xavier da Silva",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Tomaz Ferreira de Aguiar Neto",
+        "advisor": "André Costa Drummond",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Trabalho de Conclusão de Curso",
+        "advisor": "Marcelo Antonio Marotta",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Túlio Abner de Lima",
+        "advisor": "Jacir Luiz Bordim",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      },
+      {
+        "name": "Universidade de Brasília",
+        "advisor": "Marcos Fagundes Caetano",
+        "level": "Graduação",
+        "year": 2024,
+        "title": ""
+      }
+    ]
+  }
+}

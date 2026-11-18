@@ -1,0 +1,55 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import ProjectCard from '../../components/ProjectCard.astro';
+import { getCollection } from 'astro:content';
+
+const allProjetos = await getCollection('projetos');
+
+// Sort: ongoing/recent first, then chronological
+const projetos = allProjetos.sort((a, b) => {
+  const aOngoing = a.data.status.includes('andamento') || a.data.period.includes('Atual') ? 1 : 0;
+  const bOngoing = b.data.status.includes('andamento') || b.data.period.includes('Atual') ? 1 : 0;
+  if (bOngoing !== aOngoing) return bOngoing - aOngoing;
+  return b.data.period.localeCompare(a.data.period);
+});
+---
+
+<BaseLayout
+  title="Projetos de Pesquisa | COMNET — CIC / UnB"
+  description="Projetos de pesquisa científica e tecnológica desenvolvidos pelos pesquisadores do Laboratório COMNET da Universidade de Brasília."
+>
+  <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
+          P&D e Inovação
+        </span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
+          Projetos de Pesquisa
+        </h1>
+        <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
+          Iniciativas financiadas por órgãos de fomento (FAPDF, CNPq, CAPES, RNP e MCTI) e convênios industriais nas áreas de redes 5G/6G, redes elásticas, cidades inteligentes e aprendizado de máquina.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <section class="py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
+        {projetos.map((proj) => (
+          <ProjectCard
+            slug={proj.slug}
+            title={proj.data.title}
+            period={proj.data.period}
+            coordinator={proj.data.coordinator}
+            funding={proj.data.funding}
+            status={proj.data.status}
+            featured={proj.data.featured}
+            descriptionSnippet={proj.body.substring(0, 160) + '...'}
+          />
+        ))}
+      </div>
+    </div>
+  </section>
+</BaseLayout>

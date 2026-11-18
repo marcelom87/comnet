@@ -1,0 +1,95 @@
+---
+const baseUrl = import.meta.env.BASE_URL;
+const pathname = Astro.url.pathname;
+
+const navLinks = [
+  { name: 'Início', href: `${baseUrl}` },
+  { name: 'Membros', href: `${baseUrl}professores/` },
+  { name: 'Projetos', href: `${baseUrl}projetos/` },
+  { name: 'Alunos', href: `${baseUrl}alunos/` },
+  { name: 'Sobre & Contato', href: `${baseUrl}sobre/` },
+];
+---
+
+<header class="sticky top-0 z-50 bg-white/95 backdrop-blur-md border-b border-slate-200 shadow-sm transition-all">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+    <div class="flex items-center justify-between h-20">
+      
+      <!-- Logo COMNET + UnB -->
+      <a href={baseUrl} class="flex items-center gap-3 group">
+        <div class="w-11 h-11 rounded-xl bg-gradient-to-br from-unb-blue to-unb-green flex items-center justify-center text-white font-bold text-xl shadow-md group-hover:scale-105 transition-transform">
+          CN
+        </div>
+        <div>
+          <div class="flex items-center gap-2">
+            <span class="text-2xl font-black tracking-tight text-unb-blue group-hover:text-unb-green transition-colors">
+              COMNET
+            </span>
+            <span class="text-xs font-semibold px-2 py-0.5 rounded-full bg-emerald-100 text-unb-green">
+              CIC / UnB
+            </span>
+          </div>
+          <p class="text-xs text-slate-500 font-medium tracking-wide">
+            Computer Networks Laboratory
+          </p>
+        </div>
+      </a>
+
+      <!-- Desktop Navigation -->
+      <nav class="hidden md:flex items-center gap-1">
+        {navLinks.map((link) => {
+          const isActive = pathname === link.href || (link.href !== baseUrl && pathname.startsWith(link.href));
+          return (
+            <a
+              href={link.href}
+              class={`px-4 py-2 rounded-lg text-sm font-semibold transition-all ${
+                isActive
+                  ? 'bg-unb-blue text-white shadow-sm'
+                  : 'text-slate-700 hover:text-unb-blue hover:bg-slate-100'
+              }`}
+            >
+              {link.name}
+            </a>
+          );
+        })}
+      </nav>
+
+      <!-- Mobile Menu Button -->
+      <div class="md:hidden flex items-center">
+        <button
+          type="button"
+          id="mobile-menu-btn"
+          class="p-2 rounded-lg text-slate-600 hover:text-unb-blue hover:bg-slate-100 focus:outline-none focus:ring-2 focus:ring-unb-blue"
+          aria-label="Abrir menu"
+        >
+          <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h16M4 18h16" />
+          </svg>
+        </button>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Mobile Dropdown -->
+  <div id="mobile-menu" class="hidden md:hidden border-t border-slate-200 bg-white px-4 pt-2 pb-4 space-y-1 shadow-lg">
+    {navLinks.map((link) => (
+      <a
+        href={link.href}
+        class="block px-3 py-2.5 rounded-lg text-base font-semibold text-slate-700 hover:text-unb-blue hover:bg-slate-50"
+      >
+        {link.name}
+      </a>
+    ))}
+  </div>
+</header>
+
+<script>
+  const btn = document.getElementById('mobile-menu-btn');
+  const menu = document.getElementById('mobile-menu');
+  if (btn && menu) {
+    btn.addEventListener('click', () => {
+      menu.classList.toggle('hidden');
+    });
+  }
+</script>

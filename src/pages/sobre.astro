@@ -1,0 +1,103 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import MapEmbed from '../components/MapEmbed.astro';
+const baseUrl = import.meta.env.BASE_URL;
+---
+
+<BaseLayout
+  title="Sobre & Contato | COMNET — CIC / UnB"
+  description="Histórico, infraestrutura, localização no Prédio CIC/EST e contatos do Laboratório COMNET da Universidade de Brasília."
+>
+  <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
+          Institucional & Contato
+        </span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
+          Sobre o Laboratório COMNET
+        </h1>
+        <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
+          Centro de excelência em pesquisa, ensino e desenvolvimento tecnológico em redes de comunicação no coração do Centro-Oeste brasileiro.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-16">
+    
+    <!-- Apresentação & Infraestrutura -->
+    <div class="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
+      <div class="space-y-6">
+        <h2 class="text-3xl font-extrabold text-slate-900">
+          Pesquisa de Fronteira no Departamento de Ciência da Computação
+        </h2>
+        <p class="text-slate-600 leading-relaxed">
+          O <strong>COMNET (Computer Networks Laboratory)</strong> está sediado no Departamento de Ciência da Computação (CIC) da Universidade de Brasília (UnB). O laboratório atua fortemente na intersecção entre infraestruturas físicas de telecomunicações e inteligência computacional.
+        </p>
+        <p class="text-slate-600 leading-relaxed">
+          Nossa equipe multidisciplinar de professores, pós-doutorandos, doutorandos, mestrandos e estudantes de graduação investiga problemas desafiadores em alocação ótima de recursos, virtualização de funções de rede, arquiteturas abertas 5G/6G (O-RAN), tolerância a falhas e Internet das Coisas aplicada a cidades inteligentes.
+        </p>
+
+        <div class="grid grid-cols-2 gap-4 pt-2">
+          <div class="p-4 rounded-xl bg-slate-100 border border-slate-200">
+            <div class="text-2xl font-bold text-unb-blue">UnB • CIC</div>
+            <p class="text-xs text-slate-500 mt-1">Programa de Pós-Graduação em Informática (PPGI)</p>
+          </div>
+          <div class="p-4 rounded-xl bg-slate-100 border border-slate-200">
+            <div class="text-2xl font-bold text-unb-green">FAPDF & CNPq</div>
+            <p class="text-xs text-slate-500 mt-1">Parcerias com agências e convênios industriais</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Imagens do Laboratório -->
+      <div class="space-y-4">
+        <div class="rounded-2xl overflow-hidden border border-slate-200 shadow-md">
+          <img
+            src={`${baseUrl}images/lab.jpg`}
+            alt="Infraestrutura e bancadas de testes do COMNET"
+            class="w-full h-64 object-cover"
+          />
+        </div>
+        <p class="text-xs text-slate-500 italic text-center">
+          Bancadas de experimentos práticos e servidores de simulação no Prédio CIC/EST.
+        </p>
+      </div>
+    </div>
+
+    <!-- Seção de Infraestrutura de Testbeds -->
+    <section class="bg-white rounded-2xl border border-slate-200 p-8 shadow-sm">
+      <h3 class="text-2xl font-bold text-slate-900 mb-6">Infraestrutura e Testbeds</h3>
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+        <div class="p-5 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
+          <div class="text-2xl">🖥️</div>
+          <h4 class="font-bold text-slate-800 text-sm">Servidores de Alto Desempenho</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Ambientes virtualizados com suporte a OpenStack, Kubernetes, Mininet e emulação de redes 5G core e RAN em larga escala.
+          </p>
+        </div>
+
+        <div class="p-5 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
+          <div class="text-2xl">📡</div>
+          <h4 class="font-bold text-slate-800 text-sm">Rádios Definidos por Software (SDR)</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Dispositivos USRP e placas de prototipagem para avaliação prática de protocolos da camada física, MAC e algoritmos cognitivos.
+          </p>
+        </div>
+
+        <div class="p-5 rounded-xl bg-slate-50 border border-slate-100 space-y-2">
+          <div class="text-2xl">⚡</div>
+          <h4 class="font-bold text-slate-800 text-sm">Bancadas IoT & Redes Veiculares</h4>
+          <p class="text-xs text-slate-600 leading-relaxed">
+            Equipamentos e sensores para experimentos práticos com LoRaWAN, ZigBee, WiFi 6/7 e unidades de bordo para cidades inteligentes.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- Mapa & Informações de Contato -->
+    <MapEmbed />
+
+  </div>
+</BaseLayout>
