@@ -2,7 +2,7 @@
 name: "Geraldo Pereira Rocha Filho"
 role: "Research Professor • COMNET / UnB"
 lattesUrl: "http://lattes.cnpq.br/7417585446064168"
-email: "geraldo.filho@unb.br"
+email: "geraldo.rocha@uesb.edu.br"
 order: 4
 areas:
   - "Smart Cities & Urban Computing"

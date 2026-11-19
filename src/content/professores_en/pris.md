@@ -2,7 +2,7 @@
 name: "Priscila América Solís Mendez Barreto"
 role: "Associate Professor • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/6544098578171957"
-email: "mendez@unb.br"
+email: "pris@unb.br"
 order: 9
 areas:
   - "Quality of Service (QoS) & Quality of Experience (QoE)"

@@ -2,7 +2,7 @@
 name: "Marcos Fagundes Caetano"
 role: "Associate Professor • CIC/UnB"
 lattesUrl: "http://lattes.cnpq.br/4932411097202754"
-email: "caetano@unb.br"
+email: "mfcaetano@unb.br"
 order: 7
 areas:
   - "Large-Scale Network Simulation"
