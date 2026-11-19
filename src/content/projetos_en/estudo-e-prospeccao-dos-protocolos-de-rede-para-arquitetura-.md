@@ -1,8 +1,8 @@
 ---
-title: "Estudo e Prospecção dos Protocolos de Rede para Arquitetura IPv4 e IPv6"
+title: "Study and Prospect of Network Protocols for IPv4 and IPv6 Architecture"
 period: "2011 - 2012"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-O estudo proposto neste documento visa prover elementos que servirão de base para o melhoramento tecnológico da família de roteadores desenvolvidos pela Digitel S/A. Este trabalho também tem como objetivo a continuidade do convênio firmado, desde 2009, entre as duas instituições, bem como, a continuação no processo de formação de profissionais nesta área aplicada de Computer Networks..
+The study proposed in this document aims to provide elements that will serve as a basis for the technological improvement of the family of routers developed by Digitel S/A. This work also aims to continue the agreement signed since 2009 between the two institutions, as well as to continue the process of training professionals in this applied area of ​​computer networks.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2011 - 2012
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

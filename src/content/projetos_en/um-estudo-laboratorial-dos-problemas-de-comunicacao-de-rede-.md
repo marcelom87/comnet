@@ -1,8 +1,8 @@
 ---
-title: "Um estudo laboratorial dos problemas de comunicação de rede associados aos serviços de monitoramento de saúde e tecnologias aal (ambient assisted living)"
+title: "A laboratory study of network communication problems associated with health monitoring services and aal (ambient assisted living) technologies"
 period: "2009 - 2011"
 coordinator: "Jacir Luiz Bordim"
-funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Financial Grant"
+funding: "Federal District Research Support Foundation - Financial aid"
 status: "Completed"
 featured: false
 professors:
@@ -10,18 +10,18 @@ professors:
   - "Marcos Fagundes Caetano"
   - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
 ---
 
 ## Project Overview
 
-Este projeto propõe o estudo dos problemas de comunicação de rede associados aos serviços de monitoramento de pacientes e tecnologias AAL (Ambient Assisted Living), através da implementação de um laboratório físico e um ambiente de simulação, para essas tecnologias, o qual permitirá a criação de grupos de competência, no distrito federal, nos serviços de monitoramento de pacientes e tecnologias AAL. Considerando que o Brasil em 2025 será o país com a 6a população idosa do mundo, o uso de tecnologias de monitoramento e AAL, que permitam o acompanhamento dessa população, resultará em economia de recursos ? com a redução nos chamados indevidos para resgate e um melhor acompanhamento do paciente, evitando assim, o agravamento de problemas ? pelo Sistema de Saúde Brasileiro e desta forma, contribuindo para uma melhora na qualidade de vida da população idosa..
+This project proposes the study of network communication problems associated with patient monitoring services and AAL technologies (Ambient Assisted Living), through the implementation of a physical laboratory and a simulation environment, for these technologies, which will allow the creation of competence groups, in the federal district, in patient monitoring services and AAL technologies. Considering that Brazil in 2025 will be the country with the 6th largest elderly population in the world, will the use of monitoring and AAL technologies, which allow the monitoring of this population, result in resource savings? with a reduction in inappropriate calls for rescue and better patient monitoring, thus avoiding the worsening of problems? by the Brazilian Health System and in this way, contributing to an improvement in the quality of life of the elderly population.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2009 - 2011
-- **Sponsors:** Fundação de Apoio à Pesquisa do Distrito Federal - Financial Grant
+- **Sponsors:** Federal District Research Support Foundation - Financial aid
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim, Marcos Fagundes Caetano, Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

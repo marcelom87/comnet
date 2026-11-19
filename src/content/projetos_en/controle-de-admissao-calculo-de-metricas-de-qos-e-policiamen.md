@@ -1,5 +1,5 @@
 ---
-title: "controle de admissão, cálculo de métricas de QoS e policiamento de tráfego.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (4) / Mestrado acadêmico: (1) . Integrantes: Marcos Fagundes Caetano - Integrante / Jacir Luiz Bordim - Coordenador / Priscila América Solís Mendez Barreto - Integrante. Número de produções C, T & A: 1 GRAEL - Browser HTML para aparelhos celulares"
+title: "admission control, calculation of QoS metrics and traffic policing. Status: Completed; Nature: Research. Students involved: Bachelor's degree: (4) / Academic master's degree: (1) . Members: Marcos Fagundes Caetano - Member / Jacir Luiz Bordim - Coordinator / Priscila América Solís Mendez Barreto - Member. Number of C, T & A productions: 1 GRAEL - HTML Browser for mobile devices"
 period: "2005 - 2008"
 coordinator: "Jacir Luiz Bordim"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
@@ -13,7 +13,7 @@ tags:
 
 ## Project Overview
 
-Development of um sistema para auxílio a visualização de páginas HTML da internet em dispositivos móveis..
+Development of a system to help view HTML internet pages on mobile devices.
 
 ## General Information
 

@@ -1,8 +1,8 @@
 ---
-title: "CIA 2- Construindo Smart Cities"
+title: "CIA 2- Construindo Cidades Inteligentes"
 period: "2011 - 2013"
 coordinator: "Antonio Augusto Frohlich"
-funding: "Rede Nacional de Ensino e Pesquisa - Financial Grant"
+funding: "National Education and Research Network - Financial aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -10,19 +10,19 @@ professors:
 tags:
   - "Internet of Things (IoT)"
   - "Smart Cities"
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
   - "Wireless Networks"
 ---
 
 ## Project Overview
 
-Smart Cities é um conceito relacionado à oferta de serviços de informação e comunicação para solucionar os problemas dos cidadãos em seus conglomerados urbanos, e de garantir uma melhor gestão pública. Uma cidade inteligente necessita de soluções para vários problemas, como: trânsito, vigilância, atendimento de emergência, monitoramento ambiental, saúde, educação e inclusão digital, bem como permite uma maior eficiência e transparência na gestão pública. Para suportar essas soluções os diversos dados urbanos precisam ser coletados e disseminados através de infraestruturas de comunicação, que por sua vez exigem formas integradas, heterogêneas, e inteligentes de comunicação sem fio. Além disso, tanto a comunicação como as aplicações precisam ser eficientes em energia em situação de sobrecarga e emergência. Neste contexto, o presente projeto se propõe a construir uma infraestrutura de instrumentação, computação e comunicação para viabilização de Smart Cities, abrangendo desde a aquisição dos dados urbanos brutos por meio de tecnologias de redes de sensores e Internet of Things, a comunicação, o armazenamento, e o acesso a esses dados através de diferentes tecnologias e protocolos de Wireless Networks, até a construção de aplicações que se beneficiem de toda essa infraestrutura, suportando uma melhor gestão pública e do meio ambiente e agregando valor ao cidadão..
+Smart Cities is a concept related to the provision of information and communication services to solve citizens' problems in their urban conglomerates, and to ensure better public management. A smart city requires solutions to various problems, such as: traffic, surveillance, emergency care, environmental monitoring, health, education and digital inclusion, as well as allowing greater efficiency and transparency in public management. To support these solutions, diverse urban data needs to be collected and disseminated through communication infrastructures, which in turn require integrated, heterogeneous, and intelligent forms of wireless communication. Furthermore, both communication and applications need to be energy efficient in overload and emergency situations. In this context, this project proposes to build an instrumentation, computing and communication infrastructure to enable Smart Cities, ranging from the acquisition of raw urban data through sensor network and internet of things technologies, communication, storage, and access to this data through different wireless network technologies and protocols, to the construction of applications that benefit from this entire infrastructure, supporting better public and environmental management and adding value to the citizen.
 
 ## General Information
 
 - **Principal Investigator:** Antonio Augusto Frohlich
 - **Duration:** 2011 - 2013
-- **Sponsors:** Rede Nacional de Ensino e Pesquisa - Financial Grant
+- **Sponsors:** National Education and Research Network - Financial aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

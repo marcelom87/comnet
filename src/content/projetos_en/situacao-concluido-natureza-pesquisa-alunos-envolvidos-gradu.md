@@ -1,5 +1,5 @@
 ---
-title: "Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eduardo Adilio Pelinson Alchieri - Integrante / Tie Teixeira Lima Penatti - Integrante / Fraga, Joni Silva - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Integração das Especificações UMIOP ao Padrão FT-CORBA"
+title: "Integration of UMIOP Specifications into the FT-CORBA Standard"
 period: "2003 - 2004"
 coordinator: "Fraga, Joni Silva"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
@@ -13,7 +13,7 @@ tags:
 
 ## Project Overview
 
-Este trabalho foi desenvolvido como um projeto PIBIC e apresenta os esforços realizados para a concepção de uma solução completa para a replicação ativa no padrão FT-CORBA (Fault Tolerant ? CORBA) a partir das primitivas de comunicação definidas no padrão UMIOP (Unreliable Multicast Inter-ORB ProtocoI). Esta solução representa a integração destas especificações em uma plataforma única de middleware, obtendo-se um suporte de comunicação de grupo com primitivas básicas de difusão seletiva não confiável, onde adicionamos funcionalidades construindo primitivas que suportam qualidades de serviço mais elaboradas, as quais são necessárias na replicação ativa segundo as especificações FT-CORBA. Neste caso, a replicação ativa passa também a ser atendida em suas necessidades de comunicação usando somente padrões definidos pela OMG (Object Management Group), dentro do próprio middleware..
+This work was developed as a PIBIC project and presents the efforts made to design a complete solution for active replication in the FT-CORBA (Fault Tolerant ? CORBA) standard based on the communication primitives defined in the UMIOP (Unreliable Multicast Inter-ORB Protocol) standard. This solution represents the integration of these specifications into a single middleware platform, obtaining group communication support with basic unreliable multicast primitives, where we add functionality by building primitives that support more elaborate qualities of service, which are necessary in active replication according to the FT-CORBA specifications. In this case, active replication also meets its communication needs using only standards defined by OMG (Object Management Group), within the middleware itself.
 
 ## General Information
 

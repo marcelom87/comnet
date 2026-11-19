@@ -2,7 +2,7 @@
 title: "Voip4All"
 period: "2006 - 2009"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-O projeto VoIP4all visa criar os meios para que 77 instituições federais, universidades, centros de educação tecnológica e unidades de pesquisa possam implantar internamente uma infra-estrututura de suporte à VoIP (voz sobre IP, do inglês Voice over IP) e ao mesmo tempo se associarem ao serviço fone@RNP, aumentando a capilaridade e universalizando seu acesso. Participação como coordenador técnico.
+The VoIP4all project aims to create the means for 77 federal institutions, universities, technological education centers and research units to internally implement an infrastructure to support VoIP (Voice over IP) and at the same time associate with the fone@RNP service, increasing capillarity and universalizing access. Participation as technical coordinator.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2006 - 2009
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

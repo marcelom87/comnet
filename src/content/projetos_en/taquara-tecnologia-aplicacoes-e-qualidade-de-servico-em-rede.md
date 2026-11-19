@@ -1,8 +1,8 @@
 ---
-title: "Taquara - Tecnologia, Aplicações e Quality of Service in Networks Avançadas"
+title: "Taquara - Technology, Applications and Quality of Service in Advanced Networks"
 period: "2004 - 2005"
 coordinator: "Otto Carlos Muniz Bandeira Duarte"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -17,13 +17,13 @@ tags:
 
 ## Project Overview
 
-O Projeto TAQUARA tem por objeto a pesquisa, desenvolvimento e suporte de aplicações em Optical Networks avançadas. Os principais temas de pesquisa do projeto TAQUARA são: Distribuição de Vídeo Transporte e Rastreamento de Pacotes Modelagem e Segurança de Grades Computacionais Comunicação Multicast based on Rótulos Gerência de Quality of Service Protocols for Redes de Acesso Óptico.
+The TAQUARA Project aims to research, develop and support applications in advanced optical networks. The main research themes of the TAQUARA project are: Video Distribution Transport and Packet Tracking Modeling and Security of Computational Grids Multicast Communication Based on Labels Quality of Service Management Protocols for Optical Access Networks.
 
 ## General Information
 
 - **Principal Investigator:** Otto Carlos Muniz Bandeira Duarte
 - **Duration:** 2004 - 2005
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

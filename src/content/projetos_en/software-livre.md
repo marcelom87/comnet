@@ -2,7 +2,7 @@
 title: "Software Livre"
 period: "2003 - 2004"
 coordinator: "Jose Eduardo De Lucca"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Catalizar os esforços de uso, divulgação e Development of software livre no estado de Santa Catarina, estabelecendo redes de contatos, criando uma comunidade virtual, proporcionando oportunidades de capacitação, seminários de sensibilização e evangelização, etc...
+Catalyze efforts to use, disseminate and develop free software in the state of Santa Catarina, establishing networks of contacts, creating a virtual community, providing training opportunities, awareness-raising and evangelization seminars, etc...
 
 ## General Information
 
 - **Principal Investigator:** Jose Eduardo De Lucca
 - **Duration:** 2003 - 2004
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcos Fagundes Caetano
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

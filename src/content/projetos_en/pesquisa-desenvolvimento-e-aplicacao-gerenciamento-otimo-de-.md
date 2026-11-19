@@ -1,8 +1,8 @@
 ---
-title: "Pesquisa, Desenvolvimento e Aplicação - Gerenciamento Ótimo de um Sistema de Armazenamento versus Despacho de Energia Fotovoltaica"
+title: "Research, Development and Application - Optimal Management of a Storage System versus Dispatch of Photovoltaic Energy"
 period: "2025 - Present"
 coordinator: "Geraldo Pereira Rocha Filho"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-O projeto tem como objetivo investigar, desenvolver e aplicar modelos avançados para o gerenciamento ótimo de sistemas de armazenamento de energia integrados a usinas fotovoltaicas, buscando maximizar eficiência, confiabilidade e capacidade de despacho. A pesquisa contempla Techniques for modelagem, previsão e otimização para equilibrar geração, armazenamento e consumo, contribuindo para soluções energéticas mais inteligentes, sustentáveis e alinhadas às demandas do setor elétrico moderno..
+The project aims to investigate, develop and apply advanced models for the optimal management of energy storage systems integrated into photovoltaic plants, seeking to maximize efficiency, reliability and dispatch capacity. The research includes modeling, forecasting and optimization techniques to balance generation, storage and consumption, contributing to smarter, more sustainable energy solutions aligned with the demands of the modern electricity sector.
 
 ## General Information
 
 - **Principal Investigator:** Geraldo Pereira Rocha Filho
 - **Duration:** 2025 - Present
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

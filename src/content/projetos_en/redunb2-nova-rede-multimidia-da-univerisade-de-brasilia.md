@@ -1,8 +1,8 @@
 ---
-title: "RedUnB2 - Nova Rede Multimídia da Univerisade de Brasília"
+title: "RedUnB2 - New Multimedia Network at the University of Brasília"
 period: "2006 - 2007"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-The project aims to a modernização da atual infra-estrutura de comunicação da Universidade de Brasília..
+The project aims to modernize the current communication infrastructure of the University of Brasília.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2006 - 2007
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

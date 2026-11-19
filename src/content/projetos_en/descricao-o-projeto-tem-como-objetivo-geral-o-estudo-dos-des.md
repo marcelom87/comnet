@@ -1,8 +1,8 @@
 ---
-title: "Descrição: O projeto tem como objetivo geral o estudo dos desafios regulatórios originários das novas conformações do ecossistema digital para o exercício de direitos fundamentais: poder de mercado no ecossistema digital, complexidades fiscais trazidas pelos mercados digitais, dificuldades surgidas da dispersão institucional de competências no tratamento das principais questões surgidas no ecossistema digital.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Priscila América Solís Mendez Barreto - Integrante / Marcio Iorio - Coordenador / Luis Fernando Mollinaro - Integrante / Paulo Henrique Portela de Carvalho - Integrante / Robson Domingos Vieira - Integrante / Eliomar Araújo de Lima - Integrante / Antonio Ribeiro dos Santos - Integrante. Financiador(es): Agência Nacional de Telecomunicações - Auxílio financeiro. PLEDESIR - Plataforma Experimental para Development of Serviços Inteligentes em 5G/6G no Âmbito de Interfaces Abertas na RAN"
+title: "Regulatory Challenges and Fundamental Rights in the Digital Ecosystem"
 period: "2023 - Present"
 coordinator: "Marcio Iorio"
-funding: "Agência Nacional de Telecomunicações - Financial Grant"
+funding: "Agência Nacional de Telecomunicações - Auxílio financeiro"
 status: "Ongoing"
 featured: true
 professors:
@@ -15,13 +15,13 @@ tags:
 
 ## Project Overview
 
-O projeto PLEDESIR propõe implementar um ponto de presença (PoP) de baixo custo que integre as tecnologias 5G/6G e Open RAN no Distrito Federal para preencher a lacuna entre conceituação e implementação e possibilitar o Development of pesquisa no estado da arte nessas tecnologias. A plataforma experimental sem fio de ponta a ponta proposta será compatível com a arquitetura Open RAN e permitirá pesquisa em um ambiente controlado, mas semelhante à produção, no qual possam ser estudados e avaliados elementos prioritários que compõem os serviços no ecossistema futuro de Mobile Networks no Brasil..
+The PLEDESIR project proposes to implement a low-cost point of presence (PoP) that integrates 5G/6G and Open RAN technologies in the Federal District to bridge the gap between conceptualization and implementation and enable the development of state-of-the-art research in these technologies. The proposed end-to-end wireless experimental platform will be compatible with the Open RAN architecture and will allow research in a controlled, but production-like environment, in which priority elements that make up the services in the future ecosystem of mobile networks in Brazil can be studied and evaluated.
 
 ## General Information
 
 - **Principal Investigator:** Marcio Iorio
 - **Duration:** 2023 - Present
-- **Sponsors:** Agência Nacional de Telecomunicações - Financial Grant
+- **Sponsors:** Agência Nacional de Telecomunicações - Auxílio financeiro
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

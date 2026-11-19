@@ -1,8 +1,8 @@
 ---
-title: "Sistema inteligente para determinação dos montantes de uso do sistema de transmissão por ponto de conexão com a rede básica"
+title: "Intelligent system for determining the amounts of use of the transmission system per connection point with the basic network"
 period: "2005 - 2006"
 coordinator: "Alexandre Rasi Aoki"
-funding: "Institutos Lactec - Cooperation"
+funding: "Institutos Lactec - Cooperação"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Objetivo Geral: - Contribuir para a melhoria dos processos de gestão da contratação dos montantes de uso do sistema de transmissão por ponto de conexão com a rede básica. - Minimizar o risco de sobre ou subcontratações a serem realizadas pela concessionária advindo uma menor tarifa para o consumidor. Objetivos Específicos: - Desenvolver uma metodologia para previsão dos valores dos montantes de uso do sistema de transmissão por ponto de conexão com a rede básica. - Desenvolver uma metodologia para monitoramento e gerenciamento das possíveis ultrapassagens das demandas dos valores contratados. - Desenvolver um sistema computacional based on Sistemas Inteligentes que implemente a metodologia para previsão dos valores dos montantes de uso do sistema de transmissão por ponto de conexão com a rede básica. - Formar uma base de dados consistente para projeções e para as futuras contratações dos montantes de uso por ponto de conexão da Distribuidora com a rede básica. - Implantar esse sistema computacional na concessionária..
+General Objective: - Contribute to the improvement of management processes for contracting amounts for use of the transmission system per connection point with the basic network. - Minimize the risk of over- or subcontracting to be carried out by the concessionaire, resulting in a lower tariff for the consumer. Specific Objectives: - Develop a methodology for predicting the values ​​of the amounts of use of the transmission system per connection point with the basic network. - Develop a methodology for monitoring and managing possible exceedances of contracted value demands. - Develop a computational system based on Intelligent Systems that implements the methodology for predicting the values ​​of the amounts of use of the transmission system per connection point with the basic network. - Create a consistent database for projections and future contracts of usage amounts per connection point between the Distributor and the basic network. - Implement this computer system at the dealership.
 
 ## General Information
 
 - **Principal Investigator:** Alexandre Rasi Aoki
 - **Duration:** 2005 - 2006
-- **Sponsors:** Institutos Lactec - Cooperation
+- **Sponsors:** Institutos Lactec - Cooperação
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

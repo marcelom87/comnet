@@ -1,8 +1,8 @@
 ---
-title: "PLEDESIR - Plataforma Experimental para Development of Serviços Inteligentes em 5G/6G no Âmbito de Interfaces Abertas na RAN"
+title: "PLEDESIR - Experimental Platform for Development of Intelligent Services in 5G/6G in the Scope of Open Interfaces in the RAN"
 period: "2023 - Present"
 coordinator: "Priscila Sólis Barreto"
-funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
+funding: "Federal District Research Support Foundation - Aid"
 status: "Ongoing"
 featured: true
 professors:
@@ -15,13 +15,13 @@ tags:
 
 ## Project Overview
 
-O projeto PLEDESIR propõe implementar um ponto de presença (PoP) de baixo custo que integre as tecnologias 5G/6G e Open RAN no Distrito Federal para preencher a lacuna entre conceituação e implementação e possibilitar o Development of pesquisa no estado da arte nessas tecnologias. A plataforma experimental sem fio de ponta a ponta proposta será compatível com a arquitetura Open RAN e permitirá pesquisa em um ambiente controlado, mas semelhante à produção, no qual possam ser estudados e avaliados elementos prioritários que compõem os serviços no ecossistema futuro de Mobile Networks no Brasil. Considerando que existem projeções de que receita acumulada de Open RAN de 2020 a 2025 pode chegar a US$ 15 bilhões, com receitas de Open RAN representando mais de 10% do mercado geral de RAN até 2025, o POP-DF poderá ser um pilar para que desenvolvedores do DF possam se integrar às iniciativas de pesquisa similares no território nacional e dar visibilidade à região como um ponto de colaboração e inovação tecnológica ao participar desse forte mercado..
+The PLEDESIR project proposes to implement a low-cost point of presence (PoP) that integrates 5G/6G and Open RAN technologies in the Federal District to bridge the gap between conceptualization and implementation and enable the development of state-of-the-art research in these technologies. The proposed end-to-end wireless experimental platform will be compatible with the Open RAN architecture and will allow research in a controlled, but production-like environment, in which priority elements that make up the services in the future ecosystem of mobile networks in Brazil can be studied and evaluated. Considering that there are projections that accumulated Open RAN revenue from 2020 to 2025 could reach US$ 15 billion, with Open RAN revenues representing more than 10% of the general RAN market by 2025, POP-DF could be a pillar for DF developers to integrate with similar research initiatives in the national territory and give visibility to the region as a point of collaboration and technological innovation by participating in this strong market.
 
 ## General Information
 
 - **Principal Investigator:** Priscila Sólis Barreto
 - **Duration:** 2023 - Present
-- **Sponsors:** Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio
+- **Sponsors:** Federal District Research Support Foundation - Aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Eduardo Adilio Pelinson Alchieri
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

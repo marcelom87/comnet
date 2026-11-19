@@ -1,8 +1,8 @@
 ---
-title: "Uso de Techniques for Computer Vision e redes Neurais em Processamento e Codificação de Vídeo"
+title: "Use of Computer Vision Techniques and Neural Networks in Video Processing and Coding"
 period: "2001 - 2006"
 coordinator: "Marcus Vinicius Lamar"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-This project aims to estudar Techniques for codificação de vídeo mais eficientes de modo a aplicações tais como vido fonia celular, seja possível com um equipamento de baixo custo. O uso de Techniques for visão artificial e redes neurais para o reconhecimento de gestos, permitem um modelamento mais efetivo de um sinal típico de videofonia celualr, isto é, rosto e mãos do interlocutor. Métodos tradicionais de compressão de vídeo, tais como os padrões internacionais MPEG-1, 2, 4, H.263 não são eficientes para aplicações onde a taxa de bits é extremamente baixa, caso este da videofonia celular..
+This project aims to study more efficient video coding techniques so that applications such as cellular phone video are possible with low-cost equipment. The use of artificial vision techniques and neural networks for gesture recognition allows for more effective modeling of a typical cellular videophony signal, that is, the interlocutor's face and hands. Traditional video compression methods, such as international standards MPEG-1, 2, 4, H.263, are not efficient for applications where the bit rate is extremely low, such as cellular videophony.
 
 ## General Information
 
 - **Principal Investigator:** Marcus Vinicius Lamar
 - **Duration:** 2001 - 2006
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

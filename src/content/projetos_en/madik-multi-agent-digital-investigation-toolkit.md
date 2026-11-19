@@ -2,7 +2,7 @@
 title: "MADIK: Multi-Agent Digital Investigation ToolKit"
 period: "2007 - 2013"
 coordinator: "Célia Ghedini Ralha"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-A Computação Forense envolve a Analysis of sistemas, o que demanda grande quantidade de recursos e ferramentas. Visando uma maior agilidade e eficiência dos processos investigativos, o uso de um sistema multiagente distribuído revelou-se apropriado, principalmente devido a capacidade de cooperação de agentes autônomos especializados. Para tal, diferentes agentes foram implementados, cada qual based on uma área específica de conhecimento técnico pericial. Assim sendo, In this project foi definido uma arquitetura based on uso de sistema multiagente, composta de quatro camadas, como uma metáfora à hierarquia das organizações, a saber: estratégica, tática, operacional e especialista. Foi desenvolvido um protótipo denominado MADIK, uma ferramenta multiagente de investigação digital criada com o propósito de auxiliar especialistas durante o exame pericial. A arquitetura proposta e a ferramenta multiagente foram construídas utilizando o conceito de blackboard e implementadas com o framework de desenvolvimento JADE. Alguns experimentos com dados reais de casos forense foram feitos utilizando o MADIK e os resultados s?ao encorajadores..
+Forensic Computing involves the analysis of systems, which requires a large amount of resources and tools. Aiming for greater agility and efficiency in investigative processes, the use of a distributed multi-agent system proved to be appropriate, mainly due to the capacity for cooperation of specialized autonomous agents. To this end, different agents were implemented, each based on a specific area of ​​technical expert knowledge. Therefore, in this project, an architecture based on the use of a multi-agent system was defined, composed of four layers, as a metaphor for the hierarchy of organizations, namely: strategic, tactical, operational and specialist. A prototype called MADIK was developed, a multi-agent digital investigation tool created with the purpose of assisting specialists during the forensic examination. The proposed architecture and multi-agent tool were built using the blackboard concept and implemented with the JADE development framework. Some experiments with real data from forensic cases were carried out using MADIK and the results are encouraging.
 
 ## General Information
 
 - **Principal Investigator:** Célia Ghedini Ralha
 - **Duration:** 2007 - 2013
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Célia Ghedini Ralha
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

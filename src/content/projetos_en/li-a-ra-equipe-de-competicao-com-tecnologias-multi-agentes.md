@@ -1,8 +1,8 @@
 ---
-title: "LI(A)RA - Equipe de Competição com Tecnologias Multi-agentes"
+title: "LI(A)RA - Competition Team with Multi-agent Technologies"
 period: "2023 - 2024"
 coordinator: "Roberto Vito Rodrigues Filho"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-O objetivo desse projeto de extensão está centrado na formação anual de uma equipe para participar da competição internacional de programação de sistema multi- agentes, chamada de Multi-Agent Programming Contest (https://multiagentcontest.org/). Os principais objetivos são: (i) uma ampla articulação entre pesquisa, ensino e extensão; (ii) um ampla integração de conhecimentos e disciplinas por parte dos alunos dos cursos de ciência e engenharia da computação da UFSC, principalmente envolvendo engenharia de software, gerenciamento de projetos, sistemas multi-agentes e Techniques for Artificial Intelligence (IA); (iii) a aplicação prática de metodologias de gerenciamento de equipe, em um contexto que exige fases de treinamento e desenvolvimento, similar aquelas utilizadas em contextos empresariais; (iv) a divulgação dos cursos oferecidos pela UFSC e das tecnologias utilizadas pelos participantes da competição, através de ações de extensão como palestras e mini cursos ministrados pela equipe de competição, oferecidos à comunidade externa da UFSC; também pretende-se realizar competições testes dentro e fora da UFSC, com equipes da comunidade versus a solução de IA desenvolvida pela equipe de competição; e (v) a participação da equipe em uma competição de nível internacional, resultando em possíveis premiações, e a publicação de artigo com as estratégias utilizadas pela equipe (caso a equipe passar a fase de classificação)..
+The objective of this extension project is centered on the annual formation of a team to participate in the international multi-agent system programming competition, called the Multi-Agent Programming Contest (https://multiagentcontest.org/). The main objectives are: (i) a broad articulation between research, teaching and extension; (ii) a broad integration of knowledge and disciplines by students of computer science and engineering courses at UFSC, mainly involving software engineering, project management, multi-agent systems and Artificial Intelligence (AI) techniques; (iii) the practical application of team management methodologies, in a context that requires training and development phases, similar to those used in business contexts; (iv) dissemination of the courses offered by UFSC and the technologies used by competition participants, through extension actions such as lectures and mini courses taught by the competition team, offered to the UFSC external community; It is also intended to hold test competitions inside and outside UFSC, with community teams versus the AI ​​solution developed by the competition team; and (v) the team's participation in an international competition, resulting in possible awards, and the publication of an article with the strategies used by the team (if the team passes the classification phase).
 
 ## General Information
 
 - **Principal Investigator:** Roberto Vito Rodrigues Filho
 - **Duration:** 2023 - 2024
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,8 +1,8 @@
 ---
-title: "Serviços Cientes dos Espaços Urbanos via Federated Learning em Sistemas de Transporte Inteligente"
+title: "Urban Space Aware Services via Federated Learning in Intelligent Transport Systems"
 period: "2022 - 2024"
 coordinator: "Geraldo Pereira Rocha Filho"
-funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
+funding: "São Paulo State Research Support Foundation - Aid"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ Factors such as urban mobility prediction, monitoring of traffic dynamics in cit
 
 - **Principal Investigator:** Geraldo Pereira Rocha Filho
 - **Duration:** 2022 - 2024
-- **Sponsors:** Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+- **Sponsors:** São Paulo State Research Support Foundation - Aid
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

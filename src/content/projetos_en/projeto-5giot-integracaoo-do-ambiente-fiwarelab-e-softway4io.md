@@ -1,8 +1,8 @@
 ---
-title: "Projeto 5GIot: Integraçãoo do Ambiente FiwareLab e Softway4Iot"
+title: "5GIot Project: Integration of the FiwareLab and Softway4Iot Environment"
 period: "2020 - 2021"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-O Projeto 5GIoT visa o desenvolver e aprimorar tecnologias que permitam a conectividade de dispositivos IoT utilizando redes 5G para o estabelecimento de ambientes inteligentes..
+The 5GIoT Project aims to develop and improve technologies that enable the connectivity of IoT devices using 5G networks to establish intelligent environments.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2020 - 2021
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

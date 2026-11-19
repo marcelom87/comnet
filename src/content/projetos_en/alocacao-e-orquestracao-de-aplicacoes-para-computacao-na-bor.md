@@ -1,8 +1,8 @@
 ---
-title: "Alocação e Orquestração de Aplicações para Computação na Borda"
+title: "Application Allocation and Orchestration for Edge Computing"
 period: "2022 - 2022"
 coordinator: "Luiz Fernando Bittencourt"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -21,7 +21,7 @@ This pilot project aims to investigate a service placement orchestrator to explo
 
 - **Principal Investigator:** Luiz Fernando Bittencourt
 - **Duration:** 2022 - 2022
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

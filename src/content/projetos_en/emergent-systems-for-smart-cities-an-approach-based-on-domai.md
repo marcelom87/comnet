@@ -2,7 +2,7 @@
 title: "Emergent Systems for Smart Cities: An Approach based on Domain-Specific Middleware and Microservices"
 period: "2018 - 2021"
 coordinator: "Fábio Moreira Costa"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ The overall aim of the project is to propose and evaluate a new methodology and 
 
 - **Principal Investigator:** Fábio Moreira Costa
 - **Duration:** 2018 - 2021
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -13,7 +13,7 @@ tags:
 
 ## Project Overview
 
-O objetivo é fornecer uma plataforma que permite as operadoras SCM e STFC brasileiras oferecerem serviços de valor agregado nas redes de dados existentes. Este serviços serão principalmente a oferta de voz sobre IP, a oferta entroncamento SIP que simplifica a conexão a centrais baseadas em IP e a oferta de serviços de PABX hospedado..
+The objective is to provide a platform that allows Brazilian SCM and STFC operators to offer value-added services over existing data networks. These services will mainly be offering voice over IP, offering SIP trunking that simplifies connection to IP-based exchanges and offering hosted PBX services.
 
 ## General Information
 

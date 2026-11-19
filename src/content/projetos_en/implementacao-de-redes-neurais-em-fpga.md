@@ -1,8 +1,8 @@
 ---
-title: "Implementação de Redes Neurais em FPGA"
+title: "Implementation of Neural Networks on FPGA"
 period: "2016 - Present"
 coordinator: "Marcus Vinicius Lamar"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Ongoing"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-This project aims to desenvolver técnicas eficientes para a impementação de Redes Neurais rasas e profundas em dispositivos Field Programable Gate Array (FPGA). Recentemente os dispositivos FPGAs se tornaram muito populares com a redução de seu custo e lançamento de versões simplificadas do dispositivo..
+This project aims to develop efficient techniques for implementing shallow and deep Neural Networks on Field Programmable Gate Array (FPGA) devices. Recently, FPGA devices have become very popular with the reduction of their cost and the release of simplified versions of the device.
 
 ## General Information
 
 - **Principal Investigator:** Marcus Vinicius Lamar
 - **Duration:** 2016 - Present
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

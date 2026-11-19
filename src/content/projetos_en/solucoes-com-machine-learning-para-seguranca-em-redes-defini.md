@@ -1,8 +1,8 @@
 ---
-title: "Solucões com Machine Learning para Segurança em Software-Defined Networking"
+title: "Machine Learning Solutions for Security in Software-Defined Networks"
 period: "2022 - 2024"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -16,13 +16,13 @@ tags:
 
 ## Project Overview
 
-As Software-Defined Networking (do inglês Software-Defined Networking - SDN) representam um moderno conceito de arquitetura separando o plano de dados e controle da rede. Devido a esta característica, novos desafios de segurança são introduzidos neste modelo de rede em virtude das fragilidades existentes entre os planos. Este Research Project explora a utilização de Techniques for Machine Learning - ML para propor mecanismos de segurança em ataques distribuídos de negação de serviço para SDNs.Neste sentido, este projeto propõe o uso de métodos estatísticos existentes combinados a Techniques for ML com o objetivo de melhorar a acurácia das estratégias de detecção sem comprometer o desempenho na mitigação de ataques DDoS em SDNs. O uso dessa abordagem resultará no Development of técnicas mais eficientes na mitigação de ataques DDoS, minimizando os impactos causados por estes ataques e contribuindo para a melhoria no tráfego de rede SDN..
+Software-Defined Networking (SDN) represents a modern architectural concept separating the data and control plane of the network. Due to this characteristic, new security challenges are introduced in this network model due to existing weaknesses between the plans. This research project explores the use of Machine Learning - ML techniques to propose security mechanisms in distributed denial of service attacks for SDNs. In this sense, this project proposes the use of existing statistical methods combined with ML techniques with the aim of improving the accuracy of detection strategies without compromising performance in mitigating DDoS attacks in SDNs. Using this approach will result in the development of more efficient techniques for mitigating DDoS attacks, minimizing the impacts caused by these attacks and contributing to improvements in SDN network traffic.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2022 - 2024
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

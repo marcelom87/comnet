@@ -1,5 +1,5 @@
 ---
-title: "Descrição: O objetivo geral do projeto FUTEBOL é desenvolver e implantar estruturas de investigação, juntamente com uma plataforma de controle, na Europa e no Brasil, que permitam a realização de pesquisa experimental na área de convergência entre as redes ópticas e redes sem fio. O projeto também se propõe a criar um ecossistema sustentável e colaborativo entre o Brasil e Europa, em prol do desenvolvimento da pesquisa e inovação.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (30) / Especialização: (10) / Mestrado acadêmico: (20) / Mestrado profissional: (0) / Doutorado: (10) . Integrantes: Marcelo Antonio Marotta - Integrante / Cristiano Bonato Both - Integrante / BOTH, CRISTIANO BONATO - Coordenador / José Marcos Nogueira - Integrante / Moises Ribeiro - Integrante / Francisco Rodrigo Cavalcanti - Integrante / Nelson L. S. Fonseca - Integrante. Financiador(es): Ministério da Ciência, Tecnologia e Inovações - Cooperação. GT-CoLisEU: Grupo de Trabalho para Coleta e Análise de Experiência de Usuários Projeto certificado pelo(a) coordenador(a) Cristiano Bonato Both em 20/11/2018"
+title: "Projeto FUTEBOL: Convergência entre Redes Ópticas e Redes Sem Fio"
 period: "2014 - 2016"
 coordinator: "BOTH, CRISTIANO BONATO"
 funding: "Ministério da Ciência, Tecnologia e Inovações - Cooperação"

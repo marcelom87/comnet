@@ -13,7 +13,7 @@ tags:
 
 ## Project Overview
 
-O objeto deste projeto é a execução de atividades de formação de recursos humanos, pesquisa e desenvolvimento com foco em IA para contemplar os objetivos da Academia Autorizada Huawei para ensino de Tecnologia da Informação e Comunicação..
+The object of this project is to carry out human resources training, research and development activities with a focus on AI to meet the objectives of the Huawei Authorized Academy for teaching Information and Communication Technology.
 
 ## General Information
 

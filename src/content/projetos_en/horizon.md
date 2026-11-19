@@ -2,7 +2,7 @@
 title: "Horizon"
 period: "2009 - 2011"
 coordinator: "Otto Carlos Muniz Bandeira Duarte"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -20,7 +20,7 @@ The TCP/IP model encounters limitations in wireless, mobile, ad hoc environments
 
 - **Principal Investigator:** Otto Carlos Muniz Bandeira Duarte
 - **Duration:** 2009 - 2011
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,8 +1,8 @@
 ---
-title: "Concepção, Instrumentalização e Operacionalização de Processos Avançados em Gestão de TI"
+title: "Design, Instrumentation and Operationalization of Advanced Processes in IT Management"
 period: "2013 - 2016"
 coordinator: "Rafael Timóteo de Sousa Júnior"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ Acordo de Cooperação Técnica FUB/CDT e MP/SE/DTI.
 
 - **Principal Investigator:** Rafael Timóteo de Sousa Júnior
 - **Duration:** 2013 - 2016
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

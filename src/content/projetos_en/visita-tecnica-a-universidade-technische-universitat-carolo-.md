@@ -2,7 +2,7 @@
 title: "Visita Técnica a Universidade Technische Universität Carolo-Wilhelmina zu Braunschweig"
 period: "2025 - 2025"
 coordinator: "Marcelo Antonio Marotta"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-Projeto de visita técnica aprovado e financiado pela FAPDF para a realização de visita técnica científica junto ao Technische Universität Carolo- Wilhelmina zu Braunschweig, na cidade de Braunschweig, Alemanha, sob o convite do Profa. Dra. Admela Jukan, durante o período compreendido entre 01/03/25 e 14/03/25. Esta visita esteve no contexto do Memorando de Entendimento (MOU) #204, publicado no DOU 23/10/2020, Seção 3, Página 101, SEI 00193-00001566/2024-88..
+Technical visit project approved and financed by FAPDF to carry out a scientific technical visit at the Technische Universität Carolo- Wilhelmina zu Braunschweig, in the city of Braunschweig, Germany, at the invitation of Prof. Dr. Admela Jukan, during the period between 03/01/25 and 03/14/25. This visit was in the context of Memorandum of Understanding (MOU) #204, published in DOU 10/23/2020, Section 3, Page 101, SEI 00193-00001566/2024-88.
 
 ## General Information
 
 - **Principal Investigator:** Marcelo Antonio Marotta
 - **Duration:** 2025 - 2025
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcelo Antonio Marotta, Marcos Fagundes Caetano
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

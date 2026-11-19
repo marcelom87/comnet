@@ -1,8 +1,8 @@
 ---
-title: "Pesquisa aplicada à criação de sistemas de informações e resolução de problemas dos sistemas de informações existentes, bem como à integração de inovações tecnológicas nos domínios dos sistemas de informação da Secretaria Nacional de Assistência Social"
+title: "Research applied to the creation of information systems and problem solving of existing information systems, as well as the integration of technological innovations in the areas of information systems of the National Secretariat of Social Assistance"
 period: "2025 - Present"
 coordinator: "Geraldo Pereira Rocha Filho"
-funding: "Fundação de Apoio à Pesquisa - Financial Grant"
+funding: "Research Support Foundation - Financial aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-O Research Project e Inovação tem por objetivo geral realizar estudos com fundamento na Analysis of requisitos em campo, concepção, desenvolvimento, prototipação, avaliação experimental, visando a criação e integração de inovações tecnológicas nas melhores práticas nos domínios de serviços de Tecnologia da Informação TI, gerenciamento de projetos e Development of software, com a produção de módulos de interoperação de sistemas de informação, bem como inovação tecnológica, arquitetura de software e Information Security, no âmbito do Ministério do Desenvolvimento Social - MDS..
+The general objective of the Research and Innovation project is to carry out studies based on the analysis of field requirements, design, development, prototyping, experimental evaluation, aiming at the creation and integration of technological innovations in best practices in the areas of IT Information Technology services, project management and software development, with the production of information systems interoperation modules, as well as technological innovation, software architecture and information security, within the scope of the Ministry of Social Development - MDS.
 
 ## General Information
 
 - **Principal Investigator:** Geraldo Pereira Rocha Filho
 - **Duration:** 2025 - Present
-- **Sponsors:** Fundação de Apoio à Pesquisa - Financial Grant
+- **Sponsors:** Research Support Foundation - Financial aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

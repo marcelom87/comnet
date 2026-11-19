@@ -1,5 +1,5 @@
 ---
-title: "BioCloud2 - Explorando o DNA da Nuvem AWS na Execução Otimizada de Applications of Biotecnologia"
+title: "BioCloud2 - Exploring the DNA of the AWS Cloud for Optimized Execution of Biotechnology Applications"
 period: "2023 - 2025"
 coordinator: "Maria Cristina Silva Boeres"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico -"
@@ -9,12 +9,12 @@ professors:
   - "Célia Ghedini Ralha"
 tags:
   - "Cloud & Edge Computing"
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
 ---
 
 ## Project Overview
 
-Projeto aprovado na Chamada Pública CNPq/AWS No 64/2022 - Acesso aos Serviços de Cloud Computing da AWS (Cloud Credits for Research), Faixa B, processo 421828/2022-6..
+Project approved in CNPq/AWS Public Call No. 64/2022 - Access to AWS Cloud Computing Services (Cloud Credits for Research), Track B, process 421828/2022-6..
 
 ## General Information
 

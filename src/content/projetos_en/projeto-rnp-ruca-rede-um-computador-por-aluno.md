@@ -1,8 +1,8 @@
 ---
-title: "Projeto RNP-RUCA (Rede Um Computador por Aluno)"
+title: "RNP-RUCA Project (One Computer per Student Network)"
 period: "2007 - 2007"
 coordinator: "Jacir Luiz Bordim"
-funding: "Rede Nacional de Ensino e Pesquisa - Bolsa"
+funding: "National Teaching and Research Network - Scholarship"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-O Projeto RUCA tem como objetivo avaliar os protótipos do OLPC (One Laptop Per Child) no que se refere a capacidade de comunicação e conexão..
+The RUCA Project aims to evaluate the OLPC (One Laptop Per Child) prototypes with regard to communication and connection capabilities.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2007 - 2007
-- **Sponsors:** Rede Nacional de Ensino e Pesquisa - Bolsa
+- **Sponsors:** National Teaching and Research Network - Scholarship
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim, Marcos Fagundes Caetano
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

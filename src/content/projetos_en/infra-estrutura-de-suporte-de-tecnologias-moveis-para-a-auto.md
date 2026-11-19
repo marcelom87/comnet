@@ -1,8 +1,8 @@
 ---
-title: "Infra-estrutura de suporte de tecnologias móveis para a automação de processos na Agropecuária"
+title: "Support infrastructure for mobile technologies for process automation in Agriculture"
 period: "2007 - 2010"
 coordinator: "Vagner José do Sacramento Rodrigues"
-funding: "Fundação de Amparo a Pesquisa do Estado de Goiás - Auxílio"
+funding: "Goiás State Research Support Foundation - Aid"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-Este projeto tem o objetivo de desenvolver uma infra-estrutura middleware que provê suporte ao Development of aplicações que integram Wireless Sensor Networks e dispositivos móveis para automatizar o processo de produção na agropecuária..
+This project aims to develop a middleware infrastructure that provides support for the development of applications that integrate Wireless Sensor Networks and mobile devices to automate the production process in agriculture.
 
 ## General Information
 
 - **Principal Investigator:** Vagner José do Sacramento Rodrigues
 - **Duration:** 2007 - 2010
-- **Sponsors:** Fundação de Amparo a Pesquisa do Estado de Goiás - Auxílio
+- **Sponsors:** Goiás State Research Support Foundation - Aid
 - **Status:** Completed
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

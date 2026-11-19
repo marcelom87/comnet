@@ -2,7 +2,7 @@
 title: "6G Research and Innovation Cluster (6G-RIC)"
 period: "2021 - 2025"
 coordinator: "STA'CZAK, SLAWOMIR"
-funding: "Bundesministeriur fur Bildung und Forschung - Other"
+funding: "Bundesministeriur fur Bildung und Forschung - Outra"
 status: "Completed"
 featured: false
 professors:
@@ -21,7 +21,7 @@ The 6G Research and Innovation Cluster (6G-RIC) is a research hub designed to la
 
 - **Principal Investigator:** STA'CZAK, SLAWOMIR
 - **Duration:** 2021 - 2025
-- **Sponsors:** Bundesministeriur fur Bildung und Forschung - Other
+- **Sponsors:** Bundesministeriur fur Bildung und Forschung - Outra
 - **Status:** Completed
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

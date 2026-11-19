@@ -2,7 +2,7 @@
 title: "SMART NEtworks and ServiceS for 2030 (SMARTNESS)"
 period: "2024 - Present"
 coordinator: "Luiz Fernando Bittencourt"
-funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
+funding: "São Paulo State Research Support Foundation - Aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -24,7 +24,7 @@ The SMARTNESS Engineering Research Center (ERC) targets developing cutting-edge 
 
 - **Principal Investigator:** Luiz Fernando Bittencourt
 - **Duration:** 2024 - Present
-- **Sponsors:** Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+- **Sponsors:** São Paulo State Research Support Foundation - Aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

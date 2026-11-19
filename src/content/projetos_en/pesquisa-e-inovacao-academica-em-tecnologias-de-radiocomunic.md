@@ -1,8 +1,8 @@
 ---
-title: "Pesquisa e inovação acadêmica em tecnologias de radiocomunicação e redes de telecomunicações com implantação de ambiente laboratorial de estudos e experimentação em novas tecnologias de radiocomunicação e in Networks de telecomunicações"
+title: "Academic research and innovation in radiocommunication technologies and telecommunications networks with the implementation of a laboratory environment for studies and experimentation in new radiocommunication technologies and telecommunications networks"
 period: "2024 - Present"
 coordinator: "Paulo Henrique Portela de Carvalho"
-funding: "Agência Nacional de Telecomunicações - Financial Grant"
+funding: "Agência Nacional de Telecomunicações - Auxílio financeiro"
 status: "Ongoing"
 featured: false
 professors:
@@ -15,13 +15,13 @@ tags:
 
 ## Project Overview
 
-O projeto é uma parceria parceria entre a Agência Nacional de Telecomunicações (Anatel) e a Universidade de Brasília (UnB). O objetivo é colaborar com a Anatel para que o Brasil desempenhe papel proeminente no cenário internacional, por meio da participação em fóruns e reuniões que discutem temas de radiocomunicação e normalização de redes de telecomunicações. The project aims to implementar um ambiente laboratorial para conduzir estudos, simulações e experimentos relacionados a redes de comunicação of the Future e tecnologias emergentes, como Redes Abertas, Redes Virtualizadas, Artificial Intelligence e Realidade Virtual/Aumentada. Isso permitirá que o Brasil contribua para as discussões internacionais sobre padronização e regulamentação das telecomunicações, alinhando-se com necessidades específicas do.
+The project is a partnership between the National Telecommunications Agency (Anatel) and the University of Brasília (UnB). The objective is to collaborate with Anatel so that Brazil plays a prominent role on the international scene, through participation in forums and meetings that discuss radiocommunication topics and normalization of telecommunications networks. The project aims to implement a laboratory environment to conduct studies, simulations and experiments related to future communication networks and emerging technologies, such as Open Networks, Virtualized Networks, Artificial Intelligence and Virtual/Augmented Reality. This will allow Brazil to contribute to international discussions on standardization and regulation of telecommunications, aligning itself with specific needs.
 
 ## General Information
 
 - **Principal Investigator:** Paulo Henrique Portela de Carvalho
 - **Duration:** 2024 - Present
-- **Sponsors:** Agência Nacional de Telecomunicações - Financial Grant
+- **Sponsors:** Agência Nacional de Telecomunicações - Auxílio financeiro
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Eduardo Adilio Pelinson Alchieri, Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

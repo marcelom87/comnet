@@ -1,8 +1,8 @@
 ---
-title: "BioCloud ? Um Framework para Execução Eficiente de Applications of Biotecnologia em Múltiplas Plataformas da Nuvem AWS"
+title: "BioCloud? A Framework for Efficiently Running Biotechnology Applications on Multiple AWS Cloud Platforms"
 period: "2020 - 2022"
 coordinator: "Alba Cristina Magalhães Alves de Melo"
-funding: "Amazon Web Service - Financial Grant"
+funding: "Amazon Web Service - Auxílio financeiro"
 status: "Completed"
 featured: false
 professors:
@@ -10,18 +10,18 @@ professors:
 tags:
   - "Distributed Systems"
   - "Cloud & Edge Computing"
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
 ---
 
 ## Project Overview
 
-O objetivo principal do projeto é prover melhores soluções para o problema de gerência de recursos para execução de Applications of alto desempenho de Biotecnologia em nuvens de computadores e, em particular, na nuvem Amazon AWS. Para tanto, abordaremos os problemas de escalonamento dinâmico de máquinas virtuais (MVs) e contêineres elásticos visando a minimização do uso de recursos, do tempo de execução, economia de energia e maximizando a disponibilidade sem violar os acordos de nível de serviço contratados. Investigaremos também estratégias paralelas e distribuídas adaptadas à execução das aplicações alvo na nuvem..
+The main objective of the project is to provide better solutions to the problem of resource management for executing high-performance Biotechnology applications in computer clouds and, in particular, in the Amazon AWS cloud. To this end, we will address the problems of dynamic scaling of virtual machines (VMs) and elastic containers with the aim of minimizing resource usage, execution time, energy savings and maximizing availability without violating contracted service level agreements. We will also investigate parallel and distributed strategies adapted to running target applications in the cloud.
 
 ## General Information
 
 - **Principal Investigator:** Alba Cristina Magalhães Alves de Melo
 - **Duration:** 2020 - 2022
-- **Sponsors:** Amazon Web Service - Financial Grant
+- **Sponsors:** Amazon Web Service - Auxílio financeiro
 - **Status:** Completed
 - **Participating COMNET Faculty:** Célia Ghedini Ralha
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

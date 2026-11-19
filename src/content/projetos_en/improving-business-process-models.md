@@ -2,7 +2,7 @@
 title: "Improving Business Process Models"
 period: "2011 - 2014"
 coordinator: "Célia Ghedini Ralha"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ Process mining techniques are able to discover process models from event logs bu
 
 - **Principal Investigator:** Célia Ghedini Ralha
 - **Duration:** 2011 - 2014
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Célia Ghedini Ralha
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

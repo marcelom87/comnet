@@ -1,8 +1,8 @@
 ---
-title: "GECTAR - Gerador e Caracterizador de Tráfego com Analisador de Rede"
+title: "GECTAR - Traffic Generator and Characterizer with Network Analyzer"
 period: "2008 - 2010"
 coordinator: "Priscila América Solís Mendez Barreto"
-funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
+funding: "Federal District Research Support Foundation - Aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -15,13 +15,13 @@ tags:
 
 ## Project Overview
 
-É proposto o Development of um software de código aberto e multiPlatform for a geração e caracterização de tráfego multimídia em uma rede de alta velocidade. O software a ser desenvolvido In this project deve permitir a geração de diversos tipos de tráfego, a inferência estatística sobre séries reais de tráfego, o monitoramento de uma rede multimídia e a coleta de métricas de QoS..
+The development of open source and multiplatform software for the generation and characterization of multimedia traffic in a high-speed network is proposed. The software to be developed in this project must allow the generation of different types of traffic, statistical inference on real traffic series, monitoring of a multimedia network and the collection of QoS metrics.
 
 ## General Information
 
 - **Principal Investigator:** Priscila América Solís Mendez Barreto
 - **Duration:** 2008 - 2010
-- **Sponsors:** Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio
+- **Sponsors:** Federal District Research Support Foundation - Aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Marcos Fagundes Caetano, Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

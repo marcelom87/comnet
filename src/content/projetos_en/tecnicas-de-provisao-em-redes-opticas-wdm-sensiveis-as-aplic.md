@@ -1,5 +1,5 @@
 ---
-title: "Techniques for Provisão em Optical Networks WDM Sensíveis às Aplicações Emergentes"
+title: "Provisioning Techniques in WDM Optical Networks Sensitive to Emerging Applications"
 period: "2014 - 2017"
 coordinator: "André Costa Drummond"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
@@ -15,7 +15,7 @@ tags:
 
 ## Project Overview
 
-Projeto CNPq - Edital Universal - Faixa A - Número 445818/2014-0. In this project, são apresentadas propostas para solucionar o problema de estabelecimento de conexões com proteção em Optical Networks com a tecnologia de multiplexação por divisão de comprimentos de onda (WDM). Serão utilizadas Techniques for agregação dinâmica de tráfego e roteamento e alocação de comprimentos de onda (RWA) em uma abordagem cross-layer de forma a atender as idiossincrasias das aplicações emergentes que demandarão grande capacidade de banda passante e requisitos de Quality of Service (QoS) rigorosos..
+CNPq Project - Universal Notice - Track A - Number 445818/2014-0. In this project, proposals are presented to solve the problem of establishing protected connections in optical networks using wavelength division multiplexing (WDM) technology. Dynamic traffic aggregation and routing and wavelength allocation (RWA) techniques will be used in a cross-layer approach in order to meet the idiosyncrasies of emerging applications that will demand large bandwidth capacity and strict quality of service (QoS) requirements.
 
 ## General Information
 

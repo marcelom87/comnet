@@ -1,8 +1,8 @@
 ---
-title: "Projeto Redes de Vídeo Vigilância com Câmeras IPs"
+title: "Video Surveillance Networks Project with IP Cameras"
 period: "2011 - 2012"
 coordinator: "Helio Lopes dos Santos"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-O Projeto Redes de Vídeo Vigilância com Câmeras IPs tem como meta fornecer segurança, prevendo possíveis danos aos equipamentos e oferecendo ?tranqüilidade? para o Colegiado, Departamento, Estacionamento, Laboratório, entre outros similares correspondentes ao espaço de uma Universidade. Isso é possível, pois as Câmeras Ips são equipamentos que transmitem áudio e vídeo com bastante eficiência para um computador - host - que possui internet, tornando mais flexível o gerenciamento do ambiente..
+The Video Surveillance Networks with IP Cameras Project aims to provide security, predicting possible damage to equipment and offering ?peace of mind? for the Collegiate, Department, Parking, Laboratory, among other similar areas corresponding to the space of a University. This is possible, as Ips Cameras are equipment that transmit audio and video very efficiently to a computer - host - that has internet, making the management of the environment more flexible.
 
 ## General Information
 
 - **Principal Investigator:** Helio Lopes dos Santos
 - **Duration:** 2011 - 2012
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

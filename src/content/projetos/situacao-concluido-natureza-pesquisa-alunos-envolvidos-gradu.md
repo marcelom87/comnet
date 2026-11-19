@@ -1,5 +1,5 @@
 ---
-title: "Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) . Integrantes: Eduardo Adilio Pelinson Alchieri - Integrante / Tie Teixeira Lima Penatti - Integrante / Fraga, Joni Silva - Coordenador. Financiador(es): Conselho Nacional de Desenvolvimento Científico e Tecnológico - Bolsa. Integração das Especificações UMIOP ao Padrão FT-CORBA"
+title: "Integração das Especificações UMIOP ao Padrão FT-CORBA"
 period: "2003 - 2004"
 coordinator: "Fraga, Joni Silva"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"

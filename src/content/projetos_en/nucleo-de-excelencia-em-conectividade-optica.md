@@ -1,8 +1,8 @@
 ---
-title: "Núcleo de Excelência em Conectividade Óptica"
+title: "Center of Excellence in Optical Connectivity"
 period: "2004 - 2007"
 coordinator: "Nelson Luis Saldanha da Fonseca"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ The extraordinary development of photonics of the last decades has given it an o
 
 - **Principal Investigator:** Nelson Luis Saldanha da Fonseca
 - **Duration:** 2004 - 2007
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

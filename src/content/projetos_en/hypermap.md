@@ -2,7 +2,7 @@
 title: "HyperMap"
 period: "2003 - 2005"
 coordinator: "Célia Ghedini Ralha"
-funding: "University Of Leeds - Cooperation"
+funding: "University Of Leeds - Cooperação"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Este Research Project teve início desde o doutoramento em Leeds/Inglaterra com a definição de um framework de estruturação automática de informação na Web. O framework é based on dois aspectos principais: linkagem dinâmica de conteúdos na Web e raciocínio espacial com uso de lógica topológica. Através de implementações de buscadores automáticos inteligentes é possível a associação semântica de assuntos na Web de acordo com tipos de relacionamento de conteúdos, tais como: igualdade, própria parte, sobreposição e desconexão..
+This research project began during my PhD in Leeds/England with the definition of a framework for automatic structuring of information on the Web. The framework is based on two main aspects: dynamic linking of content on the Web and spatial reasoning using topological logic. Through implementations of intelligent automatic search engines, the semantic association of subjects on the Web is possible according to types of content relationships, such as: equality, own part, overlap and disconnection.
 
 ## General Information
 
 - **Principal Investigator:** Célia Ghedini Ralha
 - **Duration:** 2003 - 2005
-- **Sponsors:** University Of Leeds - Cooperation
+- **Sponsors:** University Of Leeds - Cooperação
 - **Status:** Completed
 - **Participating COMNET Faculty:** Célia Ghedini Ralha
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

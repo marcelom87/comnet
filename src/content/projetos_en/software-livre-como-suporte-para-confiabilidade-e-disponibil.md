@@ -1,8 +1,8 @@
 ---
-title: "Software Livre como Suporte para Confiabilidade e Disponibilidade de Objetos Distribuído"
+title: "Free Software as Support for Reliability and Availability of Distributed Objects"
 period: "2004 - 2005"
 coordinator: "Joni da Silva Fraga"
-funding: "Pontifícia Universidade Católica do Paraná - Cooperation /"
+funding: "Pontifícia Universidade Católica do Paraná - Cooperação /"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-O objetivo geral deste projeto é o Development of suportes de middleware para aplicações distribuídas com requisitos de Quality of Services tais como confiabilidade e disponibilidade. Partindo de nossas experiências anteriores com CORBA The project aims to continuar o Development of novas soluções para a programação distribuída, envolvendo modelos que integrem às características de objetos distribuídos às qualidades citadas. Este é desenvolvido em cooperação com o Departamento de Automação e Sistemas (DAS) da UFSC, tendo o professor Joni da Silva Fraga como coordenador geral do projeto..
+The general objective of this project is the development of middleware support for distributed applications with quality of service requirements such as reliability and availability. Building on our previous experiences with CORBA, the project aims to continue the development of new solutions for distributed programming, involving models that integrate the characteristics of distributed objects with the aforementioned qualities. This is developed in cooperation with the Department of Automation and Systems (DAS) at UFSC, with professor Joni da Silva Fraga as the project's general coordinator.
 
 ## General Information
 
 - **Principal Investigator:** Joni da Silva Fraga
 - **Duration:** 2004 - 2005
-- **Sponsors:** Pontifícia Universidade Católica do Paraná - Cooperation /
+- **Sponsors:** Pontifícia Universidade Católica do Paraná - Cooperação /
 - **Status:** Completed
 - **Participating COMNET Faculty:** Eduardo Adilio Pelinson Alchieri
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

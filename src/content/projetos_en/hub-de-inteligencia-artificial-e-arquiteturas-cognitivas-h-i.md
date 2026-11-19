@@ -1,8 +1,8 @@
 ---
-title: "Hub de Artificial Intelligence e Arquiteturas Cognitivas (H.IAAC)"
+title: "Hub de Inteligência Artificial e Arquiteturas Cognitivas (H.IAAC)"
 period: "2025 - Present"
 coordinator: "Geraldo Pereira Rocha Filho"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-O Hub de Artificial Intelligence e Arquiteturas Cognitivas visa o desenvolvimento e disseminação do conhecimento sobre tecnologias capazes de integrar diversos recursos de inteligência em dispositivos móveis, tornando-os hábeis em tomar decisões. O Hub tem o objetivo de desenvolver pesquisas para ampliar a capacidade cognitiva e de tomada de decisões de dispositivos móveis, como tablets e celulares, facilitando a vida dos usuários..
+The Artificial Intelligence and Cognitive Architectures Hub aims to develop and disseminate knowledge about technologies capable of integrating various intelligence resources into mobile devices, making them capable of making decisions. The Hub aims to develop research to expand the cognitive and decision-making capacity of mobile devices, such as tablets and cell phones, making life easier for users.
 
 ## General Information
 
 - **Principal Investigator:** Geraldo Pereira Rocha Filho
 - **Duration:** 2025 - Present
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

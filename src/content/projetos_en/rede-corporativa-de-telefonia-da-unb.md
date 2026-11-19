@@ -1,8 +1,8 @@
 ---
-title: "Rede Corporativa de Telefonia da UnB"
+title: "UnB Corporate Telephony Network"
 period: "2005 - 2007"
 coordinator: "Ricardo S Puttini"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-The project aims to identificar as necessidades na área de telefonia na Universidade de Brasília e a implantação de um novo sistema de telefonia que permita: o tráfego de voz sobre IP, contabilização dos gastos, e melhoria nos serviços de telefonia..
+The project aims to identify the needs in the area of ​​telephony at the University of Brasília and the implementation of a new telephone system that allows: voice traffic over IP, cost accounting, and improvement in telephone services.
 
 ## General Information
 
 - **Principal Investigator:** Ricardo S Puttini
 - **Duration:** 2005 - 2007
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

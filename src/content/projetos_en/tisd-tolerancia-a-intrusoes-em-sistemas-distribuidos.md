@@ -1,5 +1,5 @@
 ---
-title: "TISD: Tolerância a Intrusões em Distributed Systems"
+title: "TISD: Tolerância a Intrusões em Sistemas Distribuídos"
 period: "2006 - 2008"
 coordinator: "Joni da Silva Fraga"
 funding: "Coordenação de Aperfeiçoamento de Pessoal de Nível"
@@ -14,7 +14,7 @@ tags:
 
 ## Project Overview
 
-O projeto TISD reúne duas equipes com cerca de 20 anos de pesquisa e competências fortes, mas complementares em tolerância a faltas e segurança de sistemas informáticos distribuídos. Os principais objetivos do projeto são: fazer intercâmbio entre professores e pesquisadores das duas equipes, dando a conhecer em cada uma o trabalho realizado na outra e fomentando trabalho conjunto; formação avançada de pesquisadores através da co- orientação de candidatos de doutoramento e da troca de experiências dos professores universitários envolvidos; estabelecer colaboração entre as duas equipes, produzindo artigos científicos conjuntos; reunir as competências complementares das duas equipes para abordar de forma inovadora alguns problemas de tolerância a faltas e intrusões em Distributed Systems de larga escala..
+The TISD project brings together two teams with around 20 years of research and strong but complementary skills in fault tolerance and security of distributed computer systems. The main objectives of the project are: to make exchanges between professors and researchers from the two teams, making each team aware of the work carried out in the other and encouraging joint work; advanced training of researchers through co-supervision of doctoral candidates and the exchange of experiences of the university professors involved; establish collaboration between the two teams, producing joint scientific articles; bring together the complementary skills of the two teams to innovatively address some problems of fault tolerance and intrusions in large-scale distributed systems.
 
 ## General Information
 

@@ -2,7 +2,7 @@
 title: "Estudo e implementação de interfaces hápticas voltadas à pessoas surdas"
 period: "2019 - Present"
 coordinator: "Marcus Vinicius Lamar"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Hoje em dia, grande parte da informação que recebemos do mundo é feita pelos sentidos de visão e audição. Pessoas surdas não possuem o sentido da audição, portanto torna-se premente o Development of técnicas e métodos para que estímulos sonoros possam ser transformados em estímulos visuais ou estímulos táteis, colaborando para a inclusão dessa parte da população no mundo. Este Research Project possui por objetivo o Development of interfaces hápticas, isto é, interfaces que usam o sentido do tato para estimulação, voltadas ao público surdo..
+Nowadays, much of the information we receive from the world is done through the senses of sight and hearing. Deaf people do not have the sense of hearing, therefore it is urgent to develop techniques and methods so that sound stimuli can be transformed into visual stimuli or tactile stimuli, contributing to the inclusion of this part of the population in the world. This research project aims to develop haptic interfaces, that is, interfaces that use the sense of touch for stimulation, aimed at the deaf public.
 
 ## General Information
 
 - **Principal Investigator:** Marcus Vinicius Lamar
 - **Duration:** 2019 - Present
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

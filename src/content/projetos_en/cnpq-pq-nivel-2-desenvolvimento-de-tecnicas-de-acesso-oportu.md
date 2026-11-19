@@ -1,8 +1,8 @@
 ---
-title: "CNPQ PQ Nível 2: Development of Techniques for Acesso Oportunista do Espectro Através da Alocação Dinâmica de Recursos"
+title: "CNPQ PQ Level 2: Development of Opportunistic Spectrum Access Techniques Through Dynamic Resource Allocation"
 period: "2009 - 2011"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Objetivo deste projeto está no Development of protocolos e algoritmos que permitam a alocação oportunista do espectro de forma dinâmica e eficiente, isto é, sem prejuízo para os usuários primários e permitindo o acesso de forma justa entre os usuários secundários..
+The objective of this project is to develop protocols and algorithms that allow the opportunistic allocation of spectrum in a dynamic and efficient way, that is, without prejudice to primary users and allowing fair access among secondary users.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2009 - 2011
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

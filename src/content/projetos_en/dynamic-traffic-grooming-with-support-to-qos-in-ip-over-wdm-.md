@@ -2,7 +2,7 @@
 title: "Dynamic Traffic Grooming with Support to QoS in IP over WDM Networks"
 period: "2007 - 2008"
 coordinator: "Nelson Luis Saldanha da Fonseca"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -20,7 +20,7 @@ Wavelength-division multiplexing (WDM) is the switching technology for the new g
 
 - **Principal Investigator:** Nelson Luis Saldanha da Fonseca
 - **Duration:** 2007 - 2008
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

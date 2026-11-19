@@ -1,8 +1,8 @@
 ---
-title: "Soluções Inteligentes para Sistema de Alerta a Incêndios Florestais no DF - Smart JBB"
+title: "Smart Solutions for Forest Fire Alert System in DF - Smart JBB"
 period: "2021 - 2023"
 coordinator: "Geraldo Pereira Rocha Filho"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -11,19 +11,19 @@ tags:
   - "Internet of Things (IoT)"
   - "Artificial Intelligence & ML"
   - "Vehicular Networks"
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
   - "Wireless Networks"
 ---
 
 ## Project Overview
 
-O Distrito Federal apresenta atualmente um cenário de intensificação e de recorrência de incêndios florestais. As áreas protegidas de Cerrado, relativamente isoladas em meio às zonas urbanizadas, são anualmente afetadas, conforme demonstra o relatório do Instituto Brasília Ambiental. O objetivo da proposta deste projeto é o Development of soluções de alertas inteligentes para áreas com incidência de queimadas no Distrito Federal. Além da criação de uma infraestrutura real (protótipo) por meio de uma Rede de Sensores e Atuadores Sem Fio para detectar Incêndios Florestais (IFs). Exploração do uso de Veículos Aéreos Não Tripulados para detectar os focos de IFs. Por fim, o Development of um sistema de percepção capaz de detectar IFs, a partir de imagens aéreas utilizando-se Techniques for Machine Learning.
+The Federal District currently presents a scenario of intensification and recurrence of forest fires. The protected areas of the Cerrado, relatively isolated in the midst of urbanized areas, are affected annually, as shown in the report by the Brasília Environmental Institute. The objective of this project proposal is the development of intelligent alert solutions for areas with incidence of fires in the Federal District. In addition to creating a real infrastructure (prototype) through a Network of Wireless Sensors and Actuators to detect Forest Fires (IFs). Exploration of the use of Unmanned Aerial Vehicles to detect IF outbreaks. Finally, the development of a perception system capable of detecting IFs, from aerial images using Machine Learning techniques.
 
 ## General Information
 
 - **Principal Investigator:** Geraldo Pereira Rocha Filho
 - **Duration:** 2021 - 2023
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,8 +1,8 @@
 ---
-title: "Escalabilidade na Persistência de Registros em Arquivos Locais"
+title: "Scalability in Record Persistence in Local Files"
 period: "2014 - 2015"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Este projeto tem como foco a prospecção de soluções que permitam a escalabilidade dos serviços de obtenção, armazenamento e disponibilização das informações recebidas dos dispositivos de rastreamento. Mais precisamente, o objetivo principal deste trabalho está centrado em soluções que permitam o rápido armazenamento e recuperação de dados (principalmente, os de localização)..
+This project focuses on prospecting solutions that allow the scalability of services for obtaining, storing and making available information received from tracking devices. More precisely, the main objective of this work is centered on solutions that allow the rapid storage and retrieval of data (mainly location data).
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2014 - 2015
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

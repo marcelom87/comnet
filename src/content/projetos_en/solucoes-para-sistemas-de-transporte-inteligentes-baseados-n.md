@@ -1,8 +1,8 @@
 ---
-title: "Soluções para sistemas de transporte inteligentes baseados na computação urbana"
+title: "Solutions for intelligent transport systems based on urban computing"
 period: "2018 - 2019"
 coordinator: "Geraldo Pereira Rocha Filho"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-Um sistema de transporte inteligente integra dados, comunicação e computação para resolver diversos problemas nos sistemas de transportes tradicionais de grandes cidades, tais como engarrafamentos e acidentes, visando, por exemplo, diminuir o tempo de viagens e aumentar a qualidade e segurança dos deslocamentos. Dessa forma, uma solução eficiente para um sistema de transporte inteligente deve ser capaz de integrar diversas fontes de dados urbanos, dentre elas dados provenientes de Vehicular Networks e dados da Web sobre diversas questões da cidade. Ações nessa direção ilustram uma emergente área de estudo, denominada computação urbana. This project aims to avançar o estado da arte da computação urbana provendo soluções para sistemas de transportes inteligentes que integra dados urbanos da Web e Vehicular Networks. Para isso, o projeto irá investigar novas técnicas para a coleta, integração e Analysis of grandes volumes de dados provenientes de diferentes fontes, bem como propor mecanismos de disseminação, extração de conhecimento e controle de informação para aplicações em sistemas de transporte inteligente. Por fim, salienta-se que este projeto está vinculada ao projeto temático financiado pela FAPESP (processo, 2015/24494- 8)..
+An intelligent transport system integrates data, communication and computing to solve various problems in traditional transport systems in large cities, such as traffic jams and accidents, aiming, for example, to reduce travel time and increase the quality and safety of travel. Therefore, an efficient solution for an intelligent transport system must be capable of integrating several sources of urban data, including data from vehicular networks and web data on various city issues. Actions in this direction illustrate an emerging area of ​​study, called urban computing. This project aims to advance the state of the art of urban computing by providing solutions for intelligent transport systems that integrate urban data from the Web and vehicular networks. To this end, the project will investigate new techniques for collecting, integrating and analyzing large volumes of data from different sources, as well as proposing dissemination, knowledge extraction and information control mechanisms for applications in intelligent transport systems. Finally, it should be noted that this project is linked to the thematic project financed by FAPESP (process, 2015/24494- 8).
 
 ## General Information
 
 - **Principal Investigator:** Geraldo Pereira Rocha Filho
 - **Duration:** 2018 - 2019
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

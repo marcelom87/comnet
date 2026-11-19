@@ -2,7 +2,7 @@
 title: "The Emergent Self-Aware Data Centre"
 period: "2017 - 2021"
 coordinator: "PORTER, BARRY"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ This is a Leverhulme-funded project examining fully automated, continuous self- 
 
 - **Principal Investigator:** PORTER, BARRY
 - **Duration:** 2017 - 2021
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

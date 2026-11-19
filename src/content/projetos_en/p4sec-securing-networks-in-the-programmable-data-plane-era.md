@@ -2,7 +2,7 @@
 title: "P4Sec: Securing Networks in the Programmable Data Plane Era"
 period: "2017 - 2020"
 coordinator: "Eduardo Adilio Pelinson Alchieri"
-funding: "Rede Nacional de Ensino e Pesquisa - Financial Grant / National"
+funding: "National Education and Research Network - Financial aid / National"
 status: "Completed"
 featured: false
 professors:
@@ -21,7 +21,7 @@ Descrição: Recent advances in Software Defined Networking (SDN) have expanded 
 
 - **Principal Investigator:** Eduardo Adilio Pelinson Alchieri
 - **Duration:** 2017 - 2020
-- **Sponsors:** Rede Nacional de Ensino e Pesquisa - Financial Grant / National
+- **Sponsors:** National Education and Research Network - Financial aid / National
 - **Status:** Completed
 - **Participating COMNET Faculty:** Eduardo Adilio Pelinson Alchieri, Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,5 +1,5 @@
 ---
-title: "Descrição: O projeto tem como objetivo geral o estudo dos desafios regulatórios originários das novas conformações do ecossistema digital para o exercício de direitos fundamentais: poder de mercado no ecossistema digital, complexidades fiscais trazidas pelos mercados digitais, dificuldades surgidas da dispersão institucional de competências no tratamento das principais questões surgidas no ecossistema digital.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Priscila América Solís Mendez Barreto - Integrante / Marcio Iorio - Coordenador / Luis Fernando Mollinaro - Integrante / Paulo Henrique Portela de Carvalho - Integrante / Robson Domingos Vieira - Integrante / Eliomar Araújo de Lima - Integrante / Antonio Ribeiro dos Santos - Integrante. Financiador(es): Agência Nacional de Telecomunicações - Auxílio financeiro. PLEDESIR - Plataforma Experimental para Desenvolvimento de Serviços Inteligentes em 5G/6G no Âmbito de Interfaces Abertas na RAN"
+title: "Desafios Regulatórios e Direitos Fundamentais no Ecossistema Digital"
 period: "2023 - Atual"
 coordinator: "Marcio Iorio"
 funding: "Agência Nacional de Telecomunicações - Auxílio financeiro"

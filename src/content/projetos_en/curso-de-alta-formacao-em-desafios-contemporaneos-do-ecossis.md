@@ -1,8 +1,8 @@
 ---
-title: "Curso de alta formação em desafios contemporâneos do ecossistema digital"
+title: "Advanced training course on contemporary challenges of the digital ecosystem"
 period: "2024 - 2024"
 coordinator: "Priscila América Solís Mendez Barreto"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -16,13 +16,13 @@ tags:
 
 ## Project Overview
 
-Apresentar e desenvolver os fundamentos conceituais tecnológicos, econômicos, da comunicação social e do direito aplicados à regulação, que deverão embasar as grandes decisões dos profissionais de regulação em Telecomunicações, nos cenários atuais e of the Future, que se apresenta na forma de um mundo digitalizado a países como o Brasil e semelhantes, a começar pela língua portuguesa.Apresentar e desenvolver com os alunos conceitos relacionados: aos impactos do ecossistema digital na comunicação social; ao desenho regulatório responsivo; à tributação de serviços digitais; aos conceitos de antitruste aplicados às plataformas digitais; à liberdade de expressão no ecossistema digital; às redes de comutação de pacotes, às Software-Defined Networking e à Network Functions Virtualization; à convergência tecnológica de serviços; às tecnologias habilitadoras do paradigma Open RAN; à Cybersecurity em sistemas 5G e Open RAN; às tendências tecnológicas de sistemas de comunicações; ao modelo regulatório pró-inovação; à Analysis of Impacto regulatório e avaliação de resultado regulatório; aos sistemas de comunicações e mecanismos de propagação; às tendências de aplicação de Artificial Intelligence em sistemas de comunicações; às tecnologias habilitadoras da Web 3.0; à defesa da concorrência e à regulação econômica..
+Present and develop the conceptual foundations of technology, economics, social communication and law applied to regulation, which should support the major decisions of regulatory professionals in Telecommunications, in current and future scenarios, which presents itself in the form of a digitalized world in countries like Brazil and similar countries, starting with the Portuguese language. Present and develop with students concepts related to: the impacts of the digital ecosystem on social communication; responsive regulatory design; the taxation of digital services; antitrust concepts applied to digital platforms; freedom of expression in the digital ecosystem; packet-switched networks, software-defined networks and the virtualization of network functions; the technological convergence of services; the enabling technologies of the Open RAN paradigm; cybersecurity in 5G and Open RAN systems; technological trends in communications systems; the pro-innovation regulatory model; regulatory impact analysis and regulatory result assessment; to communications systems and propagation mechanisms; trends in the application of Artificial Intelligence in communications systems; to Web 3.0 enabling technologies; to the defense of competition and economic regulation.
 
 ## General Information
 
 - **Principal Investigator:** Priscila América Solís Mendez Barreto
 - **Duration:** 2024 - 2024
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

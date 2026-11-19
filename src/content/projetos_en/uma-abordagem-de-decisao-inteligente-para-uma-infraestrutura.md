@@ -1,8 +1,8 @@
 ---
-title: "Uma abordagem de decisão inteligente para uma infraestrutura de automação residencial distribuída usando redes de sensores e atuadores sem fio Projeto certificado pelo(a) coordenador(a) Jó Ueyama em 10/12/2014"
+title: "An intelligent decision approach for a distributed home automation infrastructure using wireless sensor and actuator networks Project certified by coordinator Jó Ueyama on 12/10/2014"
 period: "2014 - 2018"
 coordinator: "Jo Ueyama"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -15,13 +15,13 @@ tags:
 
 ## Project Overview
 
-Nos últimos anos, um dos principais desafios globais está relacionado com a eficiência energética, sendo o desperdício de energia um dos fatores a ser destacado. Tal desperdício pode ser superado com o uso do Sistema de Automação Residencial (HAS). Contudo, as HASs são fortemente dependentes da sua rede interna, visto que esta é a base de uma casa inteligente. Nesse cenário, a Rede de Sensores e Atuadores sem Fio (RSASF) é uma solução promissora, ubíqua e de fácil implantação para ser utilizada como infraestrutura em um sistema de automação residencial. Entretanto, o uso das RSASFs como infraestrutura para monitorar e atuar no processo de decisão in the Context of um sistema de automação residencial traz novos desafios. Tais desafios remetem não apenas a falta de um método para atuar no processo de decisão dentro da própria rede para reduzir o consumo de energia dos moradores, mas também na ausência em investigar um trade- off entre precisão das informações e consumo de energia dos sensores para prolongar o tempo de vida útil da infraestrutura. Além disso, a falta de uma infraestrutura totalmente distribuída, flexível e que atenda às necessidades dos moradores são algumas das novas problemáticas a serem exploradas. Nesse contexto, este Research Project visa propor um sistema de automação residencial distribuído usando nós sensores e atuadores sem fio. Para tanto, soluções baseadas em Methods for aprendizagem de máquina para atuar no processo de decisão dentro da própria rede, bem como soluções de agregações de dados serão propostas. Assim, o sistema será ciente não apenas no tempo de vida útil da rede, mas também no consumo de energia elétrica dos moradores. Ainda, mediante os dados distribuídos, serão reutilizadas as grandezas físicas do ambiente, tais como presença, temperatura e umidade, para correlacionar as aplicações (ar condicionado e/ou iluminação, por exemplo) no processo de decisão. Por exemplo, o sistema de ar condicionado pode desligar ou aumentar a temperatura, quando o sistema de iluminação detecta ausência de moradores no ambiente..
+In recent years, one of the main global challenges is related to energy efficiency, with energy waste being one of the factors to be highlighted. Such waste can be overcome with the use of the Home Automation System (HAS). However, HASs are heavily dependent on their internal network, as this is the basis of a smart home. In this scenario, the Wireless Sensor and Actuator Network (RSASF) is a promising, ubiquitous and easy-to-implement solution to be used as infrastructure in a home automation system. However, the use of RSASFs as infrastructure to monitor and act on the decision process in the context of a home automation system brings new challenges. Such challenges refer not only to the lack of a method to act on the decision-making process within the network itself to reduce residents' energy consumption, but also to the lack of investigating a trade-off between information accuracy and sensor energy consumption to extend the useful life of the infrastructure. Furthermore, the lack of a fully distributed, flexible infrastructure that meets the needs of residents are some of the new problems to be explored. In this context, this research project aims to propose a distributed home automation system using wireless sensor nodes and actuators. To this end, solutions based on machine learning methods to act on the decision process within the network itself, as well as data aggregation solutions will be proposed. Thus, the system will be aware not only of the useful life of the network, but also of the electricity consumption of residents. Furthermore, through the distributed data, the physical quantities of the environment will be reused, such as presence, temperature and humidity, to correlate applications (air conditioning and/or lighting, for example) in the decision process. For example, the air conditioning system may turn off or increase the temperature when the lighting system detects the absence of residents in the room.
 
 ## General Information
 
 - **Principal Investigator:** Jo Ueyama
 - **Duration:** 2014 - 2018
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

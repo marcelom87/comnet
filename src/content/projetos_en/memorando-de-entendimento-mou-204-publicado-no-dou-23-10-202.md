@@ -1,8 +1,8 @@
 ---
-title: "Memorando de Entendimento (MOU) #204, publicado no DOU 23/10/2020, Seção 3, Página 101, SEI 23106.012246/2020-01.. Situação: Concluído; Natureza: Pesquisa. Integrantes: Marcos Fagundes Caetano - Coordenador. Financiador(es): Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio financeiro. SEMFOGO-DF Projeto certificado pelo(a) coordenador(a) Priscila América Solís Mendez Barreto em 28/03/2022"
+title: "Memorandum of Understanding (MOU) #204, published in the DOU 10/23/2020, Section 3, Page 101, SEI 23106.012246/2020-01.. Status: Completed; Nature: Research. Members: Marcos Fagundes Caetano - Coordinator. Funder(s): Federal District Research Support Foundation - Financial assistance. SEMFOGO-DF Project certified by coordinator Priscila América Solís Mendez Barreto on 03/28/2022"
 period: "2022 - Present"
 coordinator: "Marcos Fagundes Caetano"
-funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
+funding: "Federal District Research Support Foundation - Aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,18 +13,18 @@ tags:
   - "Distributed Systems"
   - "Artificial Intelligence & ML"
   - "Multimedia & Signal Processing"
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
 ---
 
 ## Project Overview
 
-O projeto SEMFOGO-DF tem como objetivo desenvolver uma solução dentro do contexto de Smart Cities, ao aplicar algoritmos de Artificial Intelligence (IA) e Computer Vision (VC) para identificar incêndios, com o intuito de dar um apoio tecnológico ao Corpo de Bombeiros Militar do Distrito Federal (CBM-DF) no tratamento rápido de emergências, com base na análise confiável e inteligente de informações coletadas de forma distribuída e automatizada na área de Brasília-DF. O foco especial da solução proposta são os incidentes de incêndios na região metropolitana e cerrado de Brasília. O projeto propõe a implementação de um marco de referência (framework) que permitirá a captura de imagens de vídeo e o seu processamento em tempo real para identificar sinistros e disparar alarmes quando detectados. As imagens serão obtidas através de câmeras instaladas em pontos estratégicos da cidade. In this project, a proposta é que o primeiro ponto de instalação das câmeras seja a torre de TV digital. A transmissão das imagens será feita através da infraestrutura de conectividade óptica de alta velocidade da Redecomep administrada pela Gigacandanga..
+The SEMFOGO-DF project aims to develop a solution within the context of Smart Cities, by applying Artificial Intelligence (AI) and Computer Vision (VC) algorithms to identify fires, with the aim of providing technological support to the Military Fire Department of the Federal District (CBM-DF) in the rapid treatment of emergencies, based on reliable and intelligent analysis of information collected in a distributed and automated way in the Brasília-DF area. The special focus of the proposed solution is fire incidents in the metropolitan and cerrado region of Brasília. The project proposes the implementation of a framework that will allow the capture of video images and their processing in real time to identify accidents and trigger alarms when detected. The images will be obtained through cameras installed at strategic points in the city. In this project, the proposal is that the first point of installation of the cameras is the digital TV tower. The images will be transmitted through Redecomep's high-speed optical connectivity infrastructure managed by Gigacandanga.
 
 ## General Information
 
 - **Principal Investigator:** Marcos Fagundes Caetano
 - **Duration:** 2022 - Present
-- **Sponsors:** Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio
+- **Sponsors:** Federal District Research Support Foundation - Aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Marcos Fagundes Caetano
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,5 +1,5 @@
 ---
-title: "Descrição: O objetivo deste projeto é investigar e propor framework conceitual de avaliação do desempenho das redes 5G, considerando as diversas demandas existentes que serão suportadas pela rede, faixas de frequência disponíveis, aspectos econômicos e regulatórios envolvidos assim com e a experiência do usuário. O projeto pretende estudar e avaliar os métodos para habilitar diversos requisitos de serviço para fatiamento de rede, incluindo garantias para QoS de ponta a ponta para um serviço específico dentro de uma fatia da rede 5G e métodos de otimização de seleção de recursos e funções de rede.. Situação: Concluído; Natureza: Pesquisa. Alunos envolvidos: Graduação: (2) / Mestrado acadêmico: (1) . Integrantes: Priscila América Solís Mendez Barreto - Coordenador / Cristoffer da Silva Leite - Integrante / Rafael Amaral - Integrante / Eden Medeiros - Integrante. Financiador(es): Universidade de Brasília - Auxílio financeiro. 5G-RANGE Remote area Access Network for 5th Generation"
+title: "5G-RANGE: Framework Conceitual e Avaliação de Desempenho em Redes 5G"
 period: "2017 - 2021"
 coordinator: "Priscila América Solís Mendez Barreto"
 funding: "Universidade de Brasília - Auxílio financeiro"

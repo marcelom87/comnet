@@ -1,8 +1,8 @@
 ---
-title: "Estudo e Implementação de Codificadores de Vídeo MPEG-2 e MPEG-4 para o Sistema Brasileiro de TV Digital"
+title: "Study and Implementation of MPEG-2 and MPEG-4 Video Encoders for the Brazilian Digital TV System"
 period: "2003 - 2006"
 coordinator: "Marcus Vinicius Lamar"
-funding: "Fundação Araucária - Financial Grant"
+funding: "Fundação Araucária - Auxílio financeiro"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Desde 1998, o Brasil tem dedicado esforços para definir qual sistema de TV digital será adotado. Através estudos realizados, concluiu-se que os sistemas atualmente existentes, Sistema Americano (ATSC), Japonês (ISDB) e Europeu (DVB), não se enquadram nas necessidades do mercado brasileiro. Assim sendo, a proposta atual dos dirigentes é o estudo e Development of um sistema de televisão digital próprio para o Brasil. Este Research Project visa, inicialmente, realizar um estudo prospectivo e comparativo entre os codificadores MPEG2 e MPEG4, visando definir qual é o melhor para o SBTVD.
+Since 1998, Brazil has dedicated efforts to define which digital TV system will be adopted. Through studies carried out, it was concluded that the currently existing systems, the American System (ATSC), Japanese (ISDB) and European (DVB), do not fit the needs of the Brazilian market. Therefore, the directors' current proposal is the study and development of a digital television system suitable for Brazil. This research project initially aims to carry out a prospective and comparative study between MPEG2 and MPEG4 encoders, aiming to define which is best for SBTVD.
 
 ## General Information
 
 - **Principal Investigator:** Marcus Vinicius Lamar
 - **Duration:** 2003 - 2006
-- **Sponsors:** Fundação Araucária - Financial Grant
+- **Sponsors:** Fundação Araucária - Auxílio financeiro
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

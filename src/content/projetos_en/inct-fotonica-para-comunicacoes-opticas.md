@@ -2,7 +2,7 @@
 title: "INCT Fotônica para Comunicações Ópticas"
 period: "2008 - 2011"
 coordinator: "Hugo Luis Fragnito"
-funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
+funding: "São Paulo State Research Support Foundation - Aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Objetivos do projeto: Desenvolver uma rede de pesquisa capaz de explorar e participar dos avanços científicos em fotônica, os quais poderão gerar substanciais inovações na área de comunicações ópticas e servir de suporte para o desenvolvimento da indústria nacional. Desenvolver fortes laços entre o meio acadêmico, a indústria e o governo visando o desenvolvimento nacional do setor de comunicações ópticas. Formar recursos humanos altamente qualificados em comunicações ópticas, com sólido embasamento em ciência e engenharia, para atuar no meio setor acadêmico e na indústria. Viabilizar o rápido crescimento de grupos emergentes no campo das comunicações ópticas e estimular a migração de grupos com experiência em outras áreas da óptica e fotônica, na área de comunicações ópticas;.
+Project objectives: Develop a research network capable of exploring and participating in scientific advances in photonics, which could generate substantial innovations in the area of ​​optical communications and serve as support for the development of the national industry. Develop strong ties between academia, industry and government aiming at the national development of the optical communications sector. Train highly qualified human resources in optical communications, with a solid foundation in science and engineering, to work in the academic sector and industry. Enable the rapid growth of emerging groups in the field of optical communications and encourage the migration of groups with experience in other areas of optics and photonics, in the area of ​​optical communications;
 
 ## General Information
 
 - **Principal Investigator:** Hugo Luis Fragnito
 - **Duration:** 2008 - 2011
-- **Sponsors:** Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio
+- **Sponsors:** São Paulo State Research Support Foundation - Aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

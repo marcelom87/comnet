@@ -1,5 +1,5 @@
 ---
-title: "Federação na Rede Veicular: Rumo a uma nova geração de serviços ciente do contexto urbano"
+title: "Federation in the Vehicle Network: Towards a new generation of services aware of the urban context"
 period: "2022 - Present"
 coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico -"
@@ -13,7 +13,7 @@ tags:
 
 ## Project Overview
 
-Linha de fomento: Bolsas de Produtividade em Pesquisa - PQ nivel 2.
+Funding line: Research Productivity Grants - PQ level 2.
 
 ## General Information
 

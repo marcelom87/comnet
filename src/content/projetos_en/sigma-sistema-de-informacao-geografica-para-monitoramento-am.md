@@ -1,25 +1,25 @@
 ---
-title: "SIGMA - Sistema de Informação Geográfica para Monitoramento Ambiental"
+title: "SIGMA - Geographic Information System for Environmental Monitoring"
 period: "2010 - 2012"
 coordinator: "Vagner José do Sacramento Rodrigues"
-funding: "Dell Computadores do Brasil - Financial Grant"
+funding: "Dell Computadores do Brasil - Auxílio financeiro"
 status: "Completed"
 featured: false
 professors:
   - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Sectoral & Bioinformatics"
+  - "Sectoral Applications & Bioinformatics"
 ---
 
 ## Project Overview
 
-Num país de tamanho continental como o Brasil, a tarefa de monitorar as agressões ao meio ambiente de forma efetiva e at Large Scale é ainda um problema em aberto tanto na academia quanto nas soluções comerciais. De fato, este é um problema estratégico para os governos e ONGs no movimento de preservação ambiental que paira no mundo e, naturalmente, estão em busca de soluções que os auxiliem nessa tarefa. Em função disto, The objective of this project is to desenvolver um sistema georeferenciado altamente escalável para monitoramento ambiental dos biomas terrestres (ex. cerrado, amazônia, mata atlântica). Esse sistema será capaz de processar um grande volume de dados espaciais para analisar e correlacionar, em tempo-real, eventos complexos tal como o aumento do desmatamento ou incêndios próximos a leito de rios, áreas de preservação ambiental, etc...
+In a continental-sized country like Brazil, the task of monitoring attacks on the environment effectively and on a large scale is still an open problem both in academia and in commercial solutions. In fact, this is a strategic problem for governments and NGOs in the environmental preservation movement that takes place around the world and, naturally, they are looking for solutions that help them in this task. As a result, the objective of this project is to develop a highly scalable georeferenced system for environmental monitoring of terrestrial biomes (e.g. cerrado, Amazon, Atlantic forest). This system will be capable of processing a large volume of spatial data to analyze and correlate, in real time, complex events such as increased deforestation or fires near riverbeds, environmental preservation areas, etc...
 
 ## General Information
 
 - **Principal Investigator:** Vagner José do Sacramento Rodrigues
 - **Duration:** 2010 - 2012
-- **Sponsors:** Dell Computadores do Brasil - Financial Grant
+- **Sponsors:** Dell Computadores do Brasil - Auxílio financeiro
 - **Status:** Completed
 - **Participating COMNET Faculty:** Roberto Vito Rodrigues Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

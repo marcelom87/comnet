@@ -1,8 +1,8 @@
 ---
-title: "CNPQ PQ Nível 2: Development of Mecanismos Colaborativos e Eficientes em Energia para Suporte ao Acesso Dinâmico do Espectro"
+title: "CNPQ PQ Level 2: Development of Collaborative and Energy-Efficient Mechanisms to Support Dynamic Spectrum Access"
 period: "2013 - 2015"
 coordinator: "Jacir Luiz Bordim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Este projeto tem como o objetivo principal o estudo e Development of técnicas que permitam realizar o acesso dinâmico do espectro. Este acesso será desenvolvido com base na colaboração dos usuários secundários. Mais precisamente, This project aims to o estudo e a elaboração de mecanismos de acesso ao meio colaborativos e eficientes em energia que permitam realizar as tarefas de sensoriamento, identificação de oportunidades de transmissão e o agendamento de transmissões. Como objetivo secundário, pretende-se desenvolver mecanismos de roteamento otimizados pela interação entre as informações da camada enlace (informações do meio) e da camada de rede de forma a desenvolver protocolos de roteamento para dispositivos que realizam o acesso oportunístico do espectro..
+This project's main objective is to study and develop techniques that allow dynamic spectrum access. This access will be developed based on the collaboration of secondary users. More precisely, this project aims to study and develop collaborative and energy-efficient media access mechanisms that allow sensing tasks, identification of transmission opportunities and scheduling of transmissions. As a secondary objective, the aim is to develop routing mechanisms optimized by the interaction between information from the link layer (medium information) and the network layer in order to develop routing protocols for devices that perform opportunistic spectrum access.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2013 - 2015
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

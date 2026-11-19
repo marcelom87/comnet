@@ -2,7 +2,7 @@
 title: "Codificação de Vídeo utilizando Decomposição Quadtree"
 period: "1994 - 1997"
 coordinator: "Marcus Vinicius Lamar"
-funding: "Universidade Federal de Santa Catarina - Cooperation"
+funding: "Universidade Federal de Santa Catarina - Cooperação"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Estudo da utilização da decomposição Quad-Tree em sistemas de codificação de vídeo digital a baixas taxas de transmissão. A decomposição quad-tree é utilizada na etapa de Estimação e Compensação de movimentos, permitindo a redução da compexidade computacional destas etapas, assim como a redução da taxa de bits necessárias a codificação dos vetores de movimento..
+Study of the use of Quad-Tree decomposition in digital video coding systems at low transmission rates. The quad-tree decomposition is used in the Motion Estimation and Compensation stage, allowing the reduction of the computational complexity of these stages, as well as the reduction of the bit rate required to encode the motion vectors.
 
 ## General Information
 
 - **Principal Investigator:** Marcus Vinicius Lamar
 - **Duration:** 1994 - 1997
-- **Sponsors:** Universidade Federal de Santa Catarina - Cooperation
+- **Sponsors:** Universidade Federal de Santa Catarina - Cooperação
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,8 +1,8 @@
 ---
-title: "Development of um par de luvas instrumentalizadas para aquisição de movimentos aplicadas ao processamento e reconhecimento de gestos humanos"
+title: "Development of a pair of instrumented gloves for movement acquisition applied to the processing and recognition of human gestures"
 period: "2002 - 2006"
 coordinator: "Marcus Vinicius Lamar"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -15,13 +15,13 @@ tags:
 
 ## Project Overview
 
-RESUMO: O estudo, modelagem e reconhecimento automático de gestos humanos são áreas que vêm atraindo o interesse da comunidade científica, com aplicações diversas tais como, robótica, interface homem-máquina, realidade virtual, jogos eletrônicos e telecomunicações [1]. O uso de dispositivos de baixo custo que apresentem uma boa eficiência no modelamento de movimentos e requererem baixa complexidade computacional, possibilita a popularização e criação de novas aplicações das áreas já citadas. In this project serão investigadas novas Techniques for instrumentação eletrônica e sensores que permitam a aquisição de gestos e posturas manuais em tempo real. A aplicação mais desafiadora, e por isso mesmo a visada In this project, é a tradução em tempo real da linguagem dos sinais, utilizada por pessoas portadoras de algum tipo de deficiência vocal/auditiva. O Development of um sistema que permita a tradução em tempo real desta linguagem em texto [1] [5] ou voz [3] [4], certamente causará um grande impacto social, permitindo que esta parcela da sociedade tenha uma maior participação no processo sócio-econômico e cultural. The objective of this project is to o desenvolvimento do protótipo de um par de luvas instrumentalizadas (DataGlove) que permita o tracking e captura de posturas manuais e gestos humanos. Também objetiva, estudar Techniques for sensoreamento eletrônico adequadas ao objetivo e formas de interface com o computador, de modo a permitir a aquisição e processamento em tempo real de movimentos realizados pelas mãos e braços do usuário. Objetiva-se construir um par de luvas com 22 sensores em cada mão, além de 8 sensores em cada braço, totalizando 60 sensores. Cada sensor terá resolução de 6 a 8 bits e taxa de amostragem de no mínimo 200Hz . Este trabalho será desenvolvido visando dar subsídios para um seguinte estudo comparativo entre as Techniques for aquisição de gestos usando câmeras de vídeo e as Techniques for captura direta dos movimentos, usando sensores específicos para t.
+ABSTRACT: The study, modeling and automatic recognition of human gestures are areas that have been attracting the interest of the scientific community, with diverse applications such as robotics, human-machine interface, virtual reality, electronic games and telecommunications [1]. The use of low-cost devices that present good efficiency in modeling movements and require low computational complexity, makes it possible to popularize and create new applications in the areas already mentioned. In this project, new electronic instrumentation techniques and sensors will be investigated that allow the acquisition of manual gestures and postures in real time. The most challenging application, and therefore the one targeted in this project, is the real-time translation of sign language, used by people with some type of vocal/hearing disability. The development of a system that allows real-time translation of this language into text [1] [5] or voice [3] [4] will certainly cause a great social impact, allowing this part of society to have greater participation in the socio-economic and cultural process. The objective of this project is to develop a prototype of a pair of instrumented gloves (DataGlove) that allows the tracking and capture of manual postures and human gestures. It also aims to study electronic sensing techniques suitable for the purpose and forms of interface with the computer, in order to allow the real-time acquisition and processing of movements carried out by the user's hands and arms. The aim is to build a pair of gloves with 22 sensors on each hand, in addition to 8 sensors on each arm, totaling 60 sensors. Each sensor will have a resolution of 6 to 8 bits and a sampling rate of at least 200Hz. This work will be developed with the aim of providing support for a subsequent comparative study between gesture acquisition techniques using video cameras and direct movement capture techniques, using specific sensors for t.
 
 ## General Information
 
 - **Principal Investigator:** Marcus Vinicius Lamar
 - **Duration:** 2002 - 2006
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Marcus Vinicius Lamar
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

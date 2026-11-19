@@ -2,7 +2,7 @@
 title: "EUBrasilCloudForum"
 period: "2016 - 2018"
 coordinator: "Priscila Sólis Barreto"
-funding: "Rede Nacional de Ensino e Pesquisa - Financial Grant / Comissão"
+funding: "National Education and Research Network - Financial aid / Commission"
 status: "Completed"
 featured: false
 professors:
@@ -16,13 +16,13 @@ tags:
 
 ## Project Overview
 
-O projeto EUBRASILCLOUDFORUM, aprovado na 3a Chamada Pública Conjunta em TICS lançada pelo MCTI e pela Comissão Européia tem como parceiros do lado brasileiro a UnB (Coordenadora do Projeto), a UFSC e a USP. Do lado europeu os parceiros são a Universidade de Coimbra, o Waterford Institute of Technology e a IT-Trust Services. O projeto apresenta detalhamento do estado de arte em Cloud Computing. O projeto tem como objetivo principal estruturar um fórum de engajamento orientado à comunidade científica que permita o diálogo sobre políticas e pesquisas em Cloud Computing, produzir um roadmap de pesquisa e inovação entre Brasil e Europa para Cloud Computing e organizar e apoiar eventos científicos cujo foco seja a Cloud Computing. O projeto tem uma duração de 24 meses e será avaliado trimestralmente pelo CTIC/RNP (Centro de Tecnologias da Informação e Comunicação), órgão de fomento em pesquisa do MCTI..
+The EUBRASILCLOUDFORUM project, approved in the 3rd Joint Public Call for TICS launched by MCTI and the European Commission, has as partners on the Brazilian side UnB (Project Coordinator), UFSC and USP. On the European side, the partners are the University of Coimbra, the Waterford Institute of Technology and IT-Trust Services. The project presents details of the state of the art in cloud computing. The project's main objective is to structure an engagement forum aimed at the scientific community that allows dialogue on policies and research in Cloud Computing, produce a research and innovation roadmap between Brazil and Europe for Cloud Computing and organize and support scientific events whose focus is Cloud Computing. The project lasts 24 months and will be evaluated quarterly by CTIC/RNP (Center for Information and Communication Technologies), MCTI's research funding body.
 
 ## General Information
 
 - **Principal Investigator:** Priscila Sólis Barreto
 - **Duration:** 2016 - 2018
-- **Sponsors:** Rede Nacional de Ensino e Pesquisa - Financial Grant / Comissão
+- **Sponsors:** National Education and Research Network - Financial aid / Commission
 - **Status:** Completed
 - **Participating COMNET Faculty:** Eduardo Adilio Pelinson Alchieri, Marcos Fagundes Caetano, Priscila América Solís Mendez Barreto
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

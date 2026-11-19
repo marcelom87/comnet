@@ -1,8 +1,8 @@
 ---
-title: "Rede Comunitária de Educação e Pesquisa do Distrito Federal (Redecomep-DF)"
+title: "Community Education and Research Network of the Federal District (Redecomep-DF)"
 period: "2005 - 2010"
 coordinator: "Jacir Luiz Bordim"
-funding: "Rede Nacional de Ensino e Pesquisa - Cooperation"
+funding: "National Education and Research Network - Cooperation"
 status: "Completed"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Redecomep é uma iniciativa do Ministério da Ciência e Tecnologia (MCT), coordenada pela Rede Nacional de Ensino e Pesquisa (RNP), que tem como objetivo implementar redes de alta velocidade nas regiões metropolitanas do país servidas pelos Pontos de Presença da RNP. O modelo adotado baseia-se na implantação de uma infra- estrutura de fibras ópticas própria voltada para as instituições de pesquisa e educação superior e na formação de consórcios entre as instiuições participantes de forma a assegurar sua auto-sustentação. Participação como Coordenador do Comitê Técnico.
+Redecomep is an initiative of the Ministry of Science and Technology (MCT), coordinated by the National Education and Research Network (RNP), which aims to implement high-speed networks in the country's metropolitan regions served by RNP Points of Presence. The model adopted is based on the implementation of its own optical fiber infrastructure aimed at research and higher education institutions and the formation of consortia between participating institutions in order to ensure their self-sustainability. Participation as Coordinator of the Technical Committee.
 
 ## General Information
 
 - **Principal Investigator:** Jacir Luiz Bordim
 - **Duration:** 2005 - 2010
-- **Sponsors:** Rede Nacional de Ensino e Pesquisa - Cooperation
+- **Sponsors:** National Education and Research Network - Cooperation
 - **Status:** Completed
 - **Participating COMNET Faculty:** Jacir Luiz Bordim
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

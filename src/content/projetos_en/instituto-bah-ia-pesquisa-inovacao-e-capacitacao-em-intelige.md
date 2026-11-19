@@ -1,8 +1,8 @@
 ---
-title: "Instituto BAH.IA: Pesquisa, Inovação e Capacitação em Artificial Intelligence para Impulsionar a Soberania Tecnológica e Competitividade Baiana"
+title: "BAH.IA Institute: Research, Innovation and Training in Artificial Intelligence to Boost Technological Sovereignty and Competitiveness in Bahia"
 period: "2025 - Present"
 coordinator: "Tatiane Nogueira Rios"
-funding: "Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio"
+funding: "Bahia State Research Support Foundation - Aid"
 status: "Ongoing"
 featured: false
 professors:
@@ -13,13 +13,13 @@ tags:
 
 ## Project Overview
 
-Esta proposta visa contribuir para o avanço da Artificial Intelligence (IA) no Estado da Bahia, alinhando-se ao Plano Brasileiro de Artificial Intelligence (PBIA) por meio de dois caminhos principais: a capacitação at Large Scale de profissionais qualificados e o Development of pesquisas que transformem a vida dos baianos por meio de inovações sustentáveis. O projeto propõe a criação do Instituto BAH.IA, consolidando uma rede de instituições de ensino e pesquisa do estado, como UFBA, UNEB, UEFS, UESC e UESB, conectando um amplo grupo de pesquisadores para promover o letramento e a transferência tecnológica em IA..
+This proposal aims to contribute to the advancement of Artificial Intelligence (AI) in the State of Bahia, aligning itself with the Brazilian Artificial Intelligence Plan (PBIA) through two main paths: the large-scale training of qualified professionals and the development of research that transforms the lives of Bahians through sustainable innovations. The project proposes the creation of the BAH.IA Institute, consolidating a network of teaching and research institutions in the state, such as UFBA, UNEB, UEFS, UESC and UESB, connecting a broad group of researchers to promote literacy and technological transfer in AI.
 
 ## General Information
 
 - **Principal Investigator:** Tatiane Nogueira Rios
 - **Duration:** 2025 - Present
-- **Sponsors:** Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio
+- **Sponsors:** Bahia State Research Support Foundation - Aid
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

@@ -1,8 +1,8 @@
 ---
-title: "Um sistema inteligente de alerta para o monitoramento remoto do consumo de energia elétrica usando Wireless Sensor Networks e Cloud Computing Projeto certificado pelo(a) coordenador(a) Jó Ueyama em 10/12/2014"
+title: "An intelligent alert system for remote monitoring of electricity consumption using wireless sensor networks and cloud computing Project certified by coordinator Jó Ueyama on 12/10/2014"
 period: "2013 - 2014"
 coordinator: "Jo Ueyama"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -16,13 +16,13 @@ tags:
 
 ## Project Overview
 
-Determinar quais são os equipamentos eletrônicos de uma residência que possuem maior influência na conta de luz não é uma tarefa trivial. As Wireless Sensor Networkss (RSSF) auxiliam os usuários nessa tarefa, permitindo descobrir se há algum tipo de desperdício no ambiente monitorado e assim, auxiliá-los a fazer as devidas correções. Por isso, é fundamental usar nas smart grids métodos que detectam novidades, também conhecido como anomalias, de forma individual e autônoma, para os usuários quando algo anômalo surge no consumo de energia dos equipamentos eletrônicos. Tais anomalias podem surgir, por exemplo, quando um equipamento consome energia acima do esperado, o que pode indicar um defeito. Nesse contexto, este trabalho propõe um método inteligente, nomeado como Novelty Detection Power Meter (NodePM), para detectar as novidades no consumo de energia dos equipamento eletrônicos monitorados por uma smart grid. O NodePM detecta as novidades considerando a entropia de cada equipa- mento monitorado, a qual é calculada com base em um modelo de cadeia de markov que é gerado através de um algoritmo de Machine Learning. Para tanto, o NodePM é integrado a uma plataforma de monitoramento remoto de consumo de energia, que consiste de uma RSSF associada a uma aplicação em nuvem. Para validar o desempenho do NodePM foram feitos experimentos utilizando a Analysis of variância e testes paramétricos e não-paramétricos. Os resultados de tais experimentos, obtidos mediante a análise estatística, evidenciou a viabilidade do NodePM na plataforma desenvolvida..
+Determining which electronic equipment in a home has the greatest influence on the electricity bill is not a trivial task. Wireless Sensor Networks (WSN) help users in this task, allowing them to discover if there is any type of waste in the monitored environment and thus helping them to make the necessary corrections. Therefore, it is essential to use methods in smart grids that detect novelties, also known as anomalies, individually and autonomously, for users when something anomalous appears in the energy consumption of electronic equipment. Such anomalies may arise, for example, when equipment consumes more energy than expected, which may indicate a defect. In this context, this work proposes an intelligent method, named Novelty Detection Power Meter (NodePM), to detect new developments in the energy consumption of electronic equipment monitored by a smart grid. NodePM detects news considering the entropy of each monitored device, which is calculated based on a markov chain model that is generated through a machine learning algorithm. To this end, NodePM is integrated with a remote energy consumption monitoring platform, which consists of a WSN associated with a cloud application. To validate the performance of NodePM, experiments were carried out using analysis of variance and parametric and non-parametric tests. The results of such experiments, obtained through statistical analysis, demonstrated the viability of NodePM on the developed platform.
 
 ## General Information
 
 - **Principal Investigator:** Jo Ueyama
 - **Duration:** 2013 - 2014
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

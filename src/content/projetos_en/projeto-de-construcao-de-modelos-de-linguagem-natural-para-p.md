@@ -1,8 +1,8 @@
 ---
-title: "Projeto de Construção de Modelos de Linguagem Natural para Processamento de Dados em Fontes Abertas"
+title: "Project to Construction Natural Language Models for Data Processing in Open Sources"
 period: "2023 - 2025"
 coordinator: "Joao Gondim"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -14,13 +14,13 @@ tags:
 
 ## Project Overview
 
-O principal enfoque deste projeto é desenvolver uma estrutura de processamento e de extração de informações, de forma a automatizar o reconhecimento de dados significativos (entidades nomeadas e relacionamentos) em fontes abertas oficiais mediante o uso de Machine Learning e processamento de linguagem natural. Visando atingir este objetivo, os seguintes resultados serão o foco do esforço de pesquisa: a) o Development of estrutura de coleta de acordo com a fonte de dado oficial; b) a pesquisa e Development of modelo de Machine Learning based on LLM; c) o Development of estrutura de processamento de dados utilizando processamento de linguagem natural; e d) o Development of solução de visualização de dados usando estruturas de dados orientado a grafos..
+The main focus of this project is to develop an information processing and extraction framework in order to automate the recognition of significant data (named entities and relationships) in official open sources through the use of machine learning and natural language processing. Aiming to achieve this objective, the following results will be the focus of the research effort: a) the development of a collection structure in accordance with the official data source; b) research and development of LLM-based machine learning model; c) the development of a data processing structure using natural language processing; and d) the development of a data visualization solution using graph-oriented data structures.
 
 ## General Information
 
 - **Principal Investigator:** Joao Gondim
 - **Duration:** 2023 - 2025
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Geraldo Pereira Rocha Filho
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

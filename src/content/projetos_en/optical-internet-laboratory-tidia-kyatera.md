@@ -2,7 +2,7 @@
 title: "Optical Internet Laboratory, TIDIA Kyatera"
 period: "2005 - 2008"
 coordinator: "Nelson Luis Saldanha da Fonseca"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Ongoing"
 featured: false
 professors:
@@ -19,7 +19,7 @@ KyaTera objectives are: To enable and encourage collaborative, inter-institution
 
 - **Principal Investigator:** Nelson Luis Saldanha da Fonseca
 - **Duration:** 2005 - 2008
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Ongoing
 - **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

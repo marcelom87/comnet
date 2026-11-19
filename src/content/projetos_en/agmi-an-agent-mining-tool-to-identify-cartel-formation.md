@@ -2,7 +2,7 @@
 title: "AGMI: An AGent-MIning tool to Identify Cartel Formation"
 period: "2010 - 2012"
 coordinator: "Célia Ghedini Ralha"
-funding: "Institutional / Direct Grants"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Completed"
 featured: false
 professors:
@@ -19,7 +19,7 @@ The main focus of this research project is the problem of extracting useful info
 
 - **Principal Investigator:** Célia Ghedini Ralha
 - **Duration:** 2010 - 2012
-- **Sponsors:** Institutional / Direct Grants
+- **Sponsors:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Status:** Completed
 - **Participating COMNET Faculty:** Célia Ghedini Ralha
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

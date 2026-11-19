@@ -1,5 +1,5 @@
 ---
-title: "PROFISSA: Secure Private Networks com 5G e IoT"
+title: "PROFISSA: Redes Privadas Seguras com 5G e IoT"
 period: "2023 - Present"
 coordinator: "Marcelo Antonio Marotta e Pesquisadores COMNET"
 funding: "MCTI / FAPDF / RNP"
@@ -15,7 +15,7 @@ tags:
 
 ## Project Overview
 
-With recent advances em tecnologias voltadas às Secure Private Networks, a quinta geração de telecomunicação (5G) e a Internet of Things (IoT), networks have witnessed mudanças nos perfis de uso de forma inesperada com strict requirements, como low latency, flow security e intelligent orchestration.
+With recent advances in technologies aimed at secure private networks, the fifth generation of telecommunications (5G) and the Internet of Things (IoT), networks have been witnessing unexpected changes in usage profiles with adverse requirements, such as low latency, flow security and intelligent orchestration.
 
 ## General Information
 

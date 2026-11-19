@@ -1,5 +1,5 @@
 ---
-title: "Suporte de Autenticação e Autorização based on Cadeias de Confiança"
+title: "Authentication and Authorization Support based on Chains of Trust"
 period: "2002 - 2004"
 coordinator: "Fraga, Joni Silva"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
@@ -14,7 +14,7 @@ tags:
 
 ## Project Overview
 
-Processo CNPq, No 552175/2001-3. O projeto "Cadeias de Confiança" tem como objetivo conceber mecanismos de segurança flexíveis e eficientes para aplicações distribuídas de modo permitir a troca de documentos eletrônicos pela Internet. Aspectos de segurança são garantidos utilizando SPKI - uma infra-estrutura de chave pública padronizada pela IETF - fundamentando a certificação de documentos no conceito de redes de confiança. Este projeto está sendo desenvolvido pelo Departamento de Automação e Sistemas da UFSC. O projeto foi financiado pelo CNPq no programa ProTeM de Pesquisa em Conteúdos Digitais..
+CNPq Process, No. 552175/2001-3. The "Chains of Trust" project aims to design flexible and efficient security mechanisms for distributed applications to allow the exchange of electronic documents over the Internet. Security aspects are guaranteed using SPKI - a public key infrastructure standardized by the IETF - basing document certification on the concept of networks of trust. This project is being developed by the UFSC Department of Automation and Systems. The project was funded by CNPq in the ProTeM Digital Content Research program.
 
 ## General Information
 
