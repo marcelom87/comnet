@@ -5,10 +5,12 @@ coordinator: "Luiz Fernando Bittencourt"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Cloud & Edge Computing"
+  - "Quality of Service (QoS)"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

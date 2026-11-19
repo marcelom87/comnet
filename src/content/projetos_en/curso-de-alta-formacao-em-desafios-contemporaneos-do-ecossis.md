@@ -5,10 +5,13 @@ coordinator: "Priscila América Solís Mendez Barreto"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "5G"
+  - "Network Softwarization (SDN/NFV)"
+  - "Artificial Intelligence & ML"
+  - "Security & Privacy"
 ---
 
 ## Project Overview

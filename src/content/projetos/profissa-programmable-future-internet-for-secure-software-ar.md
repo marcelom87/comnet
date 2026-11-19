@@ -5,10 +5,13 @@ coordinator: "Lisandro Zambenedetti Granville"
 funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
 status: "Em andamento"
 featured: true
+professors:
+  - "Marcelo Antonio Marotta"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "5G"
+  - "Internet das Coisas (IoT)"
+  - "Softwarização de Redes (SDN/NFV)"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

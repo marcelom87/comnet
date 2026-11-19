@@ -5,10 +5,11 @@ coordinator: "Maria Emília Machado Telles Walter"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Computação em Nuvem e Borda"
+  - "Aplicações Setoriais & Bioinformática"
 ---
 
 ## Resumo do Projeto

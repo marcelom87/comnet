@@ -5,10 +5,11 @@ coordinator: "Maria Emília Machado Telles Walter"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Cloud & Edge Computing"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

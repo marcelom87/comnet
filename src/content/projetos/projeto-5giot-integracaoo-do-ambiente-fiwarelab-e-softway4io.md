@@ -5,10 +5,11 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "5G"
+  - "Internet das Coisas (IoT)"
 ---
 
 ## Resumo do Projeto

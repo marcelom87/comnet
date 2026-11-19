@@ -5,10 +5,17 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Smart Cities"
+  - "Optical Networks"
+  - "Network Softwarization (SDN/NFV)"
+  - "Distributed Systems"
+  - "Artificial Intelligence & ML"
+  - "Security & Privacy"
+  - "Multimedia & Signal Processing"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

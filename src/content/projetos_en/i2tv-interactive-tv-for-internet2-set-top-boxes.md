@@ -5,10 +5,10 @@ coordinator: "Guido Lemos de Souza"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

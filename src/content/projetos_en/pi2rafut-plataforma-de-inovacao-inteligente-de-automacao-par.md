@@ -5,10 +5,14 @@ coordinator: "Eduardo Adilio Pelinson Alchieri"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Ongoing"
 featured: true
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "6G"
+  - "5G"
+  - "Artificial Intelligence & ML"
+  - "Embedded Systems & Hardware"
 ---
 
 ## Project Overview

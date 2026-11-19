@@ -5,10 +5,14 @@ coordinator: "Otto Carlos Muniz Bandeira Duarte"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
+  - "Security & Privacy"
+  - "Vehicular Networks"
+  - "Quality of Service (QoS)"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

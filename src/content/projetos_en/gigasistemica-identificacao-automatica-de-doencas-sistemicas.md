@@ -5,10 +5,11 @@ coordinator: "Mylene Christine Queiroz de Farias"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Ongoing"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

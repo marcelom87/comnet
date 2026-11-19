@@ -5,10 +5,10 @@ coordinator: "Célia Ghedini Ralha"
 funding: "Universidade de Brasília - Remuneração"
 status: "Concluído"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes e Sistemas de Comunicações"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,14 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "André Costa Drummond"
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Inteligência Artificial & ML"
+  - "Aplicações Setoriais & Bioinformática"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

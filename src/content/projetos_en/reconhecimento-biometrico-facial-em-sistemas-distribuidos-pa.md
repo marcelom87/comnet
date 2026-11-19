@@ -5,10 +5,12 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Cooperation"
 status: "Completed"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Security & Privacy"
+  - "Cloud & Edge Computing"
 ---
 
 ## Project Overview

@@ -5,10 +5,11 @@ coordinator: "Fraga, Joni Silva"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Concluído"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

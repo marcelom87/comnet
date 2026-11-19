@@ -5,10 +5,10 @@ coordinator: "Guido Lemos de Souza"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

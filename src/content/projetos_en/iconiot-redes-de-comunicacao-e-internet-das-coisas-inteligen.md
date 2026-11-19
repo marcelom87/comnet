@@ -5,10 +5,14 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Institutional / Direct Grants"
 status: "Ongoing"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Internet of Things (IoT)"
+  - "Smart Cities"
+  - "Artificial Intelligence & ML"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

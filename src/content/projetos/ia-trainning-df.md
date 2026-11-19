@@ -5,10 +5,10 @@ coordinator: "Eduardo Adilio Pelinson Alchieri"
 funding: "Huawei do Brasil Telecomunicações - São Paulo - Auxílio"
 status: "Concluído"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
 ---
 
 ## Resumo do Projeto

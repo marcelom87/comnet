@@ -5,10 +5,10 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

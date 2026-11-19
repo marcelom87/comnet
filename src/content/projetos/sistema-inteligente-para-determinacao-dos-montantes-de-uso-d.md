@@ -5,10 +5,10 @@ coordinator: "Alexandre Rasi Aoki"
 funding: "Institutos Lactec - Cooperação"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
 ---
 
 ## Resumo do Projeto

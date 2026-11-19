@@ -5,10 +5,11 @@ coordinator: "Eduardo Adilio Pelinson Alchieri"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
 ---
 
 ## Project Overview

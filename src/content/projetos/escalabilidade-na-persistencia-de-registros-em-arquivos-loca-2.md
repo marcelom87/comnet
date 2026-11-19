@@ -5,10 +5,10 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes e Sistemas de Comunicações"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,13 @@ coordinator: "Antonio Augusto Frohlich"
 funding: "Rede Nacional de Ensino e Pesquisa - Auxílio financeiro"
 status: "Em andamento"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Internet das Coisas (IoT)"
+  - "Cidades Inteligentes"
+  - "Aplicações Setoriais & Bioinformática"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

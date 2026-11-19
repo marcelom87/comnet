@@ -5,10 +5,10 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

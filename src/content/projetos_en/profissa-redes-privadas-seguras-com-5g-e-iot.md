@@ -5,10 +5,12 @@ coordinator: "Marcelo Antonio Marotta e Pesquisadores COMNET"
 funding: "MCTI / FAPDF / RNP"
 status: "Ongoing"
 featured: true
+professors:
+  - "Marcelo Antonio Marotta"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "5G"
+  - "Internet of Things (IoT)"
+  - "Security & Privacy"
 ---
 
 ## Project Overview

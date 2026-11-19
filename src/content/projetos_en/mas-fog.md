@@ -5,10 +5,11 @@ coordinator: "Célia Ghedini Ralha"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico -"
 status: "Completed"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Cloud & Edge Computing"
+  - "Quality of Service (QoS)"
 ---
 
 ## Project Overview

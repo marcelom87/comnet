@@ -5,10 +5,13 @@ coordinator: "SOLIS, PRISCILA"
 funding: "Rede Nacional de Ensino e Pesquisa - Financial Grant / Comissão"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Geraldo Pereira Rocha Filho"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Security & Privacy"
+  - "Cloud & Edge Computing"
 ---
 
 ## Project Overview

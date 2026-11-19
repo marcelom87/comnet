@@ -5,10 +5,10 @@ coordinator: "Mario Antonio Ribeiro Dantas"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

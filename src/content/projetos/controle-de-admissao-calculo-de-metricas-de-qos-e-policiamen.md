@@ -5,10 +5,10 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Qualidade de Serviço (QoS)"
 ---
 
 ## Resumo do Projeto

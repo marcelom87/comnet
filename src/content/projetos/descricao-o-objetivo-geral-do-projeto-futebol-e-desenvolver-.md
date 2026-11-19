@@ -5,10 +5,13 @@ coordinator: "BOTH, CRISTIANO BONATO"
 funding: "Ministério da Ciência, Tecnologia e Inovações - Cooperação"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcelo Antonio Marotta"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes Ópticas"
+  - "Computação em Nuvem e Borda"
+  - "Qualidade de Serviço (QoS)"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

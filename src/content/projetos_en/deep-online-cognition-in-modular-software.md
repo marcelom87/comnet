@@ -5,10 +5,10 @@ coordinator: "PORTER, BARRY"
 funding: "Engineering and Physical Sciences Research Council - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
 ---
 
 ## Project Overview

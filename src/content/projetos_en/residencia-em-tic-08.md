@@ -5,10 +5,11 @@ coordinator: "Eduardo Adilio Pelinson Alchieri"
 funding: "Associação para Promoção da Excelência do Software"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "5G"
 ---
 
 ## Project Overview

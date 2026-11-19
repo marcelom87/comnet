@@ -5,10 +5,11 @@ coordinator: "Otto Carlos Muniz Bandeira Duarte"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Internet of Things (IoT)"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

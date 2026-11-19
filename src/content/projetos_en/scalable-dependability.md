@@ -5,10 +5,10 @@ coordinator: "Fernando Dotti"
 funding: "Coordenação de Aperfeiçoamento de Pessoal de Nível"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
 ---
 
 ## Project Overview

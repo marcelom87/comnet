@@ -5,10 +5,10 @@ coordinator: "Alba Cristina Magalhães Alves de Melo"
 funding: "Coordenação de Aperfeiçoamento de Pessoal de Nível"
 status: "Completed"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

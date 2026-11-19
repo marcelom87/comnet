@@ -5,10 +5,11 @@ coordinator: "Vagner José do Sacramento Rodrigues"
 funding: "Fundação de Amparo a Pesquisa do Estado de Goiás - Auxílio"
 status: "Completed"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Internet of Things (IoT)"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

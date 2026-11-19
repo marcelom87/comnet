@@ -5,10 +5,12 @@ coordinator: "Priscila Sólis Barreto"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Ongoing"
 featured: true
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "6G"
+  - "5G"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

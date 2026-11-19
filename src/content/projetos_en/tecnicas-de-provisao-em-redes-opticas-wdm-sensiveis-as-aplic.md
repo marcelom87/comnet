@@ -5,10 +5,12 @@ coordinator: "André Costa Drummond"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
+  - "Quality of Service (QoS)"
 ---
 
 ## Project Overview

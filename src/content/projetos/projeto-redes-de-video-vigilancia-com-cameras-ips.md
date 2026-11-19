@@ -5,10 +5,11 @@ coordinator: "Helio Lopes dos Santos"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Segurança & Privacidade"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

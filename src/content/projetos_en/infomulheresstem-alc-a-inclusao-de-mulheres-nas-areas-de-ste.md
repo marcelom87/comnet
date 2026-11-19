@@ -5,10 +5,10 @@ coordinator: "Maristela Terto de Holanda"
 funding: "CGRL/ MCTI - Other"
 status: "Ongoing"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

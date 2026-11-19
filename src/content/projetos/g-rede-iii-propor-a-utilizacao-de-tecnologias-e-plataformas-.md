@@ -5,10 +5,10 @@ coordinator: "Marcos Fagundes Caetano"
 funding: "Associação GigaCandanga - Bolsa"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "5G"
 ---
 
 ## Resumo do Projeto

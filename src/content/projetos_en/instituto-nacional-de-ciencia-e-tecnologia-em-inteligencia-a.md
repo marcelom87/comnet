@@ -5,10 +5,10 @@ coordinator: "Teresa Bernarda Ludermir"
 funding: "Institutional / Direct Grants"
 status: "Ongoing"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
 ---
 
 ## Project Overview

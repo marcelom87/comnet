@@ -5,10 +5,12 @@ coordinator: "Priscila América Solís Mendez Barreto"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Ongoing"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Quality of Service (QoS)"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

@@ -5,10 +5,10 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Fundação de Apoio à Pesquisa - Financial Grant"
 status: "Ongoing"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

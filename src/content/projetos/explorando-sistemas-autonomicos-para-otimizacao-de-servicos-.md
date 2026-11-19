@@ -5,10 +5,14 @@ coordinator: "Roberto Vito Rodrigues Filho"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Em andamento"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Inteligência Artificial & ML"
+  - "Computação em Nuvem e Borda"
+  - "Redes Veiculares"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

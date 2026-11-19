@@ -5,10 +5,13 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Softwarização de Redes (SDN/NFV)"
+  - "Sistemas Distribuídos"
+  - "Inteligência Artificial & ML"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

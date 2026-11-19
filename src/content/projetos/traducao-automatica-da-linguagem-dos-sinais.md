@@ -5,10 +5,10 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Fundação Araucária - Auxílio financeiro / Nagoya Institute of Technology -"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

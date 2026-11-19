@@ -5,10 +5,13 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Em andamento"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Qualidade de Serviço (QoS)"
+  - "Multimídia & Processamento de Sinais"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

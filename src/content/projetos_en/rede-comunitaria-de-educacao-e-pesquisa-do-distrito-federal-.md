@@ -5,10 +5,10 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Rede Nacional de Ensino e Pesquisa - Cooperation"
 status: "Completed"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
 ---
 
 ## Project Overview

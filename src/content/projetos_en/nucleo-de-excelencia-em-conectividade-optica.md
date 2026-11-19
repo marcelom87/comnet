@@ -5,10 +5,10 @@ coordinator: "Nelson Luis Saldanha da Fonseca"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
 ---
 
 ## Project Overview

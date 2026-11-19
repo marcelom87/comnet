@@ -5,10 +5,10 @@ coordinator: "Fábio Moreira Costa"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Cidades Inteligentes"
 ---
 
 ## Resumo do Projeto

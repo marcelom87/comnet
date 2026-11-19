@@ -5,10 +5,14 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Internet of Things (IoT)"
+  - "Artificial Intelligence & ML"
+  - "Vehicular Networks"
+  - "Sectoral & Bioinformatics"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

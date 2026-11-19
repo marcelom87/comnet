@@ -5,10 +5,14 @@ coordinator: "Marcos Fagundes Caetano"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Other"
 status: "Ongoing"
 featured: true
+professors:
+  - "Marcelo Antonio Marotta"
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "6G"
+  - "5G"
+  - "Network Softwarization (SDN/NFV)"
+  - "Artificial Intelligence & ML"
 ---
 
 ## Project Overview

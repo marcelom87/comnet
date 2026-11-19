@@ -5,10 +5,10 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Fundação Araucária - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

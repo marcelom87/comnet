@@ -5,10 +5,10 @@ coordinator: "Bruno Luiggi Macchiavello Espinoza"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

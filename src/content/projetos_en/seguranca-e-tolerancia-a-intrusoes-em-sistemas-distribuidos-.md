@@ -5,10 +5,11 @@ coordinator: "Joni da Silva Fraga"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Security & Privacy"
 ---
 
 ## Project Overview

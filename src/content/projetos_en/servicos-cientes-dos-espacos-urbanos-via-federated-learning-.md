@@ -5,10 +5,10 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
 status: "Completed"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Vehicular Networks"
 ---
 
 ## Project Overview

@@ -5,10 +5,14 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
+  - "Jacir Luiz Bordim"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Artificial Intelligence & ML"
+  - "Sectoral & Bioinformatics"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

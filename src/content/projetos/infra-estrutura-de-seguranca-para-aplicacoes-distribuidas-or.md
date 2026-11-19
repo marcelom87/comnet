@@ -5,10 +5,11 @@ coordinator: "Joni da Silva Fraga"
 funding: "Universidade Federal de Santa Catarina - Cooperação / Conselho"
 status: "Concluído"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

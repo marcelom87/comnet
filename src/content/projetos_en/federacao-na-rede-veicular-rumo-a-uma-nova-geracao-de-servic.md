@@ -5,10 +5,10 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico -"
 status: "Ongoing"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Vehicular Networks"
 ---
 
 ## Project Overview

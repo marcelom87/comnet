@@ -5,10 +5,11 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "5G"
+  - "Internet of Things (IoT)"
 ---
 
 ## Project Overview

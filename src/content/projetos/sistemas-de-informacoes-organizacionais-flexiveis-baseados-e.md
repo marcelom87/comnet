@@ -5,10 +5,10 @@ coordinator: "Edison Ishikawa"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Bolsa"
 status: "Concluído"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes e Sistemas de Comunicações"
 ---
 
 ## Resumo do Projeto

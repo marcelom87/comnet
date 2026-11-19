@@ -5,10 +5,12 @@ coordinator: "Fábio Moreira Costa"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Internet das Coisas (IoT)"
+  - "Cidades Inteligentes"
+  - "Softwarização de Redes (SDN/NFV)"
 ---
 
 ## Resumo do Projeto

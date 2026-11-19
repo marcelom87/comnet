@@ -5,10 +5,12 @@ coordinator: "Marcio Iorio"
 funding: "Agência Nacional de Telecomunicações - Auxílio financeiro"
 status: "Em andamento"
 featured: true
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "6G"
+  - "5G"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

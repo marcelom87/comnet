@@ -5,10 +5,11 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Rede Nacional de Ensino e Pesquisa - Bolsa"
 status: "Completed"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

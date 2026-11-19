@@ -5,10 +5,12 @@ coordinator: "Priscila América Solís Mendez Barreto"
 funding: "Fundo Único do Meio Ambiente - Financial Grant"
 status: "Ongoing"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
+  - "Artificial Intelligence & ML"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

@@ -5,10 +5,14 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Internet das Coisas (IoT)"
+  - "Inteligência Artificial & ML"
+  - "Redes Veiculares"
+  - "Aplicações Setoriais & Bioinformática"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

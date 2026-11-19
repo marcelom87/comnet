@@ -5,10 +5,13 @@ coordinator: "Marcos Fagundes Caetano"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Qualidade de Serviço (QoS)"
+  - "Multimídia & Processamento de Sinais"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

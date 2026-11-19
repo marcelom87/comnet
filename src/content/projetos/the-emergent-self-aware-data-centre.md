@@ -5,10 +5,10 @@ coordinator: "PORTER, BARRY"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
 ---
 
 ## Resumo do Projeto

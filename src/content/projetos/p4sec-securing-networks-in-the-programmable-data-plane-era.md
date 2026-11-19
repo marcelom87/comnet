@@ -5,10 +5,12 @@ coordinator: "Eduardo Adilio Pelinson Alchieri"
 funding: "Rede Nacional de Ensino e Pesquisa - Auxílio financeiro / National"
 status: "Concluído"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Softwarização de Redes (SDN/NFV)"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

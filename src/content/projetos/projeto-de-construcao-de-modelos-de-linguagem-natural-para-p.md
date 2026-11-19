@@ -5,10 +5,11 @@ coordinator: "Joao Gondim"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
+  - "Processamento de Linguagem & Acessibilidade"
 ---
 
 ## Resumo do Projeto

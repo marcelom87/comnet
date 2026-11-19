@@ -5,10 +5,12 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio financeiro"
 status: "Concluído"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
+  - "Marcos Fagundes Caetano"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Aplicações Setoriais & Bioinformática"
 ---
 
 ## Resumo do Projeto

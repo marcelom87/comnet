@@ -4,11 +4,13 @@ period: "2021 - 2025"
 coordinator: "STA'CZAK, SLAWOMIR"
 funding: "Bundesministeriur fur Bildung und Forschung - Other"
 status: "Completed"
-featured: true
+featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "6G"
+  - "Cloud & Edge Computing"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

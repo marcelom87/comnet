@@ -5,10 +5,12 @@ coordinator: "Paulo Henrique Portela de Carvalho"
 funding: "Agência Nacional de Telecomunicações - Financial Grant"
 status: "Ongoing"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

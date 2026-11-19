@@ -5,10 +5,12 @@ coordinator: "Yaeko Yamashita"
 funding: "Agência Nacional de Transportes Terrestres - Cooperation"
 status: "Completed"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Security & Privacy"
+  - "Vehicular Networks"
 ---
 
 ## Project Overview

@@ -5,10 +5,13 @@ coordinator: "Priscila Sólis Barreto"
 funding: "Rede Nacional de Ensino e Pesquisa - Financial Grant / Comissão"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Marcos Fagundes Caetano"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
+  - "Cloud & Edge Computing"
 ---
 
 ## Project Overview

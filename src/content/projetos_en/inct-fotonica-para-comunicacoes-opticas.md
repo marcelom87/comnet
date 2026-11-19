@@ -5,10 +5,10 @@ coordinator: "Hugo Luis Fragnito"
 funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
 status: "Ongoing"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
 ---
 
 ## Project Overview

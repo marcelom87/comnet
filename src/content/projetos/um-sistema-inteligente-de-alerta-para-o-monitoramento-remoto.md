@@ -5,10 +5,13 @@ coordinator: "Jo Ueyama"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Internet das Coisas (IoT)"
+  - "Inteligência Artificial & ML"
+  - "Computação em Nuvem e Borda"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

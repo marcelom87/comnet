@@ -5,10 +5,15 @@ coordinator: "Marcos Fagundes Caetano"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Em andamento"
 featured: false
+professors:
+  - "Marcos Fagundes Caetano"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Cidades Inteligentes"
+  - "Redes Ópticas"
+  - "Sistemas Distribuídos"
+  - "Inteligência Artificial & ML"
+  - "Multimídia & Processamento de Sinais"
+  - "Aplicações Setoriais & Bioinformática"
 ---
 
 ## Resumo do Projeto

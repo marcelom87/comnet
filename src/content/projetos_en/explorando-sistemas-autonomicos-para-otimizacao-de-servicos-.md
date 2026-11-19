@@ -5,10 +5,14 @@ coordinator: "Roberto Vito Rodrigues Filho"
 funding: "Institutional / Direct Grants"
 status: "Ongoing"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Artificial Intelligence & ML"
+  - "Cloud & Edge Computing"
+  - "Vehicular Networks"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

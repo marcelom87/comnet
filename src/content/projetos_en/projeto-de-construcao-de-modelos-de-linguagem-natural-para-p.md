@@ -5,10 +5,11 @@ coordinator: "Joao Gondim"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
+  - "NLP & Accessibility"
 ---
 
 ## Project Overview

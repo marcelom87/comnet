@@ -5,10 +5,15 @@ coordinator: "Priscila América Solís Mendez Barreto"
 funding: "Fundação de Apoio à Pesquisa do Distrito Federal - Auxílio"
 status: "Concluído"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Cidades Inteligentes"
+  - "Redes Ópticas"
+  - "Sistemas Distribuídos"
+  - "Inteligência Artificial & ML"
+  - "Multimídia & Processamento de Sinais"
+  - "Aplicações Setoriais & Bioinformática"
 ---
 
 ## Resumo do Projeto

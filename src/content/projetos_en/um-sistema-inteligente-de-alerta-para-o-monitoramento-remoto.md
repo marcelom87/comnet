@@ -5,10 +5,13 @@ coordinator: "Jo Ueyama"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Internet of Things (IoT)"
+  - "Artificial Intelligence & ML"
+  - "Cloud & Edge Computing"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

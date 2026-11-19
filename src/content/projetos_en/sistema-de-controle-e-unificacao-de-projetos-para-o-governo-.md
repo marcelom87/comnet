@@ -5,10 +5,10 @@ coordinator: "Fábio Lúcio Lopes de Mendonça"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
 ---
 
 ## Project Overview

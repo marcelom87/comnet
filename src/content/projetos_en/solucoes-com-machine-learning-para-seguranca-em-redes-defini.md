@@ -5,10 +5,13 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Network Softwarization (SDN/NFV)"
+  - "Distributed Systems"
+  - "Artificial Intelligence & ML"
+  - "Security & Privacy"
 ---
 
 ## Project Overview

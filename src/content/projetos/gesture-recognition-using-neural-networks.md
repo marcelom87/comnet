@@ -5,10 +5,11 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Ministério da Educação e Esportes do Japão - Bolsa / Nagoya Institute of"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,11 @@ coordinator: "Joni da Silva Fraga"
 funding: "Pontifícia Universidade Católica do Paraná - Cooperação /"
 status: "Concluído"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Qualidade de Serviço (QoS)"
 ---
 
 ## Resumo do Projeto

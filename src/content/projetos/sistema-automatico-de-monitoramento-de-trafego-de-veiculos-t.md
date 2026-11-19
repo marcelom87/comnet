@@ -5,10 +5,11 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Universidade de Brasília - Auxílio financeiro"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes Veiculares"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

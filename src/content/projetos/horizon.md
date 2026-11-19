@@ -5,10 +5,11 @@ coordinator: "Otto Carlos Muniz Bandeira Duarte"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Internet das Coisas (IoT)"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

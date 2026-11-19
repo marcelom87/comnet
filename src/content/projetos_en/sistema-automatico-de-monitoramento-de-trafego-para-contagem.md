@@ -5,10 +5,12 @@ coordinator: "Pastor Willy Gonzales Taco"
 funding: "Não informado / Conselho Nacional de Desenvolvimento Científico e"
 status: "Ongoing"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Vehicular Networks"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

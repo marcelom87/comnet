@@ -5,10 +5,10 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
 ---
 
 ## Project Overview

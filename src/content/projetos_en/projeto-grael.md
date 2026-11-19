@@ -5,10 +5,10 @@ coordinator: "Ricardo P Jacobi"
 funding: "Financiadora de Estudos e Projetos - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

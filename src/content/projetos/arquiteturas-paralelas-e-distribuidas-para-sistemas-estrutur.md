@@ -5,10 +5,10 @@ coordinator: "Ricardo S Puttinni"
 funding: "Dell Computadores do Brasil Ltda - Cooperação"
 status: "Concluído"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
 ---
 
 ## Resumo do Projeto

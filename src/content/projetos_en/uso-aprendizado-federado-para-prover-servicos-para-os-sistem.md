@@ -5,10 +5,13 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Institutional / Direct Grants"
 status: "Ongoing"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Artificial Intelligence & ML"
+  - "Security & Privacy"
+  - "Vehicular Networks"
 ---
 
 ## Project Overview

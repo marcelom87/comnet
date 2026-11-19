@@ -5,10 +5,12 @@ coordinator: "Alba Cristina Magalhães Alves de Melo"
 funding: "Amazon Web Service - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Distributed Systems"
+  - "Cloud & Edge Computing"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

@@ -5,10 +5,10 @@ coordinator: "Roberto Vito Rodrigues Filho"
 funding: "Universidade Federal de Santa Catarina - Bolsa"
 status: "Ongoing"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Security & Privacy"
 ---
 
 ## Project Overview

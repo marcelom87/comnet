@@ -5,10 +5,10 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Universidade Federal de Santa Catarina - Cooperation"
 status: "Completed"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

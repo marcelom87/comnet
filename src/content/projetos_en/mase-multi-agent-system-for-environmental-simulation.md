@@ -5,10 +5,10 @@ coordinator: "Célia Ghedini Ralha"
 funding: "Institutional / Direct Grants"
 status: "Ongoing"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Communication Networks & Systems"
 ---
 
 ## Project Overview

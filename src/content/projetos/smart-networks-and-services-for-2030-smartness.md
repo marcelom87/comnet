@@ -5,10 +5,15 @@ coordinator: "Luiz Fernando Bittencourt"
 funding: "Fundação de Amparo à Pesquisa do Estado de São Paulo - Auxílio"
 status: "Em andamento"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "6G"
+  - "5G"
+  - "Softwarização de Redes (SDN/NFV)"
+  - "Segurança & Privacidade"
+  - "Computação em Nuvem e Borda"
+  - "Sistemas Embarcados & Hardware"
 ---
 
 ## Resumo do Projeto

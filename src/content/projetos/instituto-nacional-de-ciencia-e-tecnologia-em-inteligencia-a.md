@@ -5,10 +5,10 @@ coordinator: "Teresa Bernarda Ludermir"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Em andamento"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,13 @@ coordinator: "Jacir Luiz Bordim"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico -"
 status: "Concluído"
 featured: false
+professors:
+  - "Jacir Luiz Bordim"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Qualidade de Serviço (QoS)"
+  - "Multimídia & Processamento de Sinais"
+  - "Redes Sem Fio"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,11 @@ coordinator: "Geraldo Pereira Rocha Filho"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Segurança & Privacidade"
+  - "Redes Veiculares"
 ---
 
 ## Resumo do Projeto

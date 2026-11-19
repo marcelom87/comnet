@@ -5,10 +5,10 @@ coordinator: "Nelson Luis Saldanha da Fonseca"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes Ópticas"
 ---
 
 ## Resumo do Projeto

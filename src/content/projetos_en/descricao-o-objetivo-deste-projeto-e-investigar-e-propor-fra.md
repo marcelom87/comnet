@@ -5,10 +5,11 @@ coordinator: "Priscila América Solís Mendez Barreto"
 funding: "University of Brasília - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "5G"
+  - "Quality of Service (QoS)"
 ---
 
 ## Project Overview

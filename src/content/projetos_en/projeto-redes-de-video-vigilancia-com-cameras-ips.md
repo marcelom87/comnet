@@ -5,10 +5,11 @@ coordinator: "Helio Lopes dos Santos"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Security & Privacy"
+  - "Multimedia & Signal Processing"
 ---
 
 ## Project Overview

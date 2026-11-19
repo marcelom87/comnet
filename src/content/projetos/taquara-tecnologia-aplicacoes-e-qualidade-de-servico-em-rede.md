@@ -5,10 +5,14 @@ coordinator: "Otto Carlos Muniz Bandeira Duarte"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Redes Ópticas"
+  - "Segurança & Privacidade"
+  - "Redes Veiculares"
+  - "Qualidade de Serviço (QoS)"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

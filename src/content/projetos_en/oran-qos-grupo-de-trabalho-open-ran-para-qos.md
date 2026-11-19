@@ -5,10 +5,11 @@ coordinator: "Priscila Sólis Barreto"
 funding: "Rede Nacional de Ensino e Pesquisa - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Quality of Service (QoS)"
 ---
 
 ## Project Overview

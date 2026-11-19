@@ -5,10 +5,13 @@ coordinator: "Priscila América Solís Mendez Barreto"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "5G"
+  - "Softwarização de Redes (SDN/NFV)"
+  - "Inteligência Artificial & ML"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,10 @@ coordinator: "Vagner José do Sacramento Rodrigues"
 funding: "Dell Computadores do Brasil - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Sectoral & Bioinformatics"
 ---
 
 ## Project Overview

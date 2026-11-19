@@ -5,10 +5,10 @@ coordinator: "Paulo Henrique Portela de Carvalho"
 funding: "Agência Nacional de Telecomunicações - Financial Grant"
 status: "Completed"
 featured: false
+professors:
+  - "Priscila América Solís Mendez Barreto"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Embedded Systems & Hardware"
 ---
 
 ## Project Overview

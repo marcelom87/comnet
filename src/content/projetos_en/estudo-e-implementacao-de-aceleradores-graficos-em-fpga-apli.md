@@ -5,10 +5,10 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Institutional / Direct Grants"
 status: "Ongoing"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Embedded Systems & Hardware"
 ---
 
 ## Project Overview

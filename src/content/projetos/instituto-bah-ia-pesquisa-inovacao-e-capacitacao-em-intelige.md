@@ -5,10 +5,10 @@ coordinator: "Tatiane Nogueira Rios"
 funding: "Fundação de Amparo à Pesquisa do Estado da Bahia - Auxílio"
 status: "Em andamento"
 featured: false
+professors:
+  - "Geraldo Pereira Rocha Filho"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
 ---
 
 ## Resumo do Projeto

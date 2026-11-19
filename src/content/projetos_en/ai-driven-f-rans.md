@@ -5,10 +5,12 @@ coordinator: "Célia Ghedini Ralha"
 funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico -"
 status: "Completed"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Artificial Intelligence & ML"
+  - "Cloud & Edge Computing"
+  - "Wireless Networks"
 ---
 
 ## Project Overview

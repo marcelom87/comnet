@@ -5,10 +5,11 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
+  - "Multimídia & Processamento de Sinais"
 ---
 
 ## Resumo do Projeto

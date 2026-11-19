@@ -5,10 +5,10 @@ coordinator: "Marcus Vinicius Lamar"
 funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Em andamento"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Processamento de Linguagem & Acessibilidade"
 ---
 
 ## Resumo do Projeto

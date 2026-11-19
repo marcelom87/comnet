@@ -5,10 +5,11 @@ coordinator: "André Soares Dantas"
 funding: "Nagoya Institute of Technology - Cooperação / Universidade de"
 status: "Concluído"
 featured: false
+professors:
+  - "Marcus Vinicius Lamar"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
+  - "Redes Veiculares"
 ---
 
 ## Resumo do Projeto

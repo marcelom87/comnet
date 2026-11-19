@@ -18,6 +18,7 @@ const projetoSchema = z.object({
   status: z.string().default('Em andamento'),
   featured: z.boolean().default(false),
   tags: z.array(z.string()).default([]),
+  professors: z.array(z.string()).default([]),
   externalUrl: z.string().optional(),
 });
 

@@ -12,17 +12,55 @@ interface Props {
   status: string;
   featured?: boolean;
   descriptionSnippet?: string;
+  professors?: string[];
+  tags?: string[];
   lang?: Lang;
 }
 
 const currentUrl = Astro.url;
 const lang = Astro.props.lang || getLangFromUrl(currentUrl);
-const { slug, title, title_en, period, coordinator, funding, status, featured, descriptionSnippet } = Astro.props;
+const {
+  slug,
+  title,
+  title_en,
+  period,
+  coordinator,
+  funding,
+  status,
+  featured,
+  descriptionSnippet,
+  professors = [],
+  tags = [],
+} = Astro.props;
+
 const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
 const prefix = lang === 'en' ? `${baseUrl}/en` : baseUrl;
 
 const displayTitle = (lang === 'en' && title_en) ? title_en : title;
-const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCase().includes('atual');
+const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCase().includes('atual') || status.toLowerCase().includes('ongoing') || period.toLowerCase().includes('present');
+
+const profSlugMap: Record<string, string> = {
+  'marcelo antonio marotta': 'marotta',
+  'andre costa drummond': 'andred',
+  'eduardo adilio pelinson alchieri': 'alchieri',
+  'jacir luiz bordim': 'bordim',
+  'celia ghedini ralha': 'celia',
+  'priscila america solis mendez barreto': 'pris',
+  'geraldo pereira rocha filho': 'geraldo',
+  'marcos fagundes caetano': 'marcosfcaetano',
+  'roberto vito rodrigues filho': 'roberto',
+  'marcus vinicius lamar': 'lamar',
+};
+
+function getProfessorSlug(name: string): string | null {
+  const norm = name.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').trim();
+  for (const [key, pSlug] of Object.entries(profSlugMap)) {
+    if (norm.includes(key) || key.includes(norm)) {
+      return pSlug;
+    }
+  }
+  return null;
+}
 ---
 
 <div class={`rounded-2xl border p-6 flex flex-col justify-between transition-all duration-300 hover:shadow-lg ${
@@ -54,8 +92,38 @@ const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCa
       </a>
     </h3>
 
+    <!-- DESTAQUE: Membros do COMNET Envolvidos -->
+    {professors && professors.length > 0 && (
+      <div class="my-3 p-3 rounded-xl bg-gradient-to-r from-emerald-50 to-blue-50/60 border border-emerald-200/80">
+        <div class="text-[11px] font-extrabold uppercase tracking-wider text-emerald-800 flex items-center gap-1.5 mb-1.5">
+          <span>👥</span>
+          <span>{lang === 'en' ? 'COMNET Faculty / Members Involved:' : 'Membros COMNET Envolvidos:'}</span>
+        </div>
+        <div class="flex flex-wrap gap-1.5">
+          {professors.map((prof) => {
+            const profSlug = getProfessorSlug(prof);
+            return profSlug ? (
+              <a
+                href={`${prefix}/professores/${profSlug}/`}
+                class="inline-flex items-center gap-1 px-2.5 py-1 rounded-md text-xs font-bold bg-white text-emerald-900 border border-emerald-300 hover:bg-emerald-600 hover:text-white transition-all shadow-2xs"
+                title={lang === 'en' ? `View ${prof}'s profile` : `Ver perfil de ${prof}`}
+              >
+                <span>🎓</span>
+                <span>{prof}</span>
+              </a>
+            ) : (
+              <span class="inline-flex items-center gap-1 px-2 py-0.5 rounded-md text-xs font-semibold bg-white text-slate-800 border border-slate-200 shadow-2xs">
+                <span>👤</span>
+                <span>{prof}</span>
+              </span>
+            );
+          })}
+        </div>
+      </div>
+    )}
+
     <!-- Coordenação & Financiamento -->
-    <div class="space-y-1 text-xs text-slate-500 mb-4">
+    <div class="space-y-1 text-xs text-slate-500 mb-3">
       <p>
         <strong class="text-slate-700">{lang === 'en' ? 'Coordinator:' : 'Coordenação:'}</strong> {coordinator}
       </p>
@@ -67,9 +135,20 @@ const isOngoing = status.toLowerCase().includes('andamento') || period.toLowerCa
     </div>
 
     {descriptionSnippet && (
-      <p class="text-sm text-slate-600 leading-relaxed line-clamp-3 mb-4">
+      <p class="text-sm text-slate-600 leading-relaxed line-clamp-3 mb-3">
         {descriptionSnippet}
       </p>
+    )}
+
+    <!-- Tags / Palavras-chave -->
+    {tags && tags.length > 0 && (
+      <div class="flex flex-wrap gap-1 mt-2 mb-3">
+        {tags.map((tag) => (
+          <span class="text-[11px] font-medium px-2 py-0.5 rounded-md bg-slate-100 text-slate-600 border border-slate-200/70">
+            #{tag}
+          </span>
+        ))}
+      </div>
     )}
   </div>
 

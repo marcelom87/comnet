@@ -5,10 +5,11 @@ coordinator: "Eduardo Adilio Pelinson Alchieri"
 funding: "Decanato de Pesquisa e Pós-graduação - Universídade de Brasília -"
 status: "Concluído"
 featured: false
+professors:
+  - "Eduardo Adilio Pelinson Alchieri"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Sistemas Distribuídos"
+  - "Segurança & Privacidade"
 ---
 
 ## Resumo do Projeto

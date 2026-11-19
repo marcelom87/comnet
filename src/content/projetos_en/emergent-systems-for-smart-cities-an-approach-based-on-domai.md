@@ -5,10 +5,10 @@ coordinator: "Fábio Moreira Costa"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "Roberto Vito Rodrigues Filho"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Smart Cities"
 ---
 
 ## Project Overview

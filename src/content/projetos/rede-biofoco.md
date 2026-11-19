@@ -5,10 +5,10 @@ coordinator: "Maria Emília Machado Telles Walter"
 funding: "Financiadora de Estudos e Projetos - Auxílio financeiro / Conselho"
 status: "Concluído"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Aplicações Setoriais & Bioinformática"
 ---
 
 ## Resumo do Projeto

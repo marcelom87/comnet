@@ -5,10 +5,11 @@ coordinator: "Marcelo de Macedo Brígido"
 funding: "Universidade de Brasília - Cooperação"
 status: "Em andamento"
 featured: false
+professors:
+  - "Célia Ghedini Ralha"
 tags:
-  - "Pesquisa"
-  - "Redes"
-  - "COMNET"
+  - "Inteligência Artificial & ML"
+  - "Aplicações Setoriais & Bioinformática"
 ---
 
 ## Resumo do Projeto

@@ -5,10 +5,11 @@ coordinator: "André Costa Drummond"
 funding: "Institutional / Direct Grants"
 status: "Completed"
 featured: false
+professors:
+  - "André Costa Drummond"
 tags:
-  - "Research"
-  - "Networks"
-  - "COMNET"
+  - "Optical Networks"
+  - "Distributed Systems"
 ---
 
 ## Project Overview

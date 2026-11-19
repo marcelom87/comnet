@@ -16,7 +16,7 @@ const prefix = `${baseUrl}/en`;
 const allProfessores = await getCollection('professores_en');
 const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'en'));
 
-// Fetch featured and recent projects sorted chronologically then alphabetically
+// Fetch active projects sorted chronologically then alphabetically
 const allProjetos = await getCollection('projetos_en');
 const sortedProjetos = allProjetos.sort((a, b) => {
   const aMatch = a.data.period.match(/([0-9]{4})\s*-\s*(Present|[0-9]{4})/i);
@@ -29,9 +29,12 @@ const sortedProjetos = allProjetos.sort((a, b) => {
   if (bStart !== aStart) return bStart - aStart;
   return a.data.title.localeCompare(b.data.title, 'en');
 });
-const featuredProjetos = sortedProjetos
-  .filter((p) => p.data.featured || p.data.status.toLowerCase().includes('ongoing'))
-  .slice(0, 4);
+
+// Only active projects on homepage
+const activeProjetos = sortedProjetos.filter(
+  (p) => p.data.period.toLowerCase().includes('present') || p.data.status.toLowerCase().includes('ongoing')
+);
+const homeActiveProjetos = activeProjetos.slice(0, 6);
 
 const researchLines = [
   {
@@ -138,44 +141,59 @@ const researchLines = [
     </div>
   </section>
 
-  <!-- Featured Projects -->
+  <!-- Active Projects Section -->
   <section class="py-20 bg-white border-b border-slate-200">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="flex flex-col md:flex-row md:items-end justify-between mb-12">
         <div>
-          <span class="text-xs font-bold uppercase tracking-wider text-unb-blue bg-blue-100 px-3 py-1 rounded-full">
-            {t('projects.tag')}
+          <span class="text-xs font-bold uppercase tracking-wider text-emerald-700 bg-emerald-100 px-3 py-1 rounded-full border border-emerald-300">
+            ● Active Projects ({activeProjetos.length} ongoing)
           </span>
           <h2 class="text-3xl font-extrabold text-slate-900 mt-3">
-            {t('projects.title')}
+            Active Research & Innovation Projects
           </h2>
           <p class="text-slate-600 mt-2">
-            {t('projects.subtitle')}
+            Cutting-edge research and development projects currently underway at COMNET.
           </p>
         </div>
         <a
-          href={`${prefix}/projetos/`}
+          href={`${prefix}/projetos/?status=ongoing`}
           class="mt-4 md:mt-0 inline-flex items-center gap-1.5 text-sm font-bold text-unb-blue hover:text-unb-green transition-colors"
         >
-          <span>{t('projects.viewAll')}</span>
+          <span>View all {activeProjetos.length} active projects</span>
           <span>→</span>
         </a>
       </div>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {featuredProjetos.map((proj) => (
-          <ProjectCard
-            lang={lang}
-            slug={proj.slug}
-            title={proj.data.title}
-            period={proj.data.period}
-            coordinator={proj.data.coordinator}
-            funding={proj.data.funding}
-            status={proj.data.status}
-            featured={proj.data.featured}
-            descriptionSnippet={proj.body.substring(0, 160) + '...'}
-          />
-        ))}
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {homeActiveProjetos.map((proj) => {
+          const cleanSnippet = proj.body.replace(/^##\s+[^\n]+\n+/gm, '').trim().substring(0, 150) + '...';
+          return (
+            <ProjectCard
+              lang={lang}
+              slug={proj.slug}
+              title={proj.data.title}
+              period={proj.data.period}
+              coordinator={proj.data.coordinator}
+              funding={proj.data.funding}
+              status={proj.data.status}
+              featured={proj.data.featured}
+              professors={proj.data.professors}
+              tags={proj.data.tags}
+              descriptionSnippet={cleanSnippet}
+            />
+          );
+        })}
+      </div>
+
+      <div class="mt-10 text-center">
+        <a
+          href={`${prefix}/projetos/`}
+          class="inline-flex items-center gap-2 px-6 py-3 rounded-xl bg-slate-900 hover:bg-unb-blue text-white font-bold text-sm transition-all shadow-sm"
+        >
+          <span>Explore all {allProjetos.length} projects (Active & Completed)</span>
+          <span>→</span>
+        </a>
       </div>
     </div>
   </section>
