@@ -1,8 +1,8 @@
 ---
 title: "Optical Internet Laboratory, TIDIA Kyatera"
 period: "2005 - 2008"
-coordinator: "André Costa Drummond"
-funding: "Agências de Fomento (MCTI/FAPDF/CNPq/CAPES/RNP)"
+coordinator: "Nelson Luis Saldanha da Fonseca"
+funding: "Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)"
 status: "Em andamento"
 featured: false
 tags:
@@ -13,12 +13,13 @@ tags:
 
 ## Resumo do Projeto
 
-KyaTera objectives are: To enable and encourage collaborative, inter-institutional, and multidisciplinary work among R&D groups via Fiber-To-The-Lab KyaTera network. To enable and encourage university - industry cooperative work for the development of Advanced Internet. To generate knowledge on technologies of Advanced Internet networks and applications. To generate, in quality and quantity, human...
+KyaTera objectives are: To enable and encourage collaborative, inter-institutional, and multidisciplinary work among R&D groups via Fiber-To-The-Lab KyaTera network. To enable and encourage university - industry cooperative work for the development of Advanced Internet. To generate knowledge on technologies of Advanced Internet networks and applications. To generate, in quality and quantity, human resources in these areas. To stimulate innovation in the development of devices, equipment, and other items for networks. To stimulate innovation in the development of Advanced Internet applications..
 
 ## Informações Gerais
 
-- **Coordenação:** André Costa Drummond
+- **Coordenação:** Nelson Luis Saldanha da Fonseca
 - **Vigência:** 2005 - 2008
-- **Financiamento:** FAPDF / CNPq / RNP / CAPES / FUB
+- **Financiador:** Agências de Fomento (FAPDF / CNPq / CAPES / RNP / FUB)
 - **Situação:** Em andamento
+- **Pesquisadores do COMNET Participantes:** André Costa Drummond
 - **Unidade:** Departamento de Ciência da Computação (CIC) — Universidade de Brasília (UnB)

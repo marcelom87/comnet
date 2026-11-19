@@ -1,8 +1,8 @@
 ---
-title: "Reconfiguration in Dynamic Quorum Systems"
+title: "Reconfiguração em Sistemas de Quóruns"
 period: "2014 - 2017"
-coordinator: "André Costa Drummond"
-funding: "CNPq"
+coordinator: "Eduardo Adilio Pelinson Alchieri"
+funding: "Conselho Nacional de Desenvolvimento Científico e Tecnológico"
 status: "Completed"
 featured: false
 tags:
@@ -13,12 +13,13 @@ tags:
 
 ## Project Overview
 
-Fault-tolerant consensus and dynamic membership reconfiguration in asynchronous distributed systems with crash-recovery and Byzantine failure models.
+Projeto CNPq - Edital Universal - Faixa A - Número 457272/2014-7: lEste projeto contempla o Development of algoritmos adaptativos, capazes de tratar mudanças que ocorrem na composição dos sistemas de quóruns, permitindo que a aplicação possa ser reconfigurada em tempo de execução, de forma que os protocolos de leitura e escrita no registrador sejam desacoplados dos protocolos de reconfiguração. Esta propriedade é fundamental para garantir um bom desempenho do sistema..
 
 ## General Information
 
-- **Principal Investigator:** André Costa Drummond
+- **Principal Investigator:** Eduardo Adilio Pelinson Alchieri
 - **Duration:** 2014 - 2017
-- **Sponsors:** CNPq
+- **Sponsors:** Conselho Nacional de Desenvolvimento Científico e Tecnológico
 - **Status:** Completed
+- **Participating COMNET Faculty:** André Costa Drummond, Eduardo Adilio Pelinson Alchieri
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

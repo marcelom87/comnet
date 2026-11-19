@@ -21,7 +21,9 @@ pnpm-debug.log*
 
 # Extracted caches / temp scripts
 extracted_*.json
+all_extracted_*.json
 extract_*.js
 prepare_students.js
 generate_*.js
+test_slugs.js
 

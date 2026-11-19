@@ -1,9 +1,9 @@
 ---
-title: "6G-RIC: 6G Research and Innovation Cluster"
+title: "6G Research and Innovation Cluster (6G-RIC)"
 period: "2021 - 2025"
-coordinator: "André Costa Drummond"
-funding: "RNP / MCTI"
-status: "Ongoing"
+coordinator: "STA'CZAK, SLAWOMIR"
+funding: "Bundesministeriur fur Bildung und Forschung - Other"
+status: "Completed"
 featured: true
 tags:
   - "Research"
@@ -13,12 +13,13 @@ tags:
 
 ## Project Overview
 
-Collaborative research on next-generation 6G mobile infrastructure, focusing on open radio access networks (O-RAN), AI-driven wireless control loops, and zero-touch network management.
+The 6G Research and Innovation Cluster (6G-RIC) is a research hub designed to lay the scientific and technical foundations for the next generation of mobile communications (6G) across all technology levels, from radio access to core networks and fiber optic transport networks.By pursuing cutting-edge research and international networking, 6G-RIC aims to help establish Germany and Europe as global leaders in the expansion of sustainable 6G technologies.6G-RIC is focused on researching and developing a secure, flexible and open communications infrastructure as the basis for successful digitization in business and all areas of society.6G-RIC is an interdisciplinary and coordinated collaboration linking a total of 32 research groups from 20 universities and research institutions, supported by over 60 associate partners from science, industry, and the public sector..
 
 ## General Information
 
-- **Principal Investigator:** André Costa Drummond
+- **Principal Investigator:** STA'CZAK, SLAWOMIR
 - **Duration:** 2021 - 2025
-- **Sponsors:** RNP / MCTI
-- **Status:** Ongoing
+- **Sponsors:** Bundesministeriur fur Bildung und Forschung - Other
+- **Status:** Completed
+- **Participating COMNET Faculty:** André Costa Drummond
 - **Host Institution:** Department of Computer Science (CIC) — University of Brasília (UnB)

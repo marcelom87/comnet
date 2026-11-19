@@ -9,53 +9,207 @@ const t = useTranslations(lang);
 
 const allProjetos = await getCollection('projetos_en');
 
-const projetos = allProjetos.sort((a, b) => {
-  const aOngoing = a.data.status.includes('andamento') || a.data.period.includes('Atual') ? 1 : 0;
-  const bOngoing = b.data.status.includes('andamento') || b.data.period.includes('Atual') ? 1 : 0;
-  if (bOngoing !== aOngoing) return bOngoing - aOngoing;
-  return b.data.period.localeCompare(a.data.period);
-});
+// Sort: Primary Chronological (descending), Secondary Alphabetical
+function sortProjects(list: typeof allProjetos) {
+  return list.sort((a, b) => {
+    const aMatch = a.data.period.match(/([0-9]{4})\s*-\s*(Atual|Present|[0-9]{4})/i);
+    const bMatch = b.data.period.match(/([0-9]{4})\s*-\s*(Atual|Present|[0-9]{4})/i);
+
+    const aStart = aMatch ? parseInt(aMatch[1], 10) : 0;
+    const bStart = bMatch ? parseInt(bMatch[1], 10) : 0;
+
+    const aOngoing = a.data.period.toLowerCase().includes('present') || a.data.status.toLowerCase().includes('ongoing');
+    const bOngoing = b.data.period.toLowerCase().includes('present') || b.data.status.toLowerCase().includes('ongoing');
+
+    // 1. Ongoing projects first
+    if (aOngoing !== bOngoing) {
+      return bOngoing ? 1 : -1;
+    }
+
+    // 2. Start year descending
+    if (bStart !== aStart) {
+      return bStart - aStart;
+    }
+
+    // 3. End year descending
+    const aEnd = aMatch && !aOngoing && !isNaN(parseInt(aMatch[2], 10)) ? parseInt(aMatch[2], 10) : 0;
+    const bEnd = bMatch && !bOngoing && !isNaN(parseInt(bMatch[2], 10)) ? parseInt(bMatch[2], 10) : 0;
+    if (bEnd !== aEnd) {
+      return bEnd - aEnd;
+    }
+
+    // 4. Secondary: Alphabetical by Title
+    return a.data.title.localeCompare(b.data.title, 'en');
+  });
+}
+
+const projetos = sortProjects(allProjetos);
+const ongoingCount = projetos.filter(p => p.data.status.toLowerCase().includes('ongoing') || p.data.period.includes('Present')).length;
+const completedCount = projetos.length - ongoingCount;
 ---
 
 <BaseLayout
   lang={lang}
   title="Research Projects | COMNET — CIC / UnB"
-  description="Research grants and collaborative R&D projects led by COMNET Laboratory researchers at the University of Brasília."
+  description="Comprehensive repository of scientific and technological research projects conducted by COMNET Laboratory researchers at the University of Brasília."
 >
   <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <div class="max-w-3xl">
         <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
-          {t('projects.tag')}
+          R&D & Scientific Innovation
         </span>
         <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
-          {t('projects.title')}
+          Research Projects
         </h1>
         <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
-          {t('projects.subtitle')}
+          Historical and active research portfolio of COMNET. Sorted primarily in chronological descending order, and secondarily in alphabetical order.
         </p>
+
+        <div class="flex flex-wrap gap-3 mt-6">
+          <span class="px-3.5 py-1.5 rounded-lg bg-white/10 text-xs font-semibold text-white border border-white/20">
+            📊 Total: <strong>{projetos.length}</strong> projects
+          </span>
+          <span class="px-3.5 py-1.5 rounded-lg bg-emerald-500/20 text-xs font-semibold text-emerald-300 border border-emerald-400/30">
+            ● <strong>{ongoingCount}</strong> ongoing
+          </span>
+          <span class="px-3.5 py-1.5 rounded-lg bg-slate-700/50 text-xs font-semibold text-slate-300 border border-slate-600/50">
+            ✓ <strong>{completedCount}</strong> completed
+          </span>
+        </div>
       </div>
     </div>
   </section>
 
+  <!-- Filter & Fast Search -->
+  <section class="py-8 bg-white border-b border-slate-200 sticky top-20 z-40 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+      <!-- Search Input -->
+      <div class="relative w-full sm:w-96">
+        <span class="absolute inset-y-0 left-0 flex items-center pl-3 pointer-events-none text-slate-400">
+          🔍
+        </span>
+        <input
+          type="text"
+          id="project-search-en"
+          placeholder="Search project by title, coordinator, or sponsor..."
+          class="w-full pl-9 pr-4 py-2 border border-slate-300 rounded-xl text-sm focus:outline-none focus:ring-2 focus:ring-unb-blue focus:border-unb-blue bg-slate-50 transition-all"
+        />
+      </div>
+
+      <!-- Filter Buttons -->
+      <div class="flex items-center gap-2 self-start sm:self-auto text-xs font-semibold" id="filter-buttons-en">
+        <button
+          type="button"
+          data-filter="all"
+          class="filter-btn-en active px-3 py-1.5 rounded-lg bg-unb-blue text-white transition-all shadow-xs"
+        >
+          All ({projetos.length})
+        </button>
+        <button
+          type="button"
+          data-filter="ongoing"
+          class="filter-btn-en px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 transition-all"
+        >
+          Ongoing ({ongoingCount})
+        </button>
+        <button
+          type="button"
+          data-filter="completed"
+          class="filter-btn-en px-3 py-1.5 rounded-lg bg-slate-100 text-slate-700 hover:bg-slate-200 transition-all"
+        >
+          Completed ({completedCount})
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <!-- Complete Grid of Projects -->
   <section class="py-16">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-        {projetos.map((proj) => (
-          <ProjectCard
-            lang={lang}
-            slug={proj.slug}
-            title={proj.data.title}
-            period={proj.data.period}
-            coordinator={proj.data.coordinator}
-            funding={proj.data.funding}
-            status={proj.data.status}
-            featured={proj.data.featured}
-            descriptionSnippet={proj.body.substring(0, 160) + '...'}
-          />
-        ))}
+      <div id="projects-grid-en" class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {projetos.map((proj) => {
+          const isOngoing = proj.data.status.toLowerCase().includes('ongoing') || proj.data.period.includes('Present');
+          const cleanSnippet = proj.body.replace(/^##\s+[^\n]+\n+/gm, '').trim().substring(0, 160) + '...';
+          return (
+            <div
+              class="project-item-en"
+              data-status={isOngoing ? 'ongoing' : 'completed'}
+              data-text={`${proj.data.title} ${proj.data.coordinator} ${proj.data.funding}`.toLowerCase()}
+            >
+              <ProjectCard
+                lang={lang}
+                slug={proj.slug}
+                title={proj.data.title}
+                period={proj.data.period}
+                coordinator={proj.data.coordinator}
+                funding={proj.data.funding}
+                status={proj.data.status}
+                featured={proj.data.featured}
+                descriptionSnippet={cleanSnippet}
+              />
+            </div>
+          );
+        })}
+      </div>
+
+      <div id="no-results-en" class="hidden text-center py-16">
+        <p class="text-slate-400 text-lg">No projects found matching your search criteria.</p>
       </div>
     </div>
   </section>
 </BaseLayout>
 
+<script>
+  const searchInput = document.getElementById('project-search-en') as HTMLInputElement | null;
+  const filterBtns = document.querySelectorAll('.filter-btn-en');
+  const items = document.querySelectorAll('.project-item-en');
+  const noResults = document.getElementById('no-results-en');
+
+  let currentFilter = 'all';
+  let searchTerm = '';
+
+  function applyFilters() {
+    let visibleCount = 0;
+    items.forEach((item) => {
+      const el = item as HTMLElement;
+      const status = el.dataset.status;
+      const text = el.dataset.text || '';
+
+      const matchesStatus = currentFilter === 'all' || status === currentFilter;
+      const matchesSearch = searchTerm === '' || text.includes(searchTerm);
+
+      if (matchesStatus && matchesSearch) {
+        el.style.display = '';
+        visibleCount++;
+      } else {
+        el.style.display = 'none';
+      }
+    });
+
+    if (noResults) {
+      noResults.classList.toggle('hidden', visibleCount > 0);
+    }
+  }
+
+  if (searchInput) {
+    searchInput.addEventListener('input', (e) => {
+      searchTerm = (e.target as HTMLInputElement).value.toLowerCase().trim();
+      applyFilters();
+    });
+  }
+
+  filterBtns.forEach((btn) => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach((b) => {
+        b.classList.remove('bg-unb-blue', 'text-white', 'shadow-xs');
+        b.classList.add('bg-slate-100', 'text-slate-700');
+      });
+      btn.classList.remove('bg-slate-100', 'text-slate-700');
+      btn.classList.add('bg-unb-blue', 'text-white', 'shadow-xs');
+
+      currentFilter = (btn as HTMLElement).dataset.filter || 'all';
+      applyFilters();
+    });
+  });
+</script>

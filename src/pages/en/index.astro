@@ -16,10 +16,21 @@ const prefix = `${baseUrl}/en`;
 const allProfessores = await getCollection('professores_en');
 const professores = allProfessores.sort((a, b) => a.data.name.localeCompare(b.data.name, 'en'));
 
-// Fetch featured projects
+// Fetch featured and recent projects sorted chronologically then alphabetically
 const allProjetos = await getCollection('projetos_en');
-const featuredProjetos = allProjetos
-  .filter((p) => p.data.featured || p.data.status.includes('andamento'))
+const sortedProjetos = allProjetos.sort((a, b) => {
+  const aMatch = a.data.period.match(/([0-9]{4})\s*-\s*(Present|[0-9]{4})/i);
+  const bMatch = b.data.period.match(/([0-9]{4})\s*-\s*(Present|[0-9]{4})/i);
+  const aStart = aMatch ? parseInt(aMatch[1], 10) : 0;
+  const bStart = bMatch ? parseInt(bMatch[1], 10) : 0;
+  const aOngoing = a.data.period.toLowerCase().includes('present') || a.data.status.toLowerCase().includes('ongoing');
+  const bOngoing = b.data.period.toLowerCase().includes('present') || b.data.status.toLowerCase().includes('ongoing');
+  if (aOngoing !== bOngoing) return bOngoing ? 1 : -1;
+  if (bStart !== aStart) return bStart - aStart;
+  return a.data.title.localeCompare(b.data.title, 'en');
+});
+const featuredProjetos = sortedProjetos
+  .filter((p) => p.data.featured || p.data.status.toLowerCase().includes('ongoing'))
   .slice(0, 4);
 
 const researchLines = [
