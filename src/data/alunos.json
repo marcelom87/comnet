@@ -4,1018 +4,3333 @@
       "name": "Alessandro Cordeiro de Lima",
       "advisor": "Eduardo Adilio Pelinson Alchieri",
       "level": "Doutorado",
-      "title": ""
+      "title": "Segurança em SDN",
+      "year": 2023
     },
     {
       "name": "Alexandro de Oliveria Paula",
       "advisor": "Geraldo Pereira Rocha Filho",
       "level": "Doutorado",
-      "title": ""
+      "title": "Modelagem de Arquiteturas Seguras de Automação para Smart Grids com Uso de Aprendizado de Máquina",
+      "year": 2023
     },
     {
       "name": "Amauri Dorneles Otto",
       "advisor": "Eduardo Adilio Pelinson Alchieri",
       "level": "Mestrado",
-      "title": ""
+      "title": "Segurança em Open RAN",
+      "year": 2025
     },
     {
       "name": "Andher Paulo Capanema Santana",
       "advisor": "Geraldo Pereira Rocha Filho",
       "level": "Mestrado",
-      "title": ""
+      "title": "Mecanismos de agregação de modelos em ambientes de aprendizado federado",
+      "year": 2025
     },
     {
       "name": "Ângela Brígida Albarello",
       "advisor": "Geraldo Pereira Rocha Filho",
       "level": "Doutorado",
-      "title": ""
+      "title": "Aprendizado Federado na Modelagem de Sistemas para Detecção de Distração de Motoristas",
+      "year": 2023
     },
     {
-      "name": "Caio Franco Porto",
+      "name": "Antenor Pereira Madruga Filho",
       "advisor": "Geraldo Pereira Rocha Filho",
       "level": "Graduação",
-      "title": ""
+      "title": "Início: 2026. Universidade de Brasília. Liriam Michi Enamoto",
+      "year": 2025
     },
     {
       "name": "Carlos Joel Tavares da Silva",
       "advisor": "Célia Ghedini Ralha",
       "level": "Doutorado",
-      "title": ""
+      "title": "Arquitetura Multiagente Visando a Recuperação de Planos em Ambientes Dinâmicos",
+      "year": 2024
     },
     {
-      "name": "Dissertação (Mestrado em Ciências da Informação) -\nUniversidade de Brasília",
+      "name": "Cassiano Darif Zago",
       "advisor": "Geraldo Pereira Rocha Filho",
       "level": "Mestrado",
-      "title": ""
+      "title": "Framework federado para preparação e tratamento de dados em sistemas de aprendizagem de máquina",
+      "year": 2024
     },
     {
-      "name": "Dissertação (Mestrado em Computação Aplicada) -\nUniversidade de Brasília",
-      "advisor": "Marcos Fagundes Caetano",
-      "level": "Mestrado",
-      "title": ""
-    },
-    {
-      "name": "Dissertação (Mestrado em Informática) - Universidade de\nBrasília",
+      "name": "Charles Antonio Nascimento",
       "advisor": "Célia Ghedini Ralha",
-      "level": "Mestrado",
-      "title": ""
+      "level": "Doutorado",
+      "title": "Automated Planning in Dynamic Multi- agent Environments",
+      "year": 2023
     },
     {
-      "name": "ERASMO RIBEIRO DE LIMA",
+      "name": "Diego Dias Cardoso",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Mestrado",
+      "title": "Armazenamento, Processamento e Análise Federada de Inteligência de Extrações de Dispositivos Móveis",
+      "year": 2024
+    },
+    {
+      "name": "Douglas de Oliveira Matos Braga",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Doutorado",
+      "title": "Criptoanálise de Cifras de Fluxo utilizando Aprendizado Federado",
+      "year": 2023
+    },
+    {
+      "name": "Erasmo Ribeiro de Lima",
       "advisor": "Marcos Fagundes Caetano",
       "level": "Mestrado",
-      "title": ""
+      "title": "Avaliação de Performance de Plataforma Para Detecção de Tráfego Anômalo em Rede",
+      "year": 2019
     },
     {
       "name": "Gabriel de Carvalho Ferreira",
       "advisor": "Eduardo Adilio Pelinson Alchieri",
       "level": "Doutorado",
-      "title": ""
+      "title": "Segurança na arquitetura 5G",
+      "year": 2022
     },
     {
       "name": "Gabriel Faustino Lima da Rocha",
       "advisor": "Eduardo Adilio Pelinson Alchieri",
       "level": "Mestrado",
-      "title": ""
+      "title": "Consenso Bizantino Baseado em uma Camada de Rede com Ordenação de Mensagens Tolerante a Intrusões",
+      "year": 2025
     },
     {
       "name": "Guilherme Mantovani Oliveira",
       "advisor": "Priscila América Solís Mendez Barreto",
       "level": "Mestrado",
-      "title": ""
+      "title": "Implementação de um caso de uso no Open RAN",
+      "year": 2025
     },
     {
       "name": "Heitor Gomes Pereira",
       "advisor": "Marcos Fagundes Caetano",
       "level": "Mestrado",
-      "title": ""
+      "title": "Alocação de recursos em Redes IBN",
+      "year": 2023
+    },
+    {
+      "name": "Jefferson Pereira da Silva",
+      "advisor": "Eduardo Adilio Pelinson Alchieri",
+      "level": "Doutorado",
+      "title": "Paralelismo em Sistemas Replicados",
+      "year": 2021
     },
     {
       "name": "João Batista Rodrigues Fonseca",
       "advisor": "Marcos Fagundes Caetano",
       "level": "Mestrado",
-      "title": ""
+      "title": "Previsão de Irregularidades em Pregões a Partir de Indícios Fracos",
+      "year": 2023
     },
     {
       "name": "João Felipe Knoller Marques",
       "advisor": "Célia Ghedini Ralha",
       "level": "Mestrado",
-      "title": ""
+      "title": "Coordenação entre Agentes como Mecanismo de Segurança em Sistemas Multiagentes Abertos",
+      "year": 2026
+    },
+    {
+      "name": "Juliano Adorno Maia",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Doutorado",
+      "title": "Fusão de Sensores em VANTs por Meio de Aprendizado Federado",
+      "year": 2024
     },
     {
       "name": "Laiana Kaene Carvalho Barbosa",
       "advisor": "Geraldo Pereira Rocha Filho",
-      "level": "Iniciação Científica",
-      "title": ""
+      "level": "Graduação",
+      "title": "Monitoramento federado de ambientes para sistemas conectados",
+      "year": 2025
     },
     {
       "name": "Leonardo Alves Riether",
       "advisor": "Marcus Vinicius Lamar",
       "level": "Graduação",
-      "title": ""
+      "title": "FPGRARS: Um interpretador rápido para linguagem Assembly RISC-V",
+      "year": 2023
     },
     {
       "name": "Letícia Machado Magalhães",
       "advisor": "Célia Ghedini Ralha",
       "level": "Mestrado",
-      "title": ""
+      "title": "Inteligência Artificial Generativa: Um Modelo de Interação Dialógica para Aprendizagem Ativa",
+      "year": 2025
     },
     {
       "name": "Lucas Vasconcelos de Morais",
       "advisor": "Geraldo Pereira Rocha Filho",
       "level": "Doutorado",
-      "title": ""
+      "title": "FedTuneLLM: Ajuste Fino de LLM em Aprendizado Federado",
+      "year": 2025
     },
     {
       "name": "Marcella Queiroz de Castro",
       "advisor": "Célia Ghedini Ralha",
       "level": "Mestrado",
-      "title": ""
+      "title": "Analisando Vieses Discriminatórios nas Condenações Judiciais de Homicídio com Reconhecimento de Entidade Nomeada e Processamento de Linguagem Natural para Transparência Jurídica",
+      "year": 2025
     },
     {
-      "name": "MARCELO DOS SANTOS",
+      "name": "Marcelo dos Santos",
       "advisor": "Priscila América Solís Mendez Barreto",
       "level": "Mestrado",
-      "title": ""
+      "title": "Estudo de Técnicas de IA em Ambientes de Nuvem",
+      "year": 2025
     },
     {
-      "name": "MARCOS JOSÉ DOS SANTOS NETO",
+      "name": "Marcos José dos Santos Neto",
       "advisor": "Eduardo Adilio Pelinson Alchieri",
       "level": "Doutorado",
-      "title": ""
+      "title": "Segurança em redes SDN",
+      "year": 2023
     },
     {
-      "name": "NATALIA SOUZA DE JESUS",
+      "name": "Matheus Virgílio da Silva Ferreira",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Mestrado",
+      "title": "Modelos de aprendizado federado para robôs autônomos em ambientes distribuídos",
+      "year": 2025
+    },
+    {
+      "name": "Natalia Souza de Jesus",
       "advisor": "Priscila América Solís Mendez Barreto",
       "level": "Mestrado",
-      "title": ""
+      "title": "Métodos para Tratamento Massivos de Dados",
+      "year": 2025
+    },
+    {
+      "name": "Orientações de outra natureza Gabriel Juliani Segatto",
+      "advisor": "Roberto Vito Rodrigues Filho",
+      "level": "Mestrado",
+      "title": "UFSC OFFSEC - Segurança Ofensiva na Prática",
+      "year": 2025
+    },
+    {
+      "name": "Paulo Henrique Batista Rodrigues",
+      "advisor": "Geraldo Pereira Rocha Filho",
+      "level": "Mestrado",
+      "title": "Serviço Federado de Previsão Automatizada de Documentos com Modelos de Linguagem de Grande Escala para Instituições Públicas",
+      "year": 2024
     },
     {
       "name": "Ruan Petrus Alves Leite",
       "advisor": "Marcus Vinicius Lamar",
       "level": "Graduação",
-      "title": ""
+      "title": "Implementação de uma micro-GPU em FPGA",
+      "year": 2024
     }
   ],
   "alumni": {
     "doutorado": [
       {
-        "name": "Liriam Michi Enamoto",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Doutorado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Lucas de Melo Guimarães",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Doutorado",
-        "year": 2024,
-        "title": ""
+        "name": "Natan de Souza Rodrigues",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2025,
+        "title": "Framework Híbrido com Aprendizado de Máquina Profundo para Desambiguação de Nomes de Autores",
+        "level": "Doutorado"
       },
       {
         "name": "Paulo Roberto da Paz Ferraz Santos",
         "advisor": "André Costa Drummond",
-        "level": "Doutorado",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Metodologia para Produção de Inteligência de Ameaça Acionável em Nível Tático",
+        "level": "Doutorado"
       },
       {
-        "name": "Pedro Pinheiro Cardoso",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Doutorado",
-        "year": 2024,
-        "title": ""
-      }
-    ],
-    "mestrado": [
-      {
-        "name": "Alessandro Cordeiro de Lima",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Aurea Fernanda de Brito Loiloa Aguiar Fernandes",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "az na Infraestrutura de TI da Universidade de Brasília",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Bruna Michelly de Oliveira Silva Cordeiro",
-        "advisor": "Roberto Vito Rodrigues Filho",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Claudio Xavier de Oliveira",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Computação) - Universidade de Brasília,",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Cristhian Albert Celestino Cortez",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Cristoffer Silva Leite",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "da Administração Pública Federal",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Daniel Almendra",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Danilo Moura Pereira",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Dissertação (Mestrado em Ciência da Computação) -\nUniversidade de Brasília, Coordenação de Aperfeiçoamento de\nPessoal de Nível Superior",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Dissertação (Mestrado em Engenharia Elétrica) -\nUniversidade de Brasília,",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Dissertação (Mestrado em Informática) - Universidade de\nBrasília,",
-        "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Dissertação (Mestrado em Informática) - Universidade de\nBrasília, Coordenação de Aperfeiçoamento de Pessoal de Nível\nSuperior",
-        "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Dissertação (Mestrado em Mestrado em Informática) -\nUniversidade de Brasília,",
+        "name": "Aldo Henrique Dias Mendes",
         "advisor": "Célia Ghedini Ralha",
-        "level": "Mestrado",
         "year": 2024,
-        "title": ""
+        "title": "Arquitetura Multiagente com Modelos de Raciocínio Distintos para Gerenciamento de Recursos em Múltiplos Provedores de Nuvem",
+        "level": "Doutorado"
       },
       {
-        "name": "Dissertação (Mestrado em Pós-Graduação em Informática) -\nUniversidade de Brasília,",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Eduardo Schnell e Schühli",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Felipe de Moraes Modesto",
+        "name": "Ítalo Barbosa Brasileiro",
         "advisor": "André Costa Drummond",
-        "level": "Mestrado",
         "year": 2024,
-        "title": ""
+        "title": "Core switching Paradigms in Multi-core Elastic Optical Networks",
+        "level": "Doutorado"
       },
       {
-        "name": "Férias",
+        "name": "Aurélio Ribeiro Costa",
         "advisor": "Célia Ghedini Ralha",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Gabriel Irribarem Soares Ruas",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Guilherme Holsbach Costa",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Humprey Corrêa da Fonseca",
-        "advisor": "Célia Ghedini Ralha",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Juarez Paulino da Silva Júnior",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Juliano João Bazzo",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Kaio Alexandre da Silva",
-        "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2023,
+        "title": "Adaptive Model to Community Detection in Dynamic Social Networks",
+        "level": "Doutorado"
       },
       {
         "name": "Leia Sousa de Sousa",
         "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2023,
+        "title": "Redes Ópticas Metropolitanas: Arquiteturas e Engenharia de Tráfego",
+        "level": "Doutorado"
       },
       {
-        "name": "Luan Borges dos Santos",
-        "advisor": "Marcelo Antonio Marotta",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "name": "Leonardo Henrique Moreira",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2023,
+        "title": "Recovery Strategies for Multi-agent Planning in Dynamic Environments",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Liriam Michi Enamoto",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2023,
+        "title": "GeMGF - Generic Multimodal Gradient-Based Meta Framework",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Cássio Giorgio Couto Coelho",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2021,
+        "title": "Modelo de Simulação Baseado em Agentes Interativos com Teoria de Jogos para Uso e Cobertura da Terra",
+        "level": "Doutorado"
       },
       {
         "name": "Lucas Rodrigues Costa",
         "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2021,
+        "title": "Eficiência Energética em Redes Ópticas Elásticas",
+        "level": "Doutorado"
       },
       {
-        "name": "Marcelo Nascimento dos Santos",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Marcelo Tupaíba Nunez Alves",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Marcos José dos Santos Neto",
+        "name": "Lucas de Melo Guimarães",
         "advisor": "Jacir Luiz Bordim",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2020,
+        "title": "FDT-MAC e FDMR-MAC : protocolos de controle de acesso ao meio projetados para explorar o potencial das comunicações full-duplex",
+        "level": "Doutorado"
       },
       {
-        "name": "Marcos Vinicius de Paula Pinto",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "name": "José Pergentino de Araújo Neto",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2019,
+        "title": "Uma Arquitetura Resiliente Baseada em Agentes para Instâncias Transientes na Computação em Nuvem",
+        "level": "Doutorado"
       },
       {
-        "name": "Maurílio Humberto Rodrigues Miranda",
+        "name": "Carolina Gonçalves Abreu",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2018,
+        "title": "An Empirical Workflow of Uncertainty Quantification to Evaluate Agent-based Simulation Outputs Aiming Analytical Confidence",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Marcos Fagundes Caetano",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2017,
+        "title": "Uma abordagem de controle de acesso ao meio para redes de acesso dinâmico com múltiplos canais ortogonais",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Paulo Angelo Alves Resende",
         "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2015,
+        "title": "2018. Universidade de Brasília, . André Costa Drummond. Monografia de conclusão de curso de aperfeiçoamento/especialização DIEGO OLIVEIRA FARIAS. ESTUDO DE CASO DA IMPLANTAÇÃO DE UM SISTEMA DE DETECÇÃO DE INTRUSÃO (IDS) OPEN SOURCE NA REDE DO ITI",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Ulisses Rodrigues Afonseca",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2015,
+        "title": "Comunicação Cooperativa: Uma Alternativa Para A Resiliência Em Redes Ad Hoc Sem Fio",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Juliano Rodrigues Ferreira",
+        "advisor": "André Costa Drummond",
+        "year": 2014,
+        "title": "Gestão de Continuidade de Infraestruturas de TI na Administração Pública Federal",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Michele de Morais Barbosa",
+        "advisor": "André Costa Drummond",
+        "year": 2014,
+        "title": "CONTROLE DE ACESSO LÓGICO: ANÁLISE DO SISTEMA DE APOIO A DECISÃO DE UMA ORGANIZAÇÃO DA ADMINISTRAÇÃO PÚBLICA FEDERAL CONSIDERANDO AS NORMAS ABNT NBR ISO/IEC 27001 E 27002",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Ana Régia de Mendonça Neves",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2013,
+        "title": "Uma Arquitetura de Agentes para Recomendação Contextualizada de Eventos Baseada em Propagação da Ativação da Memória",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Bruno Werneck Pinto Hoelz",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2013,
+        "title": "Metamodelo para Adaptação de Confiança e Reputação em Sistemas Multiagente Dinâmicos",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Fernando Szimanski",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2013,
+        "title": "Melhoria de Modelos de Processo de Negócio com Mineração de Processos e Simulação Baseada em Agentes",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Andréa Alves Carneiro",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Implantação De Um Sgsi Voltado Aos Ambientes Críticos De Instituições Financeiras",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Antonio Marcos Rodrigues",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Análise Preliminar De Abordagem À Gestão De Risco Empregada Na Mb Frente A Modelos De Qualidade",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Marcos Cesar Gonçalves Silvino",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Proposta De Metodologia Baseada Em Projeto Para O Estabelecimento De Um Processo De Gestão De Riscos De Segurança",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Pedro Pinheiro Cardoso",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Proposta De Uso De Auditoria Baseada Em Risco Na Infraestrutura De Chaves Públicas Brasileira",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Simone Cintra Chagas",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Uma Abordagem Distribuída para o Problema de Roteamento e Alocação de Comprimentos de Onda em Redes WDM",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Fernando Medeiros Junior",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2009,
+        "title": "Métodos de Busca de Conteúdo em Servidores Web",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Everardo de Lucena Tavares",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Especialização em Gestão de Segurança da Informação e Comunicações",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Idilson Alexandre P",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Cassilhas. Uma Análise da Atividade de Testes do Plano de Continuidade de Negócio e sua Conformidade com a Norma ISSO 17799:2005",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Licínio Vilac Ruas Moreira",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Aplicabilidade de soluções de Gerenciamento de Identidade e Acesso na Gestão da Segurança da Informação do SERPRO",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Marcos Ambrogi",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Boas práticas e sua aplicação nos serviços de telefonia da APF",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Roberto Moutella Pimenta",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2008,
+        "title": "Definição de um Modelo Funcional Baseado em Processos para Tratamento de Incidentes Computacionais na Administratação Pública Federal",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Sérgio Funchs",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Proposta de Modelo de Controle de Acesso Lógico por Servidores Públicos aos Recursos Computacionais da Administração Pública",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Silvana C",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Loreiro. Preservação das Informações Estratégicas com Foco em sua Segurança",
+        "level": "Doutorado"
+      },
+      {
+        "name": "Vanessa Tavares Nunes",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2008,
+        "title": "2019. Universidade de Brasília, Coordenação de Aperfeiçoamento de Pessoal de Nível Superior. Célia Ghedini Ralha. Monografia de conclusão de curso de aperfeiçoamento/especialização Ana Cristina Leitão Pinheiro e Marcos Martins Melo. Proposta de um Framework Integrado com Foco em Gerenciamento de Incidentes do Modelo ITIL, Utilizando Soluções em Ferramentas Livres",
+        "level": "Doutorado"
+      },
+      {
+        "name": "John Macedo e Valmir Vidal Campos",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2007,
+        "title": "Proposta de Modelo Integrado com Foco em Processos para a Área de Tecnologia da Informação da Empresa de Correios e Telégrafos",
+        "level": "Doutorado"
+      }
+    ],
+    "mestrado": [
+      {
+        "name": "Danilo Moura Pereira",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2026,
+        "title": "CAN-ESP: Uma Rede CAN de Baixo Custo e Código Aberto com Suporte a OTA para Veículos Elétricos",
+        "level": "Mestrado"
       },
       {
         "name": "Mayra de Moraes Campos",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Monografia",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Nacional de Desenvolvimento Científico e Tecnológico",
-        "advisor": "Célia Ghedini Ralha",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "NATHANIEL SIMCH DE MORAIS",
-        "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Nivando Araujo Cavalcante",
-        "advisor": "Marcelo Antonio Marotta",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Palton Lima Alves",
-        "advisor": "Marcelo Antonio Marotta",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Paulo Cesar Prandel",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Paulo Magno de Melo Rodrigues Alves",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2026,
+        "title": "Classificação de Textos de Bases Desbalanceadas aplicada às Solicitações Cidadãs",
+        "level": "Mestrado"
       },
       {
         "name": "Rafael Henrique Nogalha de Lima",
         "advisor": "Célia Ghedini Ralha",
-        "level": "Mestrado",
+        "year": 2026,
+        "title": "FlameSentinel: A Multi-agent Framework for Wildfire Risk Operational Management",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Daniel Almendra",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2025,
+        "title": "Análise de Soluções de Privacidade em Blockchain",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Eduardo Pingarilho Mendizabal",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2025,
+        "title": "Otimização Automatizada de Buffer Pool em Bancos de Dados Mainframe Utilizando Aprendizado de Máquina",
+        "level": "Mestrado"
+      },
+      {
+        "name": "João Paulo Souza",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2025,
+        "title": "Using AI for Forecasting and Trading in Markets, a Study of Deep Learning and Deep Reinforcement Learning in Finance",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Luan Borges dos Santos",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2025,
+        "title": "SWPTMAC: Protocolo MAC de Programação Sono-Vigília e Transferência de Energia",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Palton Lima Alves",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2025,
+        "title": "Explorando Estratégias baseadas em Invariantes de Grafos para o Posicionamento de Servidores de Fog",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Carlos Joel Tavares da Silva",
+        "advisor": "Célia Ghedini Ralha",
         "year": 2024,
-        "title": ""
+        "title": "A Multi-robot System Architecture with Multi-agent Planning",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Henrique Tibério Brandão Vieria Augusto",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "Classificação de Intensidade das Emoções na Fala em Português Brasileiro por meio de Deep Learning",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Jonathan Gomes Pereira dos Santos",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "SARIK: Uma Proposta de Framework para o Aprimoramento da Segurança em Kubernetes por meio de Políticas de Rede",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Jonathas Oliveira",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "F-NIDS: Sistema de Detecção de Intrusão baseado em Aprendizado Federado",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Alexandre Cabral Godinho",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2023,
+        "title": "STALLA: Um Framework para Análise de Fontes Abertas durante a Pandemia do COVID19",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Carolina Alves Okimoto",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2023,
+        "title": "Transferência de Tecnologia e Gestão da Propriedade Intelectual: Um Estudo de Caso na Universidade de Brasilia",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Flávio Mauricio da Cunha Souza",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2023,
+        "title": "Sistema híbrido com agregação de análise de sentimentos e séries temporais fuzzy para previsão de preços de minério de ferro",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Matheus Schmitz Oliveira",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2023,
+        "title": "Modelo Contextual de Negociação no Mercado de Ações Brasileiro com Algoritmo de Aprendizado por Reforço Profundo",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Paulo Magno de Melo Rodrigues Alves",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2023,
+        "title": "Framework para Classificação de TTP baseado em Transformadas BERT",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Alexandro de Oliveira Paula",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2022,
+        "title": "Uma Arquitetura de Automação Adaptada para Smart Grids contra Ataques Cibernéticos",
+        "level": "Mestrado"
+      },
+      {
+        "name": "André Luiz Bandeira Molina",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2022,
+        "title": "WEAPON: Uma Arquitetura de Aprendizado Não Supervisionado para Detecção de Anomalias de Comportamento de Usuários",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Bruna Michelly de Oliveira Silva Cordeiro",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2022,
+        "title": "Redes IoT Baseadas em SDN e Dirigidas por Intenções",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Charles Antonio Nascimento Costa",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2022,
+        "title": "A Multi-agent Architecture Applying Trust and Reputation Over Unknown Partners for Live Video Distributed Transcoding in Open Environments",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Emerson de Oliveira Antunes",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2022,
+        "title": "Soluções otimizadas para implantação de redes militarizadas 4G/LTE com máxima cobertura e mínima interferência",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Gustavo Caltabiano Eichler",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2022,
+        "title": "An Agent-Based Communication Architecture to Hybrid NOMA-OMA Decisions",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Nivando Araujo Cavalcante",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2022,
+        "title": "Um Modelo de Negócio para prover Interoperabilidade entre Órgãos em Ambiente Interagências",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Aldênio de Vilaça Burgos",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2021,
+        "title": "Replicação Máquina de Estados Paralela com Escalonamento Híbrido",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Jefferson Viana Fonseca Abreu",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2021,
+        "title": "AgentBotSpotter: A Multi-agent System for Online Twitter Bot Detection",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Jonathan Mendes de Almeida",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2021,
+        "title": "Characterizing and Improving Decision-Making in Fog Radio Access Networks",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcos José dos Santos Neto",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2021,
+        "title": "Detecção de ataque DDoS em SDN utilizando entropia e machine learning",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Paulo Cesar Prandel",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2021,
+        "title": "Modelagem Computacional para Avaliação da Age of Information (AoI) em Sistemas Ciberfísicos",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Rodrigo Feitosa Bezerra",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2021,
+        "title": "Aplicação de Aprendizado de Máquina para Previsão de Ocupação de Espectro de Longa Duração",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Sandro Geraldo Alves Sobreira",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2021,
+        "title": "Soft Sensor Baseado em Random Forest para Predição da Vazão Mássica de Minério de Ferro em Correias Transportadoras",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Tiago Henrique Faccio Segato",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2021,
+        "title": "Solução Orientada a Agentes Inteligentes para Controle Glicêmico de Pacientes Internados em UTI",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Guilherme David Branco",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2020,
+        "title": "Alocação de blocos de recurso em redes LTE sensível à heterogeneidade dos fluxos de dados",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Gustavo Caltabiano Eichler",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2020,
+        "title": "An Agent-Based Communication Architecture to Hybrid NOMA-OMA Decisions",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Jefferson Pereira da Silva",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2020,
+        "title": "Um Plano de Controle Seguro e Distribuído para Redes Definidas por Software",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Lucas Borges Rondon",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2020,
+        "title": "Protocolos Eficientes para Comunicação V2V em Redes Veiculares de Dados Nomeados",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Ranyelson Neres Carvalho",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2020,
+        "title": "DoSSEC : proposta de detecção e mitigação de ataques SYN Flood em redes SDN",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Alessandro Cordeiro de Lima",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2019,
+        "title": "Qualidade de Serviço Dinâmico para Diferentes Tipos de Fluxos em SDN",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Alexandre Crepory Abbott de Oliveira",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2019,
+        "title": "Study of the development of a purchase order planning system in the consumables replenishment process using machine learning",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Caio Yuri da Silva Costa",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2019,
+        "title": "Diversidade em Replicação Máquina de Estados",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Elvio de Sousa",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2019,
+        "title": "Estudo comparativo de desempenho de infraestrutura de arquiteturas de rede intra datacenter",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Fernando Marques Borges",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2019,
+        "title": "Análise do OpenAFS sob a Perspectiva da Segurança em Sistemas de Arquivos Distribuídos",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Lucas Oliveira Souza",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2019,
+        "title": "Accelerating Learning in Multiagent Domains through Experience Sharing",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2019,
+        "title": "Utilização de técnicas e instruções especiais para acelerar o casamento de padrões exato e aproximado em GPU",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Maurílio Humberto Rodrigues Miranda",
+        "advisor": "André Costa Drummond",
+        "year": 2019,
+        "title": "Transferências de Dados em Massa Sensíveis ao Consumo Energético em Redes Ópticas Elásticas",
+        "level": "Mestrado"
       },
       {
         "name": "Rodrigo Otávio Ribeiro Hagstrom",
         "advisor": "André Costa Drummond",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2019,
+        "title": "Estudo Comparativo de Consumo de Energia Elétrica de Redes Locais BaseT e Redes Locais Ópticas Passivas",
+        "level": "Mestrado"
       },
       {
-        "name": "Simei Gomes Wysoski",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Sistemas Mecatrônicos) - Universidade de Brasília,",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Ticiano Augusto Callai Bragatto",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Universidade de Brasília,",
+        "name": "Cristoffer Silva Leite",
         "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
+        "year": 2018,
+        "title": "A Performance Evaluation Model for Network Function Virtualisation on 5G Networks",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Edson Floriano",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2018,
+        "title": "Provendo Privacidade no Modelo de Coordenação por Espaço de Tuplas",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Kaio Alexandre da Silva",
+        "advisor": "André Costa Drummond",
+        "year": 2018,
+        "title": "Avaliação de Desempenho de Métricas de Fragmentação de Espectro em Redes Ópticas Elásticas",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Luis Pacheco",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2018,
+        "title": "Arquitetura para Privacidade na Integração de Internet das Coisas e Computação em Nuvem",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Rodrigo da Silva Leite Morais",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2018,
+        "title": "Utilização de Armazenamento Definido por Software em uma Arquitetura Hiperconvergente de Containers",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Rogerio D",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2018,
+        "title": "Moreira. Implementação de um Framework FaaS: Funções como serviço",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Thiago Milo Simões Ferreira",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2018,
+        "title": "Modelo Baseado em Agentes com Uso de Confiança e Reputação para Seleção de Supernós em Fog Computacional",
+        "level": "Mestrado"
       },
       {
         "name": "Vitor Coimbra de Oliveira",
         "advisor": "Marcus Vinicius Lamar",
-        "level": "Mestrado",
-        "year": 2024,
-        "title": ""
-      }
-    ],
-    "graduacao": [
-      {
-        "name": "(Curso de curta duração ministrado/Outra)",
-        "advisor": "Roberto Vito Rodrigues Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2018,
+        "title": "Projeto de Circuitos Digitais Sequenciais por Algoritmos Baseados em Programação Genética Cartesiana em FPGA",
+        "level": "Mestrado"
       },
       {
-        "name": "(Graduação em Ciência da Computação) - Universidade de\nBrasília",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Aldo Henrique Dias Mendes",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2017,
+        "title": "Agentes Autônomos para Monitoramento e Alocação Dinâmica de Recursos em Nuvem Computacional",
+        "level": "Mestrado"
       },
       {
-        "name": "Alexandre Mitsuru Kaihara",
-        "advisor": "Marcelo Antonio Marotta",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Breno da Costa",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2017,
+        "title": "Uma proposta de migração de sistemas legados de governo para a nuvem",
+        "level": "Mestrado"
       },
       {
-        "name": "Alon Mota Lourenço",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
+        "name": "Gabriel Ferreira",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2017,
+        "title": "{Técnicas para Melhorar a Eficiência do Sensoriamento Colaborativo em Redes 5G para Áreas Remotas",
+        "level": "Mestrado"
       },
       {
-        "name": "Antônio Vinícius Silva Dutra",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Heitor Medrano de Farias",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2017,
+        "title": "A Backup as a Service (BaaS) Software Solution",
+        "level": "Mestrado"
       },
       {
-        "name": "ARTHUR DE SÁ ANTERO",
-        "advisor": "Marcelo Antonio Marotta",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
+        "name": "Leonardo Henrique Moreira",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2017,
+        "title": "Modelo de Planejamento Multiagente com Verificação, Transformação e Validação de Planos",
+        "level": "Mestrado"
       },
       {
-        "name": "Bernardo Pandolfi Costa",
-        "advisor": "Roberto Vito Rodrigues Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Branco, Guilherme David Pala e Samuel Vinícius Vieira",
+        "name": "Alex Aderson Fidelis Dantas",
         "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2016,
+        "title": "Avaliação da Eficiência do Padrão IEEE 802.3az na Infraestrutura de TI da Universidade de Brasília",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Aurelio Ribeiro Costa",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2016,
+        "title": "Análise de Redes Sociais Científicas para Ampliação de Redes de Colaboração",
+        "level": "Mestrado"
       },
       {
         "name": "Camila Feitosa Rêgo",
         "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2016,
+        "title": "Modelos de Comunicação Cooperativa e Equidade no Consumo de Energia em Enlaces Cooperativos Aplicados à RSSF",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Claudio Xavier de Oliveira",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2016,
+        "title": "Avaliação das tecnologias ClientMatch e dos padrões IEEE 802.11k e 802.11r no suporte a mobilidade e tráfego de tempo real em redes WLAN",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Leia Sousa de Sousa",
+        "advisor": "André Costa Drummond",
+        "year": 2016,
+        "title": "Provendo Múltiplas Transferências de Dados em Massa em Redes Ópticas Elásticas",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Pablo Inacio Gandulfo",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2016,
+        "title": "Método de Mineração de Processos para Auxílio à Tomada de Decisão: um Estudo de Caso no Controle de Férias",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Democlydes Divino Pereira de Carvalho",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2015,
+        "title": "Implantação e Análise do Protocolo IPv6 com foco na Mobilidade",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Lucas Rodrigues Costa",
+        "advisor": "André Costa Drummond",
+        "year": 2015,
+        "title": "Potencializando a Modulação Adaptativa com Roteamento em Múltiplos Saltos em Redes Ópticas Elásticas",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Nathaniel Simch de Morais",
+        "advisor": "André Costa Drummond",
+        "year": 2015,
+        "title": "Proposta de modelo de migração de sistemas de ambiente tradicional para nuvem privada para o Polo de Tecnologia da Informação do Exército Brasileiro",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Adriano Aleixo Bossonaro",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Requisitos de Segurança no Processo de Reengenharia de Software",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Antonio Marcos Almeida Ferreira",
+        "advisor": "André Costa Drummond",
+        "year": 2014,
+        "title": "Proposta de Implantação de uma Estrutura de Armazenamento por Objetos para Preservação Documental no Tribunal de Contas do Estado do Tocantins",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Aurea Fernanda de Brito Loiloa Aguiar Fernandes",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2014,
+        "title": "Aspectos Técnicos de Incidentes em Redes Computacionais e Uso Seguro de e-mail em Contribuição à POSIC ANTT.",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Bruno Cesar Araujo",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Estudo sobre a Influência da Cultura Organizacional na Ocorrência de Comportamentos Inseguros e seu Impacto sobre a Segurança da Informação em um Órgão da Administração Pública Federal",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Cássio Giorgio Couto Coelho",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2014,
+        "title": "Agentes Racionais Baseado no Modelo Belief-Desire-Intention para o Sistema Multiagente MASE",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Douglas Leite Furtado",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2014,
+        "title": "Análise Crítica da Estrutura Normativa para Tratamento de Incidentes de Segurança na Dataprev",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Felipe de Moraes Modesto",
+        "advisor": "André Costa Drummond",
+        "year": 2014,
+        "title": "Características do Usuário Primário e seu Impacto nos Mecanismos de Acesso Dinâmico ao Espectro",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Juarez Paulino da Silva Júnior",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Alinhamento de Imagens de Profundidade com Aplicação no Reconhecimento da Língua de Sinais",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Leonardo Guedes de Oliveira",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Análise de Riscos de Segurança da Informação em Sistema de Gerenciamento de Atendimento ao Público",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcelo Abranches",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2014,
+        "title": "Otimização da Virtualização em Ambientes de Computação em Nuvem",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcelo Monte Karam",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2014,
+        "title": "plorando Similaridade em URL de Conteúdo Dinâmico como Alternativa para Aumentar a Taxa de Acertos no Web Cache",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcelo Tupaíba Nunez Alves",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "O Aprimoramento da Segurança Física e Ambiental dos Ativos de Informação através de um Circuito Fecjado de Televisão na Escola de Sargentos das Armas do Exército Brasileiro",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcius Montedo Marques",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2014,
+        "title": "Abordagem Ontológica para Mitigação de Riscos em Aplicações Web",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Thiago Fernandes Neves",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2014,
+        "title": "Proposta para Alocação de Canais e para Comunicação Cooperativa em Redes Ad Hoc",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Victor de Matos Vasconcelos Carvalho",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Análise da Política de Segurança da Informação em um Órgão da Administração Pública Federal no Acesso e Descarte de Informações",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Henrique Domingues Garcia",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2013,
+        "title": "Otimização de Roteamento em um ambiente de Redes Heterogêneas",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Juvenal dos Santos Barreto",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2013,
+        "title": "Um framework para implementação de IPV6 em um ambiente de Rede com Requerimentos de Qualidade de Serviço",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Leone Parise Vieira da Silva",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2013,
+        "title": "Automatização da Seleção dos Pixels Âncora no Cálculo da Equação de Balanço de Radiação na Superfície do Algoritmo SEBAL",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Lucas de Melo Guimares",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2013,
+        "title": "Proposta de técnicas para reserva de canal e atenuação do problema de surdez de antenas em comunicações direcionais",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Paula Letícia S",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2013,
+        "title": "Lima. Uma proposta para Economia de Energia em RSSF",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Carolina Gonçalves Abreu",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2012,
+        "title": "Ferramenta de Simulação com Abordagem de Sistema Multiagente para a Dinâmica de Uso da terra",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Gabriela Netto Guerra",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2012,
+        "title": "Modelo de Reputação e Ontologia Aplicados à Rede Social Científica do ObserveUnB",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Rodrigo André Cuevas Gaete",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2012,
+        "title": "Modelo de Interoperabilidade Semântica Aplicada ao Domínio da Saúde: Um Estudo de Caso na Vigilância Alimentar e Nutricional",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Carlos Vinícius Sarmento Silva",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2011,
+        "title": "Agentes de Mineração e sua Aplicação no Domínio de Auditoria Governamental",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Frederico Imbroisi Mesquita",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2011,
+        "title": "Uso de Raciocínio Baseado em Casos na Simulação de Análise Live",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Georger Rommel Ferreira de Araujo",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2011,
+        "title": "Agrupamento de Documentos Forenses Utilizando Redes Neurais ART1",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Humprey Corrêa da Fonseca",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2011,
+        "title": "Avaliação do Uso de Diferentes Protocolos para Localização com Abordagem de Sistema Multiagente e Rede Neural",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcelo Caldeira Ruback",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2011,
+        "title": "Mineração de Dados Aplicada à Construção de Bases de Hash em Computação Forense",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Rodrigo Lange",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2011,
+        "title": "Identificação de Tráfego do e-mule com Uso de Redes Neurais Artificiais",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Tiago Flor Bento",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2011,
+        "title": "UM ESTUDO DAS PROPRIEDADES DO TRÁFEGO EM REDES SEM FIO E SEU IMPACTO NA AVALIACÃO DE DESEMPENHO",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Albert Frederico de Menezes Il Pak",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2010,
+        "title": "Aplicação de Técnicas de Mineração de Texto para Categorização de Eventos de Segurança no CTIR Gov",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Carlos de Oliveira Bravo",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2010,
+        "title": "Geração Automática de Ontologias para a Web Semântica",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Hugo Wruck Schneider",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2010,
+        "title": "Método de Aprendizagem por Reforço no Sistema BioAgents",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Bruno Werneck Pinto Hoelz",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2009,
+        "title": "MADIK: Um Sistema Multiagente para o Exame Pericial de Sistemas Computacionais",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Gabriel Irribarem Soares Ruas",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2009,
+        "title": "Sistema Visual de Segmentação de Objetos Robusto à Iluminação para Monitoramento Automático de Tráfego de Veículos Terrestres",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Ticiano Augusto Callai Bragatto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2009,
+        "title": "Uma Nova Metodologia para Categorização de Veículos Terrestres baseada em Momentos e Métricas de Desempenho e Complexidade Computacional",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Andre Luiz Silva e Pedro Moacir Rigo Motta",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2008,
+        "title": "Análise e Proposta de Soluções do Sistema de Controle de Acesso do Serpro baseado na Seção 11 das normas ABNT NBR ISO/IEC 17799 e 27001",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Davison Gonzaga da Silva",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2008,
+        "title": "REGULAÇÃO EM SISTEMAS DE Voz sobre IP:Direitos e Garantias dos Usuários",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcos M",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "F. Caetao. Uma Abordagem Colaborativa de Cache em Redes Ad Hoc",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Osvaldo Correa",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Caracterizando Distorções em Redes Ad hoc",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Ricardo Martins Lemos",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2008,
+        "title": "Ambiente para Otimização de Redes Multimedia Utilizando Algoritmo Genético",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcio Augusto de Deus",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2007,
+        "title": "Estrategias de Gerenciamento de Banda IP MPLs visando a obtenção de um ambiente propicio para o transporte de serviços integrados em uma única Rede",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Rafael Gostinski Ferreira",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2007,
+        "title": "Um Framework de Alinhamento Ontológico entre TI e o Negócio de uma Organização",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Richardson Silva Lima",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2007,
+        "title": "Sistema Multiagente para Anotação Manual em Projetos de Sequenciamento de Genomas",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Eluzaí Souza dos Santos",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2006,
+        "title": "Uma Proposta de Integração de Sistemas Computacionais Utilizando Ontologias",
+        "level": "Mestrado"
+      },
+      {
+        "name": "José Nelson Costa Allemand",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2006,
+        "title": "Uma Proposta de Diretório de Serviços Baseado em Conhecimento para um Ambiente de Grade Computacional",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcelo Nascimento dos Santos",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Medidas de Qualidasde de Voz em Redes IP",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Cristhian Albert Celestino Cortez",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Um Novo Método de Geração Automática de Imagens Panorâmicas de Fundo de uma Sequência de Vídeo",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Eduardo Schnell e Schühli",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Reconhecimento de Gestos de Maestro Utilizando Redes Neurais Artificiais Parcialmente Recorrentes",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Marcos Vinicius de Paula Pinto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Metodologia de Estimação de Movimento Global de Sequêcias de Vídeo Utilizando Movimentos Locais de Pontos Característicos entre Quadros",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Guilherme Holsbach Costa",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2003,
+        "title": "Detecção Facial: Autofaces versus Antifaces",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Juliano João Bazzo",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2003,
+        "title": "Reconhecimento de Ações Faciais Através da Wavelet de Gabor e Análise de Componentes Principais",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Simei Gomes Wysoski",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2003,
+        "title": "A Rotation Invariant Static Hand Gesture Recognition System using Boundary Information and Neural Networks",
+        "level": "Mestrado"
+      },
+      {
+        "name": "Wesley Martins Teles",
+        "advisor": "Célia Ghedini Ralha",
+        "year": 2003,
+        "title": "Sistema Adaptativo para Web Sites Baseado no Comportamento da Formiga",
+        "level": "Mestrado"
+      }
+    ],
+    "graduacao": [
+      {
+        "name": "Antônio Vinícius Silva Dutra",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2026,
+        "title": "Análise Comparativa de Modelos de Detecção de Objetos (YOLOv8 e Faster R-CNN) para Identificação Automatizada de Esporos de Fungos Micorrízicos Arbusculares",
+        "level": "Graduação"
+      },
+      {
+        "name": "Arthur de Sá Antero",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2026,
+        "title": "Detecção Automatizada de Calcificações de Ateroma Carotídeo em Radiografias Panorâmicas por Inteligência Artificial",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Davi Araujo Bady Casseb",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2026,
+        "title": "Implementação de LLMs no Contexto de Redes Programáveis para Geração Automatizada de Código",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Guilherme Silva Pires Veiga",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2026,
+        "title": "FederTrack: Uma Solução de Aprendizado Federado para Predição de Trajetória de Veículos Roubados",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gustavo Falcomer Pontes Viegas",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2026,
+        "title": "Uma Solução Baseada em ESP-NOW para Otimização da Telemetria em Veículos Baja SAE",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Ana Sofia Schweizer Silvestre",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2025,
+        "title": "Chatbot informativo sobre recursos da universidade para estudantes",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ândrey Galvão Mendes Rincon",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2025,
+        "title": "Detecção de botnets utilizando aprendizado federado com o classificador baseado no fluxo de energia",
+        "level": "Graduação"
+      },
+      {
+        "name": "Antôni Vinicius Silva Dutra",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2025,
+        "title": "Explorando Aprendizado Federado para Análise de Comportamentos de Motoristas com Modelos YOLO",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Ayssa Giovanna de Oliveira Marques",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2025,
+        "title": "Detecção de objetos Very Small Size Soccer utilizando redes neurais convolucionais YOLO",
+        "level": "Graduação"
+      },
+      {
+        "name": "Bernardo Pandolfi Costa",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2025,
+        "title": "A Multi-agent Approach to Self-distributing Systems",
+        "level": "Graduação"
+      },
+      {
+        "name": "Breno Costa Avelino Lima",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2025,
+        "title": "Reconhecimento de soletração em LIBRAS usando redes neurais recorrentes rasas",
+        "level": "Graduação"
       },
       {
         "name": "Carlos Gil Martins da Silva",
         "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "DisTrak: Um Aplicativo Móvel de Detecção de Distração de Motoristas em Tempo Real Utilizando YOLO",
+        "level": "Graduação"
       },
       {
-        "name": "Conclusão de Curso",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Carlos Gil Martins da Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2025,
+        "title": "Aplicação Federada do YOLO para Identificação de Comportamentos Distrativos em Motoristas",
+        "level": "Iniciação Científica"
       },
       {
-        "name": "DA SILVA, LUIZ ; MARQUEZ-BARJA, JOHANN M",
+        "name": "Enzo Zanetti Celentano",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Daniel Sundfeld Lima",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Éden de Lucas Castelar Vale Medeiro",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Emme Costa de Menezes",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Gabriel Henrique Rosa Oswaldo",
-        "advisor": "Roberto Vito Rodrigues Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Guilherme Henrique Medeiros Fernandes",
-        "advisor": "André Costa Drummond",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "K8s-LFT: Uma Extensão do LFT para Emulação de Topologias de Rede em Kubernetes",
+        "level": "Graduação"
       },
       {
         "name": "Gulherme Silva Souza",
         "advisor": "Marcus Vinicius Lamar",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Aplicação de LLM no Apoio Emocional: Um Estudo com o Modelo LLaMA",
+        "level": "Graduação"
       },
       {
-        "name": "GUSTAVO FALCOMER PONTES VIEGAS",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Gustavo Fernandes de Almeida",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Humbeto H Vieira",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Instrumentalizada com Sensores IMU",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "João Paulo Souza do Espírito Santos",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "João Victor Bohrer Munhoz",
+        "name": "João Victor Pinheiro de Souza",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Detecção de botnets utilizando aprendizado federado com o classificador baseado no fluxo de energia",
+        "level": "Graduação"
       },
       {
         "name": "Jonas Soares Rangel",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Avaliação de algoritmos genéticos utilizando virtualização leve para algoritmos de redes de distribuição de água.",
+        "level": "Graduação"
       },
       {
-        "name": "Jonatas Rocha de Paiva",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Jose B C S Borges e Ricardo Barbosa Roriz",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Juliano Balçante Pereira",
+        "name": "Leandro Machado Ribeiro Bottecchia",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "dentificação de Intent Drifts em Intent Based Networks",
+        "level": "Graduação"
       },
       {
-        "name": "LEITE, C",
-        "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Luan Mendes Gonçalves Freitas",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Lucas Avelino de Lima Jacinto",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Lucas Campos Jorge",
-        "advisor": "André Costa Drummond",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Luca Delpino Barbabella",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2025,
+        "title": "Detecção de vazamentos em sistemas de distribuição de água baseado em aprendizado de máquina com EFC",
+        "level": "Graduação"
       },
       {
         "name": "Lucas de Souza Dantas Amorim Araújo",
         "advisor": "Priscila América Solís Mendez Barreto",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Desenvolvimento de ilha Open RAN para arquitetura descentralizada com Kubernetes e coleta de métricas de rede.",
+        "level": "Graduação"
       },
       {
-        "name": "Lucas Saad Nogueira Nunes",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
+        "name": "Nathalia Pimentel de Assis",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2025,
+        "title": "Infraestrutura Sob Demanda com OpenStack: Nuvem Privada de Máquinas Virtuais em Ambiente Acadêmico",
+        "level": "Graduação"
       },
       {
-        "name": "Luine Ito Madeira de Ley",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Luiz Antônio da Silva",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Luiz Carlos da Silva Neto Vartuli",
+        "name": "Pedro Rodrigues Diogenes Macedo",
         "advisor": "Marcus Vinicius Lamar",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Reconhecimento de soletração em LIBRAS usando redes neurais recorrentes rasas",
+        "level": "Graduação"
       },
       {
-        "name": "Manuela Matos Correia de Souza",
+        "name": "Rafael Barbosa da Costa",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Desenvolvimento de Dispositivo Perineal Não Invasivo com Ultrassom, Elastografia e IA para Triagem Automatizada de Tumores Urogenitais",
+        "level": "Iniciação Científica"
       },
       {
-        "name": "Marcos Fagundes Caetano; Marcelo Antonio Marotta",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
+        "name": "Rafael Barreto Daldegan",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2025,
+        "title": "Desenvolvimento de ilha Open RAN para arquitetura descentralizada com Kubernetes e coleta de métricas de rede.",
+        "level": "Graduação"
       },
       {
-        "name": "MAROTTA, M",
+        "name": "Raul Myron Silva Amorim",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Mateus Antunes Braga",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Mikael Marques Mello",
-        "advisor": "André Costa Drummond",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "NATHALIA PIMENTEL DE ASSIS",
-        "advisor": "Marcelo Antonio Marotta",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Nathan Ferraz da Silva",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Nicole Nagel e Ruzbeh Shokranian",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Patente: Programa de Computador",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Paulo Roberto Dias Vieira",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Paulo Victor Gonçalves Farias",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Pedro Rogério Vieira Dias",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Pereira, Raphael Rodrigues Ferreira e Pedro Henrique Lima",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Rafael Amaral Soares",
-        "advisor": "Marcos Fagundes Caetano",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Renato A",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Renato Silva Dias",
-        "advisor": "Roberto Vito Rodrigues Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "ROCHA FILHO, G",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "ROCHA FILHO, GERALDO P",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "ROCHA FILHO, GERALDO P; MENEGUETTE, R",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "RODRIGUES FILHO, R",
-        "advisor": "Roberto Vito Rodrigues Filho",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Samuel de Souza Teixeira Junior",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "SERRANO, ANDRÉ L",
-        "advisor": "Geraldo Pereira Rocha Filho",
-        "level": "Iniciação Científica",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Silas Souza Fernandes",
-        "advisor": "Marcus Vinicius Lamar",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Thays Cistina Costa de Araújo e Márcio Vinícius de Moura Rib",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Thiago Rocha de Paiva",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
-      },
-      {
-        "name": "Thiago Santaguida Magalhães de Souza",
-        "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Estratégias de Futebol de Robôs SSL com Aprendizado por Reforço",
+        "level": "Iniciação Científica"
       },
       {
         "name": "Thiago Tokarski",
         "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2025,
+        "title": "Privacy-Preserving Anomaly Detection in O- RAN",
+        "level": "Graduação"
       },
       {
-        "name": "Thiago Xavier da Silva",
-        "advisor": "Eduardo Adilio Pelinson Alchieri",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Victor Hugo Franca Lisboa",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2025,
+        "title": "Uso de redes neurais LSTM profundas na tradução da Língua Brasilieira dos Sinais (LIBRAS)",
+        "level": "Graduação"
       },
       {
-        "name": "Tomaz Ferreira de Aguiar Neto",
-        "advisor": "André Costa Drummond",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "name": "Yago Oliveira Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2025,
+        "title": "Detecção de Distrações ao Volante por Visão Computacional: Comparação entre YOLOv8, Faster R-CNN e SSD",
+        "level": "Graduação"
       },
       {
-        "name": "Trabalho de Conclusão de Curso",
+        "name": "Yago Oliveira Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2025,
+        "title": "Explorando Visão Computacional Federada para Análise de Comportamentos Distrativos de Motoristas",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Bruno Barros Xavier",
         "advisor": "Marcelo Antonio Marotta",
-        "level": "Graduação",
         "year": 2024,
-        "title": ""
+        "title": "Análise do Protocolo QUIC: Uma Comparação Entre Implementações no Espaço do Kernel e Espaço de Usuário",
+        "level": "Graduação"
+      },
+      {
+        "name": "Claudio Roberto Oliveira Peres de Barros",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Implementação de um processador RISC-V com a ISA RV64IMFD em FPGA",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gabriel Faustino Lima da Rocha",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2024,
+        "title": "Consenso Bizantino Baseado em uma Camada de Rede com Ordenação de Mensagens Tolerante a Intrusões",
+        "level": "Graduação"
+      },
+      {
+        "name": "Guilherme Silva Pires Veiga",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "Mecanismos federado de gerenciamento de dados urbanos para investigar os aspectos de mobilidade na computação urbana",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Igor Fernando Mandello",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2024,
+        "title": "Distribuição de replicas on demand para softwares emergentes. (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "João Paulo Souza do Espírito Santos",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "Aprendizagem de Máquina em Sistemas de Detecção a Intrusões: Uma Visão Sistemática",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luiz Carlos da Silva Neto Vartuli",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Bootloader para o processador RISC-V no kit DE1-SoC",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luiz Carlos da Silva Neto Vartuli",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Estudo e implementação de um acelerador gráfico para tratamento de sprites bidimensionais.",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Luiz Carlos da Silva Neto Vartuli",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Implementação de um módulo acelerador gráfico para processadores RISC-V de baixo custo.",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Marcelo Aiache Postiglione",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2024,
+        "title": "Arquitetura de Rede Baseada em Intenções para Análise e Ajuste do Comportamento da Infraestrutura, Integrada a Sistemas de Detecção de Intrusão",
+        "level": "Graduação"
+      },
+      {
+        "name": "Moises Felipe Jaco Andrade de Lima",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Um jogo 3D usando interface háptica para surdos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Nathan Ferraz da Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "Solução inteligente para reconhecimento de voz em um ambiente residencial",
+        "level": "Graduação"
+      },
+      {
+        "name": "Pedro Avila Beneveli",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Implementação de Redes Neurais Profundas Multi-Layer Perceptron usando o reaproveitamento de hardware em FPGA de baixo custo",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Pedro Otávio Furtado Duarte",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2024,
+        "title": "Um Estudo sobre a Automatização da Geração de Proxy para Sistemas Autodistribuídos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ricardo Battaglin Neto",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2024,
+        "title": "Cálculo de Distância entre Dispositivos IoT Utilizando RSSI de Maneira Distribuída e em Tempo Real (Orientação em conjunto com o Prof. Alison R. Panisson - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ruan Petrus Alves Leite",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2024,
+        "title": "Estudo e implementação de um acelerador gráfico para apresentação de uma imagem 3D projetada em uma tela 2D",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Wallace Santos Lima",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2024,
+        "title": "Simulações de Content Steering: explorando a Computação Contínua e o Aprendizado por Reforço para oferecer suporte ao Adaptive Video Streaming (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Weslei Ferreira Santos",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2024,
+        "title": "Hórus-CDS: Uma Solução Baseada em Redes Neurais para Prevenção de Ataques DDoS em Smart Grids",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alexandre Ladeira e Gabriel Pallotta",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2023,
+        "title": "Um estudo comparativo entre sistemas auto-distributivos e serverless computing (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alexandre Souza Costa Oliveira",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "MagicBits: Um Game Auxiliar para a Matéria de Introdução aos Sistemas Computacionais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Artur Hugo Cunha Pereira",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "Duas Abordagens de Redes Neurais Convolucionais em FPGA: Algoritmo Espacial e Algoritmo de Winograd",
+        "level": "Graduação"
+      },
+      {
+        "name": "Brenno Pereira Cordeiro",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Análise Comparativa do Algoritmo TCP BBR: Uma Implementação em Espaço de Usuário e Avaliação do Desempenho em Redes de Computadores.",
+        "level": "Graduação"
+      },
+      {
+        "name": "Caroline Ferreira Pinto",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Um estudo sobre algoritmos para redução de características no contexto de ataques baseados em botnets",
+        "level": "Graduação"
+      },
+      {
+        "name": "Eduarda Costa de Menezas",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "Pesquisa e desenvolvimento de sistema de transmissão de sinais hápticos para uso em jogos eletrônicos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Eduardo Ferreira de Assis",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "MagicBits: Um Game Auxiliar para a Matéria de Introdução aos Sistemas Computacionais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Emme Costa de Menezes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "Uso de sistema háptico para transmitir conceitos sonoros para pessoas surdas em jogos eletrônicos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gustavo Macedo de Carvalho",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Um estudo sobre algoritmos para redução de características no contexto de ataques baseados em botnets",
+        "level": "Graduação"
+      },
+      {
+        "name": "Hiago dos Santos Rabelo",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "Aprendizado por reforço aplicado à categoria VSSS de futebol de robôs",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ítalo Eduardo Dias Frota",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Análise Comparativa do Algoritmo TCP BBR: Uma Implementação em Espaço de Usuário e Avaliação do Desempenho em Redes de Computadores.",
+        "level": "Graduação"
+      },
+      {
+        "name": "Juliano Balçante Pereira",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Otimização do Posicionamento de Estações Base em uma Rede LTE sobre Rodas baseada no algoritmo Grey Wolf Optimizer",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luiz Felipe Kina e Daniel Cardoso",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2023,
+        "title": "Definição de linguagem para geração de proxies para dar suporte a sistemas auto-distribuídos (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Mateus de Moura Ramos Bittencourt",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2023,
+        "title": "Uso de estimulação elétrica nervosa transcutânea aplicado à interfaces hápticas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Matheus Barbosa de Miranda",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2023,
+        "title": "Redes Open RAN",
+        "level": "Graduação"
+      },
+      {
+        "name": "Murilo Simionato Arnemann",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Análise de Protocolos de Comunicação entre Dispositivos de Baixa Energia e Automóveis para Keyless Entry",
+        "level": "Graduação"
+      },
+      {
+        "name": "Nathan Ferraz da Silva",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2023,
+        "title": "Investigar e aprimorar os mecanismos de Federated Learning em uma base de dados distribuída",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Orientações de outra natureza Aquila Macedo Costa",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2023,
+        "title": "Monitoria de Graduação",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Renato Silva Dias",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2023,
+        "title": "Runtime Microservice Self-distribution for Fine-grain Resource Allocation (Orientação em conjunto com o Prof. Fábio M. Costa - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Victor Eduardo Fernandes Castor",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "My Spacecraft: Um jogo para construção de satélites em 3D",
+        "level": "Graduação"
+      },
+      {
+        "name": "Vinícius Caixêta de Souza",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2023,
+        "title": "Agrupamento DBSCAN de Usuários em Sistemas Millimeter-Wave NOMA.",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alexandre Mitsuru Kaihara",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2022,
+        "title": "LST: Testbed Emulado Baseado em Contêineres para Redes SDN Seguras",
+        "level": "Graduação"
+      },
+      {
+        "name": "André Papoti e Ricardo Koaro",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2022,
+        "title": "Um Estudo sobre Sistemas Auto- distributivos em Ambientes Elásticos. (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Antônio Freire Alves Malta",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2022,
+        "title": "DESENVOLVIMENTO DE UMA FERRAMENTA DE GERENCIAMENTO DE ARTIGOS PARA UMA PLATAFORMA DE CONFERÊNCIAS ONLINE",
+        "level": "Graduação"
+      },
+      {
+        "name": "Breno Felipe Nunes Gomes",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2022,
+        "title": "Caracterização de uma Rede de Sensores Sem Fio considerando sua Transferência de Dados e Consumo Energético",
+        "level": "Graduação"
+      },
+      {
+        "name": "Bruno Berbare e Felipe Guardão",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2022,
+        "title": "Explorando o Desempenho de Sistemas Auto-distribuídos na Borda e Nuvem. (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Eduarda Costa de Menezes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2022,
+        "title": "Interface háptica aplicada ao aumento de imersão em jogos de pessoas surdas",
+        "level": "Graduação"
+      },
+      {
+        "name": "George Geonardo de Pontes da Silva",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2022,
+        "title": "Visualização de dados geoespaciais: Uma solução para a visualização de anomalias em redes móveis",
+        "level": "Graduação"
+      },
+      {
+        "name": "Giordano Suffert Monteiro",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2022,
+        "title": "Posicionamento dinâmico e eficiente de Estações Base LTE Móveis em cenários de desastre baseado em Algoritmo Evolucionário",
+        "level": "Graduação"
+      },
+      {
+        "name": "Iago Carvalho Cavalcante",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2022,
+        "title": "Sistema Federado para Detecção de Meios de Transporte",
+        "level": "Graduação"
+      },
+      {
+        "name": "João Alberto Moreira Seródio",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2022,
+        "title": "Um estudo sobre placement com métricas de consumo de energia para sistemas auto-distribuídos. (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Johannes Peter Schulte",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2022,
+        "title": "Uma abordagem para agrupar dados de NF-e com base em autoencoder",
+        "level": "Graduação"
+      },
+      {
+        "name": "Jônatas Rocha de Paiva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2022,
+        "title": "Aplicação de Redes Neurais visando suporte à tomada de decisão no Mercado Financeiro",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luan Mendes Gonçalves Freitas",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2022,
+        "title": "Abordagem Baseada em Aprendizagem de Máquina para a Identificação de Sinais de Comportamento Depressivo na Rede Social Twitter",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Luiz Gustavo de Almeida Mattos",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2022,
+        "title": "Um estudo do efeito de microsserviços emergentes sobre a alocação escalável de recursos na nuvem (Orientação em conjunto com o Prof. Fábio M. Costa - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Marcella Pantarotto",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2022,
+        "title": "Explorando Agrupamento de Requisições Conflitantes Durante Escalonamento em Replicação Máquina de Estados Paralela",
+        "level": "Graduação"
+      },
+      {
+        "name": "Oswaldo Henrique",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2022,
+        "title": "RADAR: um mecanismo de predição de fluxo de tráfego de veículos em vias urbanas com base em Aprendizado Federado",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rafael Amaral Soares",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2022,
+        "title": "Estudo de Viabilidade na Utilização da Tecnologia LoRa no Contexto de NFV's",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alec Ryo Emura",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Um Estudo sobre Redes Neurais Recorrentes Rasas e Profundas Aplicadas à Solução de Jogos Digitais ? Estudo de Caso: Enduro",
+        "level": "Graduação"
+      },
+      {
+        "name": "Arthur de Matos Beggs",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "RISC-V SiMPLE: Projeto e Desenvolvimento de Processadores RISC-V com a ISA RV32IMF Usando as Microarquiteturas Uniciclo, Multiciclo e Pipeline em FPGA",
+        "level": "Graduação"
+      },
+      {
+        "name": "Daniel Bauchspiess",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Um Estudo Sobre a Classificação e Separação on- Line de Fonte Sonora Monofônica Usando Redes Neurais Recorrentes Rasas e Profundas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Diogo Ferreira Thé Pontes",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2021,
+        "title": "Transição de redes legadas para SDN - uma análise sobre o impacto do tempo de implantação, número e localização dos controladores",
+        "level": "Graduação"
+      },
+      {
+        "name": "Éden de Lucas Castelar Vale Medeiro",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2021,
+        "title": "Análise do Tráfego de Controle de Funções Virtualizadas em Redes 5G",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gabriel Henrique Rosa Oswaldo",
+        "advisor": "Roberto Vito Rodrigues Filho",
+        "year": 2021,
+        "title": "Gestão transparente do estado para sistemas auto-distribuídos: primeiro estudo de caso. (Orientação em conjunto com o Prof. Luiz Fernando Bittencourt - orientador principal do trabalho)",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gabriel Patrick Alcantara Mourão e Nur Corezzi",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2021,
+        "title": "Estudo e análise de algoritmos para o problema do produtor único e consumidor único",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gustavo Costa de Souza",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2021,
+        "title": "Cliente DASH: Estratégias de Melhoria na Compreensão e Análise de Desempenho de Algoritmos Adaptativos de Streaming",
+        "level": "Graduação"
+      },
+      {
+        "name": "Hélio Santana da Silva Júnior",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2021,
+        "title": "Estudo Comparativo de Meta- Heurísticas: Otimização do Modelo de Alocação na Agência Nacional de Aviação Civil",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ian Moura Alexandre",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Estudo, Caracterização e Acionamento de Atuadores Vibrotáteis Destinados ao Desenvolvimento De Interfaces Hápticas para Pessoas com Deficiência Auditiva",
+        "level": "Graduação"
+      },
+      {
+        "name": "Igor Figueira Pinhero da Silva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Utilização de Filtro Laplaciano na Seleção de Imagens Sem Borramentos em Aplicações Android",
+        "level": "Graduação"
+      },
+      {
+        "name": "João Victor Bohrer Munhoz",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2021,
+        "title": "Classificação de fluxos de rede IoT MQTT utilizando o EFC",
+        "level": "Graduação"
+      },
+      {
+        "name": "Jonatas Rocha de Paiva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Previsão da variação de empresas da bolsa de valores usando redes neurais recorrentes profundas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Manuela Matos Correia de Souza",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2021,
+        "title": "Um novo classificador de fluxos de conjunto aberto baseado em energia para detecção de intrusão de rede",
+        "level": "Graduação"
+      },
+      {
+        "name": "Marcos Paulo Batalha Bispo",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Utilização de Filtro Laplaciano na Seleção de Imagens Sem Borramentos em Aplicações Android",
+        "level": "Graduação"
+      },
+      {
+        "name": "Vasco Rodrigues Monteiro Neto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2021,
+        "title": "Identificação de Moscas da Espécie Bemisia tabaci em Armadilhas Adesivas Amarelas Usando Aprendizado de Máquina",
+        "level": "Graduação"
+      },
+      {
+        "name": "Abdullah Zaiter",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2020,
+        "title": "Sistema Inteligente para Captura e Interpretação de Dados Temporais da Língua Brasileira de Sinais a partir de uma Luva Instrumentada",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alec Ryo Emura",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2020,
+        "title": "Redes Neurais Recorrentes aplicadas à solução de jogos digitais ? Enduro",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Andre Garrido Damaceno",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "O GERENCIAMENTO CADASTRAL DE UMA REDE DE FIBRAS ÓPTICAS UTILIZANDO UMA API REST: MODELAGEM E ARQUITETURA",
+        "level": "Graduação"
+      },
+      {
+        "name": "Artur H",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2020,
+        "title": "Brandão de Souza. Uma solução em névoa via objetos inteligentes para lidar com a heterogeneidade dos dados em um ambiente residencial",
+        "level": "Graduação"
+      },
+      {
+        "name": "Camila Ferreira Thé Pontes",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2020,
+        "title": "Um novo método baseado no modelo de Potts para detecção de intrusão em rede",
+        "level": "Graduação"
+      },
+      {
+        "name": "Douglas Lustosa da Silva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2020,
+        "title": "Projetos de Circuitos Digitais Combinacionais Aritméticos por Evolução Genética Intrínseca em FPGA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Gabriel Almeida e Lucas Moutinho",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2020,
+        "title": "DEEP: Uma arquitetura para reconhecer emoção com base no espectro sonoro da voz de falantes da língua portuguesa",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gabriel de Castro Arão",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2020,
+        "title": "Projetos de Máquinas de Estado por Evolução Genética Intrínseca em FPGA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Guilherme Neves Souza",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2020,
+        "title": "Um Estudo de Modelos de Previsão Lineares em Séries Temporais",
+        "level": "Graduação"
+      },
+      {
+        "name": "João Marcelo N",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "Chaves. Sistema de monitoramento de redes de fibra óptica: Desenvolvimento e projeto voltados à experiência do usuário",
+        "level": "Graduação"
+      },
+      {
+        "name": "Kevin Masinda Mahema",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2020,
+        "title": "Analitic Hierarchy Process no transporte público: Um estudo de caso no campus Darcy Ribeiro da Universidade de Brasília",
+        "level": "Graduação"
+      },
+      {
+        "name": "Lucas Campos Jorge",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "PROJETO E ARQUITETURA DE API REST PARA SISTEMA DE MONITORAMENTO DE REDES ÓPTICAS",
+        "level": "Graduação"
+      },
+      {
+        "name": "Lucas dos Santos Schiavini",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2020,
+        "title": "Sistema Inteligente para Captura e Interpretação de Dados Temporais da Língua Brasileira de Sinais a partir de uma Luva Instrumentada",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luís Eduardo Luz Silva",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "Escalabilidade de núcleos em fibras de redes ópticas elásticas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luiz Filipe de Andrade Santos",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "Classificador baseado em Redes Neurais Convolucionais para algoritmos RMLSA em EONs",
+        "level": "Graduação"
+      },
+      {
+        "name": "Mikael Marques Mello",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "Avaliação do Uso de Bibliotecas de Aprendizagem de Máquina para Integração com Simuladores de Redes Ópticas Elásticas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rafael M",
+        "advisor": "André Costa Drummond",
+        "year": 2020,
+        "title": "P. Chianca. INTERFACE WEB PARA SISTEMA DE GESTÃO DE REDES SEGUINDO PROJETO CENTRADO EM USUÁRIO",
+        "level": "Graduação"
+      },
+      {
+        "name": "Renato A",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2020,
+        "title": "Nobre e Khalil C. do Nascimento. Hare: Serviço de investimento baseado em agentes autônomos para operar na B3",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rodrigo Matias Xavier",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2020,
+        "title": "Redes Neurais Recorrentes aplicadas à solução de jogos digitais ? Guitar Hero III - Renew",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Cayke Gabriel dos Santos Prudente",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2019,
+        "title": "Diversidade em Sistemas de Quóruns Bizantinos",
+        "level": "Graduação"
+      },
+      {
+        "name": "César Augusto de Carvalho",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2019,
+        "title": "Um Sistema Portátil de Tradução de Posturas do Alfabeto Manual de Libras em Voz Utilizando Luva Instrumentalizada com Sensores IMU",
+        "level": "Graduação"
+      },
+      {
+        "name": "Claudio S",
+        "advisor": "Geraldo Pereira Rocha Filho",
+        "year": 2019,
+        "title": "Rodrigues Silva Filho. Predição de Fluxo de Veículos em Cruzamentos utilizando Aprendizado de Máquina",
+        "level": "Graduação"
+      },
+      {
+        "name": "José Reinaldo da Cunha Santos Aroso Vieira da Silva Neto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2019,
+        "title": "Implementação de Rede Neurais Artificiais Perceptron e Recorrentes em FPGA Utilizando Aritmética em Ponto Flutuante",
+        "level": "Graduação"
+      },
+      {
+        "name": "Laís Mendes Gonçalves",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2019,
+        "title": "Um Protocolo de Controle de Acesso Baseado em Rede Neural Recorrente Para Comunicação Oportunística em Redes Wifi",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luigi Gil",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2019,
+        "title": "Projeto e Treinamento de Redes Neurais Recorrentes utilizando Computação Estocástica para Síntese em FPGA",
+        "level": "Graduação"
+      },
+      {
+        "name": "Pablo Xavier Barbosa da Silva",
+        "advisor": "Marcelo Antonio Marotta",
+        "year": 2019,
+        "title": "Uma Simulação para Sistemas de Gerenciamento de Transportes com Tratamento do Clima",
+        "level": "Graduação"
+      },
+      {
+        "name": "Paulo Victor Gonçalves Farias",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2019,
+        "title": "Proposta de mecanismo para prevenção da congestão causada por envio excessivo de mensagens em redes veiculares",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rafael Lourenço de Lima Chehab",
+        "advisor": "André Costa Drummond",
+        "year": 2019,
+        "title": "Uma análise dos algoritmos do simulador ONS",
+        "level": "Graduação"
+      },
+      {
+        "name": "Raphael Rodrigues Ferreira e Pedro Henrique Lima",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2019,
+        "title": "Avaliação do PCP como mecanismo de travessia de NAT em aplicações de backup",
+        "level": "Graduação"
+      },
+      {
+        "name": "Thiago Rocha de Paiva",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2019,
+        "title": "Modificando algoritmos de adaptação do MPEG-DASH para utilização de informações extras providas por redes neurais",
+        "level": "Graduação"
       },
       {
         "name": "Túlio Abner de Lima",
         "advisor": "Jacir Luiz Bordim",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2019,
+        "title": "GEM : um protocolo eficiente de difusão de mensagens geocast em redes veiculares",
+        "level": "Graduação"
       },
       {
-        "name": "Universidade de Brasília",
+        "name": "Vitor Mateus Costa do Rego",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2019,
+        "title": "Implementação e Análise de Desempenho de Algoritmos de Difusão Atômica Tolerantes a Falhas Bizantinas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alec Ryo Emura",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Redes Neurais Profundas em FPGA aplicada à solução de jogos digitais - Enduro",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "César Augusto de Carvalho",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Redes Neurais Profundas em FPGA aplicada à solução de jogos digitais - Galaga - Parte 2",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Douglas Lustosa da Silva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Projetos de Circuitos Digitais Combinacionais por Evolução Genética Intrínseca em FPGA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Felipe Borges Albuquerque",
         "advisor": "Marcos Fagundes Caetano",
-        "level": "Graduação",
-        "year": 2024,
-        "title": ""
+        "year": 2018,
+        "title": "Integração da Lógica de Replicação de Máquinas de Estados ao Kubernetes",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gabriel de Castro Arão",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Projetos de Circuitos Digitais Sequenciais por Evolução Genética Intrínseca em FPGA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Hugo Luís Andrade Silva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Criação Automática de Datasets e Treinamento de Classificadores Sob Demanda a Partir de Web Crawling e Deep Learning",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ícaro da Costa Mota",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Aprendizagem por reforço utilizando Q-Learning e redes neurais artificiais em jogos eletrônicos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Mariana Makiuchi Rodrigues",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Previsão de Oportunidades de Transmissão em Redes Sem-Fio usando Redes Neurais Recorrentes",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Matheus Ervilha Gomes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2018,
+        "title": "Sistema Embarcado para Controle de Motores Brushless DC sensored e sensorless para Veículos Portáteis de Transporte Individua",
+        "level": "Graduação"
+      },
+      {
+        "name": "Matheus Medeiros Sarmento",
+        "advisor": "André Costa Drummond",
+        "year": 2018,
+        "title": "Desenvolvimento de Interface WEB para automação e controle de despachamento tolerante a falhas de simulações em redes ópticas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ciro Trindade Viana",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2017,
+        "title": "VISUMO: Uma Plataforma Web para a Criação e Realização de Avaliação Educacional em LIBRAS",
+        "level": "Graduação"
+      },
+      {
+        "name": "Flávio Henrique Rocha e Silva",
+        "advisor": "André Costa Drummond",
+        "year": 2017,
+        "title": "Avaliação de Desempenho de Contêineres Docker para Aplicações do Supremo Tribunal Federal",
+        "level": "Graduação"
+      },
+      {
+        "name": "Guilherme David Pala e Samuel Vinícius Vieira",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2017,
+        "title": "Avaliação de técnicas de localização de dispositivos BLE para a Physical Web e prova de conceito",
+        "level": "Graduação"
+      },
+      {
+        "name": "Lucas Flach Romani",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2017,
+        "title": "Aplicação de Redes Neurais Artificiais na Sugestão de Investimentos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luigi Nunes Gil",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2017,
+        "title": "Previsão de Oportunidades de Transmissão usando Redes Neurais Recorrentes e Computação Estocástica em FPGA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Rafael Alvares da Silva Lopes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2017,
+        "title": "Redes Neurais Artificiais em FPGA para a identificação automática de alvos e placar no jogo Gálaga",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Silas Souza Fernandes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2017,
+        "title": "Previsão de Oportunidades de Acesso Utilizando Redes Neurais Artificiais Recorrentes",
+        "level": "Graduação"
+      },
+      {
+        "name": "Thiago Santaguida Magalhães de Souza",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2017,
+        "title": "E-CQM : proposta de evolução de protocolo de controle de acesso ao meio para redes ad hoc com múltiplos canais ortogonais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Túlio Abner de Lima",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2017,
+        "title": "Análise de Algoritmos para Prevenção de Congestionamento em Redes VANET",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Victor Gueresi de Mello Braga",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2017,
+        "title": "Um Sistema para o Aprendizado Automático de Jogos Eletrônicos baseado em Redes Neurais e Q- Learning usando Interface Natural",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alex Lobo de Oliveira Rodrigues",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2016,
+        "title": "Replicação Máquina de Estados Paralela e Reconfigurável",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alexandre Vinhadelli Papadópolis e Ronicley Ramos Fontes",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2016,
+        "title": "ImunizaBR: Aplicativo Móvel para Registro de Vacinação",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alon Mota Lourenço",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2016,
+        "title": "Protocolos de acesso ao meio: estudo e otimização dos rádios cognitivos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "André Perotti Neto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2016,
+        "title": "Eu Sonar: uso de computação vestível para o auxílio a deficientes visuais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Antônio Martino Neto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2016,
+        "title": "Aceleração da Implementação do Algoritmo de Criptografia AES-128 em um Processador MIPS",
+        "level": "Graduação"
+      },
+      {
+        "name": "Caio Yuri da Silva Costa",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2016,
+        "title": "Implementando Diversidade em Replicação Máquina de Estados",
+        "level": "Graduação"
+      },
+      {
+        "name": "Diogo Assis Ferreira e Getúlio Yassuyuki Matayoshi",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2016,
+        "title": "Aplicação de RAID em Sistema de Arquivos Distribuídos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Guilherme Teixeira Soares e Pedro Henrique Vidal Penha",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2016,
+        "title": "Sistema de Arquivos Distribuído Tolerante a Falhas Maliciosas: Uma Prova de Conceito",
+        "level": "Graduação"
+      },
+      {
+        "name": "José Melo de Assis Fonseca",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2016,
+        "title": "Um Estudo Comparativo Entre Protocolos de Controle de Acesso ao Meio Baseados em Pontos de Encontros Para Múltiplos Canais Ortogonais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Lucas Avelino de Lima Jacinto",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2016,
+        "title": "Estudo de Protocolos de Roteamento em Ambientes de Rede Ad Hoc Multi-hop Com Múltiplos Canais Ortogonais",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Lucas Neves Carvalho",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2016,
+        "title": "Projeto e Treinamento de Redes Neurais em Hardware FPGA usando Computação Estocástica",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luiz Henrique Campos Barboza",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2016,
+        "title": "Autenticação de Usuário em Dispositivos Móveis usando Gestos e Redes Neurais Recorrentes",
+        "level": "Graduação"
+      },
+      {
+        "name": "Paulo Losi Ferreira",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2016,
+        "title": "Previsão de oportunidades de transmissão em redes WiFi usando Redes Neurais Recorrentes",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Silas Souza Fernandes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2016,
+        "title": "Previsão de oportunidades de transmissão em redes WiFi usando Redes Neurais Recorrentes",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Igor Müller de Moraes",
+        "advisor": "André Costa Drummond",
+        "year": 2015,
+        "title": "AVALIAÇÃO DE QUALIDADE DE SERVIÇO DE VIDEOCONFERÊNCIA NA REDUNB COM O PARADIGMA DE REDES DEFINIDAS POR SOFTWARE",
+        "level": "Graduação"
+      },
+      {
+        "name": "Igor Virgílio Aquino Martins de Araújo",
+        "advisor": "André Costa Drummond",
+        "year": 2015,
+        "title": "AVALIAÇÃO DE MECANISMOS DE PROVISÃO DE QOS EM REDES DEFINIDAS POR SOFTWARE",
+        "level": "Graduação"
+      },
+      {
+        "name": "Juliana Bento Lemos",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2015,
+        "title": "Implementação e testes de um circuito digital combinacional evoluído geneticamente em FPGA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2015,
+        "title": "Proposta e Avaliação de Um Mecanismo Para Acelerar a Busca em Cadeias de Caracteres Utilizando CPGPU",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luis Pacheco",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2015,
+        "title": "Performance analysis of IEEE 802.15.4e",
+        "level": "Graduação"
+      },
+      {
+        "name": "Mariana Rodrigues Makiuchi",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2015,
+        "title": "Redes Neurais Artificiais em FPGA para a identificação de notas especiais no jogo Guitar Hero III",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Ronie Rodrigo de Athaydes e Tobias Astoni Sena",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2015,
+        "title": "Um Sistemas Colaborativo de Cache para Stream de Videos na Internet",
+        "level": "Graduação"
+      },
+      {
+        "name": "Thiago Xavier da Silva",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2015,
+        "title": "Software para Auxiliar os Procedimentos de Matrícula",
+        "level": "Graduação"
+      },
+      {
+        "name": "Vitor Coimbra de Oliveira",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2015,
+        "title": "Projeto e otimização de circuitos digiatis por técnicas de evolução artificial",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alexandre Henrique Aben-Athar Sousa Baião",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Sistema para rastreamento de pulso utilizando Kinect e sensores embarcados em smartphones",
+        "level": "Graduação"
+      },
+      {
+        "name": "Átila Borges",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Robotica aplicada à resolução de jogos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Camila Feitosa Rêgo",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2014,
+        "title": "Comunicação Cooperativa em Redes Móveis Ad Hoc Consciente em Energia e Atraso Fim-a-Fim",
+        "level": "Graduação"
+      },
+      {
+        "name": "Diego Bichara de Lima",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Sistema para rastreamento de pulso utilizando Kinect e sensores embarcados em smartphones",
+        "level": "Graduação"
+      },
+      {
+        "name": "Giordano Bruno de Melo Gois",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Reconhecimento do alfabeto de Libras usando sensor Kinect e marcadores visuais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Guilherme Henrique Medeiros Fernandes",
+        "advisor": "André Costa Drummond",
+        "year": 2014,
+        "title": "WWSim: Interface Gráfica para o Simulador de Redes Ópticas WDMSim",
+        "level": "Graduação"
+      },
+      {
+        "name": "Juliana Lemos Bento",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Robotica aplicada à resolução de jogos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2014,
+        "title": "Avaliação do Mecanismo de Acesso CSMA/CA em Ambiente de Múltiplus Canais",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Luine Ito Madeira de Ley",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Active Spaces: Executando Operações no Espaço de Tuplas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Luiz Antônio da Silva",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "IFrame: Framework para o Desenvolvimento de Aplicações Web",
+        "level": "Graduação"
+      },
+      {
+        "name": "Mariana Rodrigues Makiuchi",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2014,
+        "title": "Robotica aplicada à resolução de jogos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Mateus Antunes Braga",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Implementação dos Protocolos do FreeStore de Reconfiguração de Sistemas de Quóruns",
+        "level": "Graduação"
+      },
+      {
+        "name": "Samuel de Souza Teixeira Junior",
+        "advisor": "Eduardo Adilio Pelinson Alchieri",
+        "year": 2014,
+        "title": "Armazenamento Eficiente de Dados em Memória Compartilhada Distribuída Tolerante a Faltas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Tomaz Ferreira de Aguiar Neto",
+        "advisor": "André Costa Drummond",
+        "year": 2014,
+        "title": "Avaliação de Mecanismos para a Provisão de Qualidade de Serviço à Aplicações VoIP em Redes de Computadores Utilizando o Simulador NS-2",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alexandre Dantas",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2013,
+        "title": "Prevenção de ataque lateral usando processador de instrução única",
+        "level": "Graduação"
+      },
+      {
+        "name": "Camila Feitosa Bezerra",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2013,
+        "title": "Protocolos da Camada de Transporte com Suporte a Alta Velocidade",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Felipe Silva dos Santos",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2013,
+        "title": "Mobilidade e Handover em Redes IPv6",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Lucas Neves Carvalho",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2013,
+        "title": "Síntetizadore de Áudio em FPGA usando Síntese Subtrativa",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Lucas Rodrigues Costa",
+        "advisor": "André Costa Drummond",
+        "year": 2013,
+        "title": "OpenFlow e o Paradigma de Redes Definidas por Software",
+        "level": "Graduação"
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2013,
+        "title": "Avaliação em Cenários Móveis Heterogêneos do Mecanismo de Acesso CSMA/CA",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Luiz Adriano Vaz",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2013,
+        "title": "Grybot - Um Robô Jogador Automático de GuitarHero sobre FPGA",
+        "level": "Graduação"
+      },
+      {
+        "name": "Matheus Pimenta",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2013,
+        "title": "Prevenção de ataque lateral usando processador de instrução única",
+        "level": "Graduação"
+      },
+      {
+        "name": "Célio Fonseca Latorraca",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2012,
+        "title": "Uma Metodologia de Integração de Dispositivos de Interação Homem-Máquina ao Google Sketchup",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gustavo Fernandes de Almeida",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2012,
+        "title": "Construindo Cidades Inteligentes",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Alex Rodrigo de Oliveira e Lucas de Melo Guimarães",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2011,
+        "title": "Avaliação das Técnicas de Roteamento e Posicionamento de Conversores em Redes Ópticas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Breno Guimarães Rocha",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2011,
+        "title": "Desenvolvimento de um Sistema Multicontrolado utilizando Matrizes de LEDs para Exibição de Imagens",
+        "level": "Graduação"
+      },
+      {
+        "name": "Felipe de Moraes Modesto",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2011,
+        "title": "Um Protocolo de Acesso ao Meio Baseado na Análise de Disponibilidade do Espectro",
+        "level": "Graduação"
+      },
+      {
+        "name": "Guilherme Henrique de Medeiros Fernandes",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2011,
+        "title": "ROTEAMENTO DISTRIBUIDO EM REDES DE SENSORES",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Gustavo Fernandes de Almeida",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2011,
+        "title": "Avaliação de Medidas de Desempenho em Redes sem Fio",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2011,
+        "title": "ESTUDO DE PROTOCOLOS PARA AMBIENTES DE MONITORAÇÃO COM WSN (WIRELESS SENSOR NETWORKS)",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Pedro Rogério Vieira Dias",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2011,
+        "title": "Tratamento do Problema de Surdez de Antenas em Ambientes que Utilizam Transmissões Direcionais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ricardo Tavares Medeiros",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2011,
+        "title": "O Controle em Suas Mãos: Evolução da Interface entre seres humanos e videogames",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rodrigo Dusi",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2011,
+        "title": "ESTUDO DE PROTOCOLOS E MEDIDAS DE DESEMPENHO EM REDES SEM FIO",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Thiago Fernandes Neves",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2011,
+        "title": "Um Protocolo de Roteamento em Múltiplos Canais Eficiente em Energia e Tempo de Comunicação",
+        "level": "Graduação"
+      },
+      {
+        "name": "Alex Rodrigo Oliviera e Lucas de Melo Guimarães",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2010,
+        "title": "Posicionamento de Conversores de Comprimento de Onda em Redes Ópticas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Augusto Passalaqua Martins",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2010,
+        "title": "Reconhecimento automático de placas de veículos por visão computacional",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Filipe Pereira Fortes",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2010,
+        "title": "ESTUDO DE PROTOCOLOS E MEDIDAS DE DESEMPENHO EM REDES SEM FIO PARA A INTEGRAÇÃO NA INTERNET DO FUTURO",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Guilherme Henrique de Medeiros Fernandes",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Tecnologias para implementação de monitoração inteligente de saúde e AAL",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Guilherme Souto e Motta Baufaker",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Tecnologias para implementação de monitoração inteligente de saúde e AAL",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "João Carlos Yokoyama Menezes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2010,
+        "title": "Desenvolvimento de um sistema de monitoramento de condições ambientais distribuído, reconfigurável on- line e de baixo custo",
+        "level": "Graduação"
+      },
+      {
+        "name": "Lucas Saad Nogueira Nunes",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Tecnologias para implementação de monitoração inteligente de saúde e AAL",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Marcelo de Lima Galvão",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2010,
+        "title": "Esquematizações Infográficas Automáticas para Transporte Público Urbano usando Algoritmos Genéticos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Natália C",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Torres e Leonardo C. de O. Bastos. Assinaturas de Arquivos para Busca em Redes de Arquivos Distribuídos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Paulo Henrique Azevedo Filho",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2010,
+        "title": "Agração de Pacotes em Transmissões VOIP Sobre Redes Sem Fio Saturadas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Paulo Henrique Azêvedo Filho",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2010,
+        "title": "Agregação de Pacotes em Transmissões VOIP Sobre Redes Sem Fio Saturadas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Thiago Rocha de Paiva",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2010,
+        "title": "Estudo de problemas de Comunicação para Tecnologias de Monitoração de AAL",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Augusto Passalaqua Martins",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2009,
+        "title": "QR CODE Color: Uma nova metodologia para armazenamento de grandes volumes de dados e mmeio impresso",
+        "level": "Graduação"
+      },
+      {
+        "name": "Cayo César Mateus Rodrigues",
+        "advisor": "Marcos Fagundes Caetano",
+        "year": 2009,
+        "title": "Sistemas de Detecção de Intrusão",
+        "level": "Graduação"
+      },
+      {
+        "name": "Johnny Souza",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2009,
+        "title": "Desenvolvimento de um plugin para Applets Python em navegadores baseados no engine Gecko",
+        "level": "Graduação"
+      },
+      {
+        "name": "Marcelo de Lima Galvão",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2009,
+        "title": "Sistema de Processamento de Dados do Transporte Interestadual de Passageiros",
+        "level": "Graduação"
+      },
+      {
+        "name": "Natália Cardoso Do Rego Barros",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2009,
+        "title": "Avaliação de Algortimos de Roteamento e Alocação de Comprimentos de onda em Redes WDM",
+        "level": "Graduação"
+      },
+      {
+        "name": "Daniel R dos Santos",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Curso de VoIP em Software Livre Baseado em Skinner, Gagné e Piaget",
+        "level": "Graduação"
+      },
+      {
+        "name": "Humbeto H Vieira",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Ferramenta de Apoio Para Avaliação de Instrução em Ultraleves",
+        "level": "Graduação"
+      },
+      {
+        "name": "Juliana Muller Reis Jorge",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2008,
+        "title": "Redes neurais multi-estruturadas e máquinas de vetores de suporte aplicados ao reconhecimento de gestos manuais.",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Nicole Nagel e Ruzbeh Shokranian",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Caracterização de Comportamento Anômalo em Redes Ad Hoc",
+        "level": "Graduação"
+      },
+      {
+        "name": "Paulo Roberto Dias Vieira",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2008,
+        "title": "Estimativa de Vazão Máxima em redes IEEE802.11",
+        "level": "Graduação"
+      },
+      {
+        "name": "Claudio Xavier de Oliveira",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "Implantação de um laboratório de voz IP na UnB",
+        "level": "Graduação"
+      },
+      {
+        "name": "Daniel Sundfeld Lima",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "Teste de Desempenho do Protocolo Pré ? 802.11S",
+        "level": "Graduação"
+      },
+      {
+        "name": "Danilo Gaby Andersen Trindade",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "Middleware para Computação Ubíqua",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "David da Silva de Araújo",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "UnBiquitous ? Middleware para Ambiente Inteligente",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Fernando Machado Mendonça",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "Cliente Móvel para Ambiente Ubíquito",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Jose B C S Borges e Ricardo Barbosa Roriz",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "Impacto da Utilização de Técnicas de QoS para o Serviço de VoIP",
+        "level": "Graduação"
+      },
+      {
+        "name": "Maximiliano Prestes Ceppo e Rafael Dias de O",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2007,
+        "title": "C. Silva. Definição de uma estrategia adaptativa para o roteamento em redes integradas",
+        "level": "Graduação"
+      },
+      {
+        "name": "Murillo Ribeiro de Souza",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2007,
+        "title": "Reconhecimento de Posturas Manuais para uma nova Interface Homem Máquina",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Thays Cistina Costa de Araújo e Márcio Vinícius de Moura Rib",
+        "advisor": "Jacir Luiz Bordim",
+        "year": 2007,
+        "title": "Avaliação do Impacto de Implementação de Protocolos Seguros em um Ambiente",
+        "level": "Graduação"
+      },
+      {
+        "name": "Bruno Giancristoforo Queiroz e Breno Neri Carneiro",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2006,
+        "title": "Modelagem, Geração e Análise de Tráfegos em Redes Convergentes",
+        "level": "Graduação"
+      },
+      {
+        "name": "Gabriel Irribarem Soares Ruas",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Predição de Montante de Uso em Rede de Distribuição de Energia Elétrica usando Redes Neurais Artificiais.",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Rafael Kaminagakura",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Desenvolvimento de um par de luvas instrumentalizadas aplicadas à aquisição e reconhecimento de gestos humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Rodolfo Ambonatti Pfeffer",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Desenvolvimento de um par de luvas instrumentalizadas para aquisição e reconhecimento de gestos humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Tiago de França Leviski",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "PROJETO E IMPLEMENTAÇÃO DE UM ANALISADOR DE RESPOSTA EM FREQÜÊNCIA DE MAGNITUDE DE FILTROS ELÉTRICOS SELETORES DE SINAIS",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ticiano Augusto Callai Bragatto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Desenvolvimento de uma Nova Interface Gestual usando Processamento Digital de Vídeo para Controle Interativo de Sistemas Computacionais em Tempo Real",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ticiano Augusto Callai Bragatto",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Processamento em Tempo Real de Sinais de Vídeo",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Victor Alberto Parcianello Benso",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Estudo e Implementação de um Sistema para Monitoramento do Fluxo de Veículos em Cruzamentos Urbanos através de Vídeo Digital",
+        "level": "Graduação"
+      },
+      {
+        "name": "Victor Alberto Parcianello Benso",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2006,
+        "title": "Implementação de Codificadores MPEG-2 e MPEG-4 para o Sistema Brasileiro de Televisão Digital",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "André Luiz Abadie Quadrado",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Modernização do Sistema de Senhas de Espera em Estabelecimentos de Fast-Food",
+        "level": "Graduação"
+      },
+      {
+        "name": "Bernardo Rego Barros de Almeida Leite",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Desenvolvimento de um par de Luvas Instrumentalizadas para Captura e Processamento de Gestos Humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Italo Amaral Brito e Vinicius Macedo",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2005,
+        "title": "Uma ferramenta para análise de desempenho de redes convergentes",
+        "level": "Graduação"
+      },
+      {
+        "name": "Norio Fukui",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Estimação de Medidas em Imagens de Endoscópios",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ricardo de Camargo Macieshi",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Bateria Virtual",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ricardo de Camargo Macieshi",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Desenvolvimento de um par de Luvas Instrumentalizadas para Captura e Processamento de Gestos Humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Rodrigo Leonardo Alexandrino",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2005,
+        "title": "Sistema de Reconhecimento de Voz com Auxílio de Redes Neurais Artificiais",
+        "level": "Graduação"
+      },
+      {
+        "name": "Cleverson André Baek",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Processamento de Video em Tempo Real",
+        "level": "Graduação"
+      },
+      {
+        "name": "Fabrício Dzierva",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Processadores Gráficos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Flávio Andrade Vieira de Farias",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Banco de Dados de Vídeo sobre a Lingua Brasileira dos Sinais",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Guilherme Ditzel Patriota",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Desenvolvimento de uma Luva Instrumentalizada para Captura e Processamento de Gestos Humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Heuller Aloys Carneiro Procópio",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Unidade Terminal Remota",
+        "level": "Graduação"
+      },
+      {
+        "name": "Juliano Yuji Sugawara",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Implementação de codificadores de vídeo em tempo-real em um microprocessador de DSP",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Marcos Fernando Daniel",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Sistema de Rastreamento",
+        "level": "Graduação"
+      },
+      {
+        "name": "Marcos Tomio Kakitani",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Desenvolvimento de um par de Luvas Instrumentalizadas para Captura e Processamento de Gestos Humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Matheus Bianchi Dambrós",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Banco de Dados de Vídeo sobre a Língua Brasileira dos Sinais",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Miguel B costa Rasia",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "MPEG2 x MPEG4 na implantação do SBTVD",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rodrigo Leonardo Alexandrino",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Estudo de Técnicas de Redes Neurais para Processamento e Reconhecimento de Sinais de Vídeo",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Vanessa Testoni",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2004,
+        "title": "Lip Tracking System",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rafael Brião",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2003,
+        "title": "Estudo e Desenvolvimento de um Sistema de Captura de Imagens em Tempo Real usando interface USB",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Rodrigo Minghini",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2003,
+        "title": "Desenvolvimento de uma Luva Instrumentalizada para Captura e Processamento de Gestos Humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Sura Helen-Cot Marcos",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2003,
+        "title": "Transformada Wavelet Aplicada à Compressão de Imagens",
+        "level": "Graduação"
+      },
+      {
+        "name": "Carlos Alexandre Castanharo",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2002,
+        "title": "Leitora de códigos cheques impressos com tinta magnética",
+        "level": "Graduação"
+      },
+      {
+        "name": "Carlos Frederico Veloso",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2002,
+        "title": "Modelo de Software para Controle de Projetos",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ricardo de Camargo Macieshi",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 2002,
+        "title": "Desenvolvimento de uma Luva Instrumentalizada para Captura e Processamento de Gestos Humanos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Hiata Anderson",
+        "advisor": "Priscila América Solís Mendez Barreto",
+        "year": 2000,
+        "title": "Sistemas de Segurança em Ambientes Linux",
+        "level": "Graduação"
+      },
+      {
+        "name": "Anderson Carrera",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1996,
+        "title": "Holter Digtal com DSP",
+        "level": "Graduação"
+      },
+      {
+        "name": "Emerson Consolin",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1996,
+        "title": "Quantização Vetorial de Sinais de ECG",
+        "level": "Graduação"
+      },
+      {
+        "name": "Ricardo Sucaria Leonel",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1996,
+        "title": "Digitalizador de Imagens para Reconhecimento de Peças",
+        "level": "Graduação"
+      },
+      {
+        "name": "Rodrigo de Almeida Pastro",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1996,
+        "title": "Placa de Processamento Digital de Sinais para Uso Geral",
+        "level": "Graduação"
+      },
+      {
+        "name": "Helder Canhadas Bertran",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1995,
+        "title": "Reconhecimeto de Comandos Vocálicos",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Jean Tailor Bertuol",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1995,
+        "title": "Medidor de Fator de Potência com Correção de THD",
+        "level": "Graduação"
+      },
+      {
+        "name": "Marcelo Morales Maes",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1995,
+        "title": "Concepção de Circuitos Integrados em Sea of Gates para Processamento de Sinais",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Renato César Galvão",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1995,
+        "title": "Desenvolvimento de Circuitos Integrados usando Tecnologia Sea-of-Gates",
+        "level": "Iniciação Científica"
+      },
+      {
+        "name": "Vinicius Auer",
+        "advisor": "Marcus Vinicius Lamar",
+        "year": 1994,
+        "title": "Detector de Posiçao utilizando técnicas de Ultra-Som",
+        "level": "Iniciação Científica"
       }
     ]
   }
