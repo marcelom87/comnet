@@ -36,32 +36,42 @@ const researchLines = [
   {
     icon: '📶',
     title: 'Redes Sem Fio, 5G & 6G',
-    desc: 'Arquiteturas C-RAN/O-RAN, alocação de recursos de rádio, computação em nuvem na borda e comunicação de ultra-baixa latência.'
+    desc: 'Arquiteturas C-RAN/O-RAN, alocação dinâmica e oportunista de espectro (OSA), computação na borda e comunicação de ultra-baixa latência.'
   },
   {
     icon: '⚡',
     title: 'Softwarização de Redes (SDN/NFV)',
-    desc: 'Programabilidade de planos de dados, virtualização de funções de rede, orquestração de fatiamento de rede (Network Slicing).'
+    desc: 'Programabilidade de planos de dados (P4, OpenFlow), virtualização de funções de rede e orquestração de fatiamento de rede (Network Slicing).'
+  },
+  {
+    icon: '💡',
+    title: 'Redes Ópticas WDM & Engenharia de Tráfego',
+    desc: 'Redes ópticas elásticas (EON), grooming de tráfego, redução de retardo entre tarefas em grades e otimização de rotas com QoS.'
   },
   {
     icon: '🌐',
     title: 'Internet das Coisas & Cidades Inteligentes',
-    desc: 'Protocolos de comunicação para IoT, redes de sensores sem fio, cidades inteligentes e redes veiculares (VANETs).'
+    desc: 'Protocolos de comunicação para IoT, redes de sensores sem fio (WSN), cidades inteligentes (CIA2) e redes veiculares conectadas (VANETs).'
+  },
+  {
+    icon: '🛡️',
+    title: 'Sistemas Distribuídos & Tolerância a Falhas',
+    desc: 'Algoritmos de consenso bizantino, replicação por quóruns, sistemas distribuídos dinâmicos e arquiteturas resilientes a intrusões.'
   },
   {
     icon: '🤖',
-    title: 'Redes Baseadas em Intenção & IA',
-    desc: 'Inteligência Artificial e Aprendizado por Reforço aplicados ao gerenciamento autônomo e preditivo de infraestruturas de rede.'
+    title: 'Redes Baseadas em Intenção & Inteligência Artificial',
+    desc: 'Aprendizado por Reforço, Aprendizado Federado e modelos preditivos aplicados ao gerenciamento autônomo e zero-touch de redes.'
+  },
+  {
+    icon: '👥',
+    title: 'Sistemas Multiagentes & Computação Forense',
+    desc: 'Modelos baseados em agentes (BDI), cooperação e planejamento multiagente, mineração de processos e análise pericial distribuída (MADIK).'
   },
   {
     icon: '🔒',
-    title: 'Sistemas Distribuídos & Segurança',
-    desc: 'Tolerância a falhas, algoritmos de consenso, tecnologia blockchain, privacidade e mitigação de ataques em redes.'
-  },
-  {
-    icon: '💡',
-    title: 'Redes Ópticas & Modelagem',
-    desc: 'Redes ópticas elásticas (EON), engenharia de tráfego, simulação em larga escala e algoritmos de otimização de rotas.'
+    title: 'Segurança Cibernética & Criptografia',
+    desc: 'Implementação eficiente de primitivas criptográficas, privacidade, anonimato, detecção de intrusão e segurança em redes descentralizadas.'
   }
 ];
 ---
@@ -232,8 +242,46 @@ const researchLines = [
     </div>
   </section>
 
+  <!-- Apoio, Fomento e Parcerias -->
+  <section class="py-16 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-10">
+        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-100 px-3 py-1 rounded-full border border-slate-200">
+          Apoio & Parcerias
+        </span>
+        <h2 class="text-2xl font-extrabold text-slate-900 mt-2">
+          Agências de Fomento e Cooperação Tecnológica
+        </h2>
+        <p class="text-xs text-slate-500 mt-1">
+          Nossa pesquisa e inovação contam com o apoio e financiamento das principais agências e instituições de fomento científico.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-6 items-center justify-items-center">
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/cnpq.jpg`} alt="CNPq" class="max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/capes.jpg`} alt="CAPES" class="max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/fapdf.jpg`} alt="FAPDF" class="max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/rnp.gif`} alt="RNP" class="max-h-8 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/finep.jpg`} alt="FINEP" class="max-h-8 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <span class="text-xs font-bold text-slate-700 text-center tracking-tight">MCTI / Minicom</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Seção de Localização e Contato -->
-  <section class="py-20 bg-white">
+  <section class="py-20 bg-slate-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <MapEmbed />
     </div>

@@ -28,4 +28,6 @@ prepare_students.js
 generate_*.js
 translate_*.js
 test_slugs.js
+antigo_site/
+teaching/
 

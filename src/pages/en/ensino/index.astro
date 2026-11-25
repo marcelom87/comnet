@@ -1,0 +1,271 @@
+---
+import BaseLayout from '../../../layouts/BaseLayout.astro';
+import { useTranslations } from '../../../i18n/utils';
+
+const lang = 'en';
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const gradCourses = [
+  {
+    name: 'Teleinformatics and Networks 1',
+    code: '204315',
+    program: 'Computer Engineering & Computer Science',
+    syllabus: 'Foundations of data transmission, layered network architectures (OSI and TCP/IP), physical layer, modulation, data link layer, framing, error detection and correction algorithms.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Teleinformatics and Networks 2',
+    code: '204323',
+    program: 'Computer Engineering & Computer Science',
+    syllabus: 'Network layer internetworking and routing in IPv4 and IPv6, distance-vector and link-state algorithms, transport layer protocols (TCP/UDP), flow and congestion control.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Computer Networks',
+    code: '116572',
+    program: 'Computer Science',
+    syllabus: 'Architecture and principles of the modern Internet, circuit and packet switching, application layer services (DNS, HTTP, SMTP), network socket programming, and transport protocols.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Mobile Computing and Wireless Networks',
+    code: '204340',
+    program: 'Computer Engineering & Computer Science',
+    syllabus: 'Radio propagation models, IEEE 802.11 (Wi-Fi), cellular generations (4G/5G), mobile ad hoc networks (MANETs), mobile IP routing, and energy-efficient protocols for mobile devices.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Operating Systems',
+    code: '116467',
+    program: 'Computer Science & Computer Engineering',
+    syllabus: 'OS architecture, processes and threads, CPU scheduling algorithms, synchronization primitives, deadlocks, virtual memory management, page replacement, and file systems.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Network Management and Security',
+    code: '204331',
+    program: 'Computer Engineering & Computer Science',
+    syllabus: 'Network management frameworks (SNMP, MIBs), traffic monitoring, firewalls, intrusion detection/prevention systems (IDS/IPS), VPN tunneling, and applied public-key cryptography.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Modeling of Computer Systems and Networks',
+    code: '204374',
+    program: 'Computer Engineering',
+    syllabus: 'Stochastic processes, queuing theory (M/M/1, M/M/m models), queuing networks, Markov chains, and analytical models for network capacity planning.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Network Performance Evaluation',
+    code: '204358',
+    program: 'Computer Engineering',
+    syllabus: 'Discrete-event network simulation techniques, experimental design, statistical output analysis, traffic generators, and QoS performance metrics.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Multimedia Network Systems',
+    code: '204366',
+    program: 'Computer Engineering',
+    syllabus: 'Digital audio and video compression, real-time protocols (RTP/RTCP, RTSP, SIP), adaptive HTTP streaming (DASH), traffic engineering, and Quality of Experience (QoE).',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Coding Theory and Cryptography',
+    code: '116548',
+    program: 'Computer Science & Computer Engineering',
+    syllabus: 'Classical and modern cryptography, block and stream ciphers, public-key cryptosystems (RSA, Elliptic Curves), cryptographic hash functions, digital signatures, and PKI.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    name: 'Information Systems',
+    code: '116416',
+    program: 'Computer Science',
+    syllabus: 'Organizational information systems architectures, business process modeling, enterprise service-oriented architectures (SOA), and IT governance standards.',
+    link: 'https://sigaa.unb.br/'
+  }
+];
+
+const gradGraduateCourses = [
+  {
+    name: 'Distributed Systems',
+    code: 'PPGInf',
+    level: 'Graduate (M.Sc. / Ph.D.)',
+    syllabus: 'Concurrency models, physical and logical time synchronization, indirect communication, distributed consensus, Byzantine fault tolerance, and peer-to-peer topologies.'
+  },
+  {
+    name: 'Multiagent Systems',
+    code: '316563',
+    level: 'Graduate (M.Sc. / Ph.D.)',
+    syllabus: 'Theory and implementation of autonomous agents, BDI architectures (Belief-Desire-Intention), multiagent cooperation, negotiation, coordination, and trust/reputation models.'
+  },
+  {
+    name: 'Future Networks & Network Softwarization (SDN/NFV)',
+    code: 'PPGInf',
+    level: 'Advanced Topics in Informatics',
+    syllabus: 'Programmable data planes (P4, OpenFlow), network function virtualization, end-to-end network slicing orchestration, and open 5G/6G cellular architectures (O-RAN).'
+  },
+  {
+    name: 'Artificial Intelligence Applied to Telecommunications',
+    code: 'PPGInf',
+    level: 'Advanced Topics in Informatics',
+    syllabus: 'Reinforcement learning, deep learning architectures, and federated learning applied to zero-touch autonomous network operations and smart city services.'
+  }
+];
+---
+
+<BaseLayout
+  lang={lang}
+  title="Teaching & Courses | COMNET — CIC / UnB"
+  description="Undergraduate and graduate courses taught by COMNET faculty members at the Department of Computer Science, University of Brasília."
+>
+  <!-- Hero Banner -->
+  <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
+          {t('teaching.tag')}
+        </span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
+          {t('teaching.title')}
+        </h1>
+        <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
+          {t('teaching.subtitle')}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Sticky Nav Anchors -->
+  <div class="bg-white border-b border-slate-200 sticky top-20 z-40 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex gap-4 overflow-x-auto text-sm font-semibold">
+      <a href="#undergraduate" class="text-unb-blue hover:text-unb-green px-3 py-1.5 rounded-md hover:bg-slate-100 transition-colors whitespace-nowrap">
+        🏛️ Undergraduate Courses ({gradCourses.length})
+      </a>
+      <a href="#graduate" class="text-slate-700 hover:text-unb-green px-3 py-1.5 rounded-md hover:bg-slate-100 transition-colors whitespace-nowrap">
+        🎓 Graduate Courses PPGI ({gradGraduateCourses.length})
+      </a>
+      <a href="#methodology" class="text-slate-700 hover:text-unb-green px-3 py-1.5 rounded-md hover:bg-slate-100 transition-colors whitespace-nowrap">
+        🔬 Practical Testbeds & Labs
+      </a>
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-20">
+
+    <!-- UNDERGRADUATE COURSES -->
+    <section id="undergraduate" class="scroll-mt-36">
+      <div class="flex items-center justify-between mb-8">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-unb-blue bg-blue-50 border border-blue-200 px-3 py-1 rounded-full">
+            Core & Advanced Curriculum
+          </span>
+          <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
+            {t('teaching.grad.title')}
+          </h2>
+          <p class="text-sm text-slate-500 mt-1">
+            {t('teaching.grad.subtitle')}
+          </p>
+        </div>
+        <span class="text-sm font-bold bg-slate-100 text-slate-700 px-3 py-1.5 rounded-lg border border-slate-200">
+          {gradCourses.length} Courses Offered
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {gradCourses.map((d) => (
+          <div class="p-6 rounded-2xl bg-white border border-slate-200 hover:border-emerald-500/60 shadow-xs hover:shadow-md transition-all flex flex-col justify-between group">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <span class="text-xs font-bold px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-800 border border-emerald-200">
+                  Code {d.code}
+                </span>
+                <span class="text-xs text-slate-400 font-medium">UnB • CIC</span>
+              </div>
+              <h3 class="text-lg font-bold text-slate-900 group-hover:text-emerald-700 transition-colors mb-2">
+                {d.name}
+              </h3>
+              <p class="text-xs text-slate-600 font-medium mb-3">
+                {d.program}
+              </p>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                {d.syllabus}
+              </p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- GRADUATE COURSES -->
+    <section id="graduate" class="scroll-mt-36">
+      <div class="flex items-center justify-between mb-8">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-purple-700 bg-purple-50 border border-purple-200 px-3 py-1 rounded-full">
+            M.Sc. & Ph.D. Level
+          </span>
+          <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
+            {t('teaching.pos.title')}
+          </h2>
+          <p class="text-sm text-slate-500 mt-1">
+            {t('teaching.pos.subtitle')}
+          </p>
+        </div>
+        <span class="text-sm font-bold bg-purple-50 text-purple-700 px-3 py-1.5 rounded-lg border border-purple-200">
+          PPGI Top Rating (CAPES 5)
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {gradGraduateCourses.map((d) => (
+          <div class="p-6 rounded-2xl bg-white border border-slate-200 hover:border-purple-300 shadow-xs hover:shadow-md transition-all flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <span class="text-xs font-bold px-2.5 py-1 rounded-md bg-purple-100 text-purple-800 border border-purple-200">
+                  {d.code}
+                </span>
+                <span class="text-xs text-purple-600 font-semibold">{d.level}</span>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-2">
+                {d.name}
+              </h3>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                {d.syllabus}
+              </p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- METHODOLOGY & TESTBEDS -->
+    <section id="methodology" class="scroll-mt-36 bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-3xl p-8 sm:p-12 shadow-xl">
+      <div class="max-w-3xl space-y-4">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/80 border border-emerald-800 px-3 py-1 rounded-full">
+          Hands-on Learning
+        </span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-white">
+          Theory Combined with Real-World Network Experimentation
+        </h2>
+        <p class="text-slate-300 text-sm sm:text-base leading-relaxed">
+          Courses taught by COMNET faculty integrate solid theoretical foundations with extensive laboratory assignments. Students work with industry-standard protocol analyzers (Wireshark), virtual software routers, Software-Defined Radio (SDR) testbeds, and custom OpenStack/Kubernetes cloud clusters located right inside the CIC/EST Building.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-6">
+          <div class="p-4 rounded-xl bg-white/10 border border-white/10 backdrop-blur-sm">
+            <div class="text-2xl font-bold text-emerald-400">100%</div>
+            <p class="text-xs text-slate-300 mt-1">Courses featuring hands-on laboratory experiments</p>
+          </div>
+          <div class="p-4 rounded-xl bg-white/10 border border-white/10 backdrop-blur-sm">
+            <div class="text-2xl font-bold text-teal-300">PPGI</div>
+            <p class="text-xs text-slate-300 mt-1">CAPES Level 5 Center of Academic Excellence</p>
+          </div>
+          <div class="p-4 rounded-xl bg-white/10 border border-white/10 backdrop-blur-sm">
+            <div class="text-2xl font-bold text-emerald-400">CIC/EST</div>
+            <p class="text-xs text-slate-300 mt-1">Dedicated facilities at Darcy Ribeiro Campus</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</BaseLayout>

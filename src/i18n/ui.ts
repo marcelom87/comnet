@@ -13,6 +13,7 @@ export const ui = {
     'nav.members': 'Membros',
     'nav.projects': 'Projetos',
     'nav.students': 'Alunos',
+    'nav.teaching': 'Ensino',
     'nav.about': 'Sobre & Contato',
 
     // Hero
@@ -48,8 +49,12 @@ export const ui = {
     'research.line4.desc': 'Inteligência Artificial e Aprendizado por Reforço aplicados ao gerenciamento autônomo e preditivo de infraestruturas de rede.',
     'research.line5.title': 'Sistemas Distribuídos & Segurança',
     'research.line5.desc': 'Tolerância a falhas, algoritmos de consenso, tecnologia blockchain, privacidade e mitigação de ataques em redes.',
-    'research.line6.title': 'Redes Ópticas & Modelagem',
-    'research.line6.desc': 'Redes ópticas elásticas (EON), engenharia de tráfego, simulação em larga escala e algoritmos de otimização de rotas.',
+    'research.line6.title': 'Redes Ópticas WDM & Engenharia de Tráfego',
+    'research.line6.desc': 'Redes ópticas elásticas (EON), grooming de tráfego, redução de retardo entre tarefas em grades e otimização de rotas.',
+    'research.line7.title': 'Sistemas Multiagentes & Computação Forense',
+    'research.line7.desc': 'Modelos baseados em agentes (BDI), cooperação e planejamento multiagente, mineração de processos e perícia distribuída (MADIK).',
+    'research.line8.title': 'Segurança Cibernética & Criptografia',
+    'research.line8.desc': 'Implementação eficiente de primitivas criptográficas, privacidade, anonimato, detecção de intrusão e redes resilientes.',
 
     // Projects Section
     'projects.tag': 'Inovação & Financiamento',
@@ -92,10 +97,25 @@ export const ui = {
     'about.title': 'Sobre o Laboratório COMNET',
     'about.subtitle': 'Centro de excelência em pesquisa, ensino e desenvolvimento tecnológico em redes de comunicação no coração do Centro-Oeste brasileiro.',
     'about.infrastructure.title': 'Infraestrutura e Testbeds',
+    'about.groups.title': 'Grupos de Pesquisa Certificados no CNPq',
+    'about.groups.subtitle': 'Grupos de pesquisa sediados no COMNET e credenciados no Diretório dos Grupos de Pesquisa (DGP) do CNPq.',
+    'about.partners.title': 'Apoio, Fomento & Parcerias Estratégicas',
+    'about.partners.subtitle': 'Instituições públicas de fomento e parceiros que tornam possível nossa pesquisa científica e inovação tecnológica.',
+    'about.legacy.title': 'História & Memória do Laboratório',
+    'about.legacy.subtitle': 'Celebrando mais de duas décadas de pioneirismo acadêmico no Departamento de Ciência da Computação da UnB.',
     'about.location.title': 'Localização do Laboratório',
     'about.location.building': 'Prédio CIC / EST — Térreo',
-    'about.location.address': 'Campus Universitário Darcy Ribeiro, Asa Norte, Brasília - DF, CEP 70910-900',
+    'about.location.address': 'Campus Universitário Darcy Ribeiro, Asa Norte, Caixa Postal 4466, Brasília - DF, CEP 70910-900',
     'about.location.contact': 'E-mail: cic@unb.br | Telefone: +55 (61) 3107-3661',
+
+    // Teaching
+    'teaching.tag': 'Formação Acadêmica & Docência',
+    'teaching.title': 'Ensino & Disciplinas',
+    'teaching.subtitle': 'Disciplinas lecionadas pelos professores do COMNET nos cursos de graduação e no Programa de Pós-Graduação em Informática (PPGI) da UnB.',
+    'teaching.grad.title': 'Disciplinas de Graduação',
+    'teaching.grad.subtitle': 'Bacharelado em Ciência da Computação e Engenharia de Computação — CIC / UnB.',
+    'teaching.pos.title': 'Disciplinas de Pós-Graduação (PPGI)',
+    'teaching.pos.subtitle': 'Mestrado e Doutorado em Informática — Departamento de Ciência da Computação.',
 
     // Footer
     'footer.about': 'Laboratório de Redes de Comunicações',
@@ -109,6 +129,7 @@ export const ui = {
     'nav.members': 'Members',
     'nav.projects': 'Projects',
     'nav.students': 'Students',
+    'nav.teaching': 'Teaching',
     'nav.about': 'About & Contact',
 
     // Hero
@@ -144,8 +165,12 @@ export const ui = {
     'research.line4.desc': 'Artificial Intelligence and Reinforcement Learning for zero-touch autonomous management and predictive networking.',
     'research.line5.title': 'Distributed Systems & Security',
     'research.line5.desc': 'Fault tolerance, consensus algorithms, blockchain technology, privacy preservation, and network anomaly mitigation.',
-    'research.line6.title': 'Optical Networks & Modeling',
-    'research.line6.desc': 'Elastic Optical Networks (EON), traffic engineering, large-scale network simulation, and heuristic routing optimization.',
+    'research.line6.title': 'WDM Optical Networks & Traffic Engineering',
+    'research.line6.desc': 'Elastic Optical Networks (EON), traffic grooming, task communication delay reduction in grids, and routing optimization.',
+    'research.line7.title': 'Multiagent Systems & Forensic Computing',
+    'research.line7.desc': 'Agent-based reasoning (BDI), multiagent coordination and planning, process mining, and distributed digital forensics (MADIK).',
+    'research.line8.title': 'Cybersecurity & Applied Cryptography',
+    'research.line8.desc': 'Efficient cryptographic primitives, privacy preservation, anonymity, intrusion detection, and decentralized secure communications.',
 
     // Projects Section
     'projects.tag': 'Innovation & Grants',
@@ -188,10 +213,25 @@ export const ui = {
     'about.title': 'About the COMNET Laboratory',
     'about.subtitle': 'A premier center for telecommunications research, education, and technological development in the federal capital of Brazil.',
     'about.infrastructure.title': 'Infrastructure & Testbeds',
+    'about.groups.title': 'CNPq-Certified Research Groups',
+    'about.groups.subtitle': 'Research groups affiliated with COMNET registered in the Directory of Research Groups (DGP) at CNPq.',
+    'about.partners.title': 'Research Grants & Strategic Partners',
+    'about.partners.subtitle': 'Government funding agencies and research organizations enabling our scientific discovery and innovation.',
+    'about.legacy.title': 'History & Laboratory Legacy',
+    'about.legacy.subtitle': 'Celebrating over two decades of academic leadership at the Department of Computer Science, University of Brasília.',
     'about.location.title': 'Laboratory Location',
     'about.location.building': 'CIC / EST Building — Ground Floor',
-    'about.location.address': 'Campus Universitário Darcy Ribeiro, Asa Norte, Brasília - DF, 70910-900, Brazil',
+    'about.location.address': 'Campus Universitário Darcy Ribeiro, Asa Norte, P.O. Box 4466, Brasília - DF, 70910-900, Brazil',
     'about.location.contact': 'Email: cic@unb.br | Phone: +55 (61) 3107-3661',
+
+    // Teaching
+    'teaching.tag': 'Academic Education & Faculty Teaching',
+    'teaching.title': 'Teaching & Academic Courses',
+    'teaching.subtitle': 'Undergraduate and graduate courses taught by COMNET faculty members at the University of Brasília (UnB).',
+    'teaching.grad.title': 'Undergraduate Courses',
+    'teaching.grad.subtitle': 'B.Sc. in Computer Science and Computer Engineering — CIC / UnB.',
+    'teaching.pos.title': 'Graduate Courses (PPGI)',
+    'teaching.pos.subtitle': 'M.Sc. and Ph.D. in Informatics — Department of Computer Science.',
 
     // Footer
     'footer.about': 'Computer Networks Laboratory',

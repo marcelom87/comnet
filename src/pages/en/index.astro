@@ -66,6 +66,16 @@ const researchLines = [
     icon: '💡',
     title: t('research.line6.title'),
     desc: t('research.line6.desc')
+  },
+  {
+    icon: '👥',
+    title: t('research.line7.title'),
+    desc: t('research.line7.desc')
+  },
+  {
+    icon: '🔒',
+    title: t('research.line8.title'),
+    desc: t('research.line8.desc')
   }
 ];
 ---
@@ -238,8 +248,46 @@ const researchLines = [
     </div>
   </section>
 
+  <!-- Grants & Strategic Partners -->
+  <section class="py-16 bg-white border-b border-slate-200">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="text-center max-w-2xl mx-auto mb-10">
+        <span class="text-xs font-bold uppercase tracking-wider text-slate-500 bg-slate-100 px-3 py-1 rounded-full border border-slate-200">
+          Sponsors & Grants
+        </span>
+        <h2 class="text-2xl font-extrabold text-slate-900 mt-2">
+          Funding Agencies & Technological Cooperation
+        </h2>
+        <p class="text-xs text-slate-500 mt-1">
+          Our scientific research and technological innovations are made possible through grants from major funding agencies.
+        </p>
+      </div>
+
+      <div class="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-6 gap-6 items-center justify-items-center">
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/cnpq.jpg`} alt="CNPq" class="max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/capes.jpg`} alt="CAPES" class="max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/fapdf.jpg`} alt="FAPDF" class="max-h-10 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/rnp.gif`} alt="RNP" class="max-h-8 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <img src={`${baseUrl}/images/partners/finep.jpg`} alt="FINEP" class="max-h-8 max-w-full object-contain filter grayscale hover:grayscale-0 transition-all" />
+        </div>
+        <div class="p-4 bg-slate-50 border border-slate-200/80 rounded-xl w-full h-20 flex items-center justify-center hover:shadow-xs transition-shadow">
+          <span class="text-xs font-bold text-slate-700 text-center tracking-tight">MCTI / Minicom</span>
+        </div>
+      </div>
+    </div>
+  </section>
+
   <!-- Location Map -->
-  <section class="py-20 bg-white">
+  <section class="py-20 bg-slate-50">
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
       <MapEmbed lang={lang} />
     </div>

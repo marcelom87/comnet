@@ -53,6 +53,7 @@ const currentYear = new Date().getFullYear();
           <li><a href={`${prefix}/professores/`} class="hover:text-emerald-400 transition-colors">{t('nav.members')}</a></li>
           <li><a href={`${prefix}/projetos/`} class="hover:text-emerald-400 transition-colors">{t('nav.projects')}</a></li>
           <li><a href={`${prefix}/alunos/`} class="hover:text-emerald-400 transition-colors">{t('nav.students')}</a></li>
+          <li><a href={`${prefix}/ensino/`} class="hover:text-emerald-400 transition-colors">{t('nav.teaching')}</a></li>
           <li><a href={`${prefix}/sobre/`} class="hover:text-emerald-400 transition-colors">{t('nav.about')}</a></li>
         </ul>
       </div>
@@ -67,8 +68,8 @@ const currentYear = new Date().getFullYear();
             <span class="text-emerald-400">📍</span>
             <span>
               {lang === 'en' 
-                ? 'CIC/EST Building, Ground Floor\nUniversity of Brasília (UnB)\nBrasília - DF, Brazil'
-                : 'Prédio CIC/EST, Térreo\nUniversidade de Brasília (UnB)\nBrasília - DF, CEP 70910-900'}
+                ? 'CIC/EST Building, Ground Floor, P.O. Box 4466\nUniversity of Brasília (UnB)\nBrasília - DF, Brazil, 70910-900'
+                : 'Prédio CIC/EST, Térreo, Caixa Postal 4466\nUniversidade de Brasília (UnB)\nBrasília - DF, CEP 70910-900'}
             </span>
           </p>
           <p class="flex items-center gap-2">

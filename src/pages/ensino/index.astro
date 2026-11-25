@@ -1,0 +1,271 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { useTranslations } from '../../i18n/utils';
+
+const lang = 'pt';
+const t = useTranslations(lang);
+const baseUrl = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+const gradDisciplinas = [
+  {
+    nome: 'Teleinformática e Redes 1',
+    codigo: '204315',
+    curso: 'Engenharia de Computação & Ciência da Computação',
+    ementa: 'Conceitos fundamentais de transmissão de dados, arquiteturas de redes em camadas (OSI e TCP/IP), camada física, modulação, enlace de dados, enquadramento, detecção e correção de erros.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Teleinformática e Redes 2',
+    codigo: '204323',
+    curso: 'Engenharia de Computação & Ciência da Computação',
+    ementa: 'Protocolos de interconexão e roteamento IPv4 e IPv6, algoritmos de vetor de distância e estado de enlace, protocolos de transporte (TCP/UDP), controle de fluxo e congestionamento.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Redes de Computadores',
+    codigo: '116572',
+    curso: 'Ciência da Computação',
+    ementa: 'Visão geral da Internet, comutação de circuitos e pacotes, camadas de aplicação, transporte e rede, programação com sockets e serviços essenciais (DNS, HTTP, SMTP).',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Computação Móvel e Redes sem Fio',
+    codigo: '204340',
+    curso: 'Engenharia de Computação & Ciência da Computação',
+    ementa: 'Propagação e canais sem fio, redes IEEE 802.11 (Wi-Fi), redes celulares (4G/5G), redes ad hoc móveis (MANETs), IPv6 móvel e eficiência energética em dispositivos móveis.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Sistemas Operacionais',
+    codigo: '116467',
+    curso: 'Ciência da Computação & Engenharia de Computação',
+    ementa: 'Estrutura de SOs, gerência de processos e threads, escalonamento de CPU, primitivas de sincronização, impasses (deadlocks), gerência de memória virtual e sistemas de arquivos.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Gerência e Segurança de Redes',
+    codigo: '204331',
+    curso: 'Engenharia de Computação & Ciência da Computação',
+    ementa: 'Arquiteturas de gerência de rede (SNMP, MIBs), monitoramento de desempenho, segurança perimetral, firewalls, sistemas de detecção/prevenção de intrusão (IDS/IPS), VPNs e criptografia.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Modelagem de Sistemas Computacionais e Redes',
+    codigo: '204374',
+    curso: 'Engenharia de Computação',
+    ementa: 'Processos estocásticos, teoria das filas (M/M/1, M/M/m), redes de filas, cadeias de Markov e modelos analíticos aplicados ao dimensionamento de redes.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Avaliação de Desempenho de Redes',
+    codigo: '204358',
+    curso: 'Engenharia de Computação',
+    ementa: 'Técnicas de simulação de eventos discretos, projeto de experimentos, análise estatística de resultados e ferramentas de simulação de tráfego e topologias.',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Sistemas de Redes Multimídia',
+    codigo: '204366',
+    curso: 'Engenharia de Computação',
+    ementa: 'Codificação de mídia digital, protocolos de tempo real (RTP/RTCP, RTSP, SIP), streaming adaptativo sobre HTTP (DASH), engenharia de tráfego e qualidade de serviço (QoS/QoE).',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Teoria da Codificação e Criptografia',
+    codigo: '116548',
+    curso: 'Ciência da Computação & Engenharia de Computação',
+    ementa: 'Criptografia clássica e moderna, cifras de bloco e fluxo, criptografia de chave pública (RSA, curvas elípticas), funções hash, assinaturas digitais e infraestrutura de chaves públicas (PKI).',
+    link: 'https://sigaa.unb.br/'
+  },
+  {
+    nome: 'Sistemas de Informação',
+    codigo: '116416',
+    curso: 'Ciência da Computação',
+    ementa: 'Fundamentos de sistemas de informação organizacionais, modelagem de processos de negócio, arquiteturas orientadas a serviços e governança de tecnologia da informação.',
+    link: 'https://sigaa.unb.br/'
+  }
+];
+
+const posDisciplinas = [
+  {
+    nome: 'Sistemas Distribuídos',
+    codigo: 'PPGInf',
+    natureza: 'Pós-Graduação (Mestrado / Doutorado)',
+    ementa: 'Modelos de concorrência, tempo físico e relógios lógicos, comunicação indireta e publish/subscribe, consenso distribuído, tolerância a faltas bizantinas e sistemas peer-to-peer.'
+  },
+  {
+    nome: 'Sistemas Multiagentes',
+    codigo: '316563',
+    natureza: 'Pós-Graduação (Mestrado / Doutorado)',
+    ementa: 'Teoria e prática de agentes autônomos, arquiteturas BDI (Belief-Desire-Intention), cooperação, negociação, coordenação, modelos de confiança e reputação em ambientes dinâmicos.'
+  },
+  {
+    nome: 'Redes do Futuro e Softwarização (SDN/NFV)',
+    codigo: 'PPGInf',
+    natureza: 'Tópicos Avançados em Informática',
+    ementa: 'Planos de dados programáveis (P4, OpenFlow), virtualização de funções de rede, orquestração de fatias de rede (Network Slicing) e arquiteturas de redes 5G/6G abertas (O-RAN).'
+  },
+  {
+    nome: 'Inteligência Artificial Aplicada a Redes',
+    codigo: 'PPGInf',
+    natureza: 'Tópicos Avançados em Informática',
+    ementa: 'Aplicação de Aprendizado por Reforço, Redes Neurais Profundas e Aprendizado Federado para gerenciamento preditivo e autônomo de redes e cidades inteligentes.'
+  }
+];
+---
+
+<BaseLayout
+  lang={lang}
+  title="Ensino & Disciplinas | COMNET — CIC / UnB"
+  description="Disciplinas de graduação e pós-graduação lecionadas pelos professores do Laboratório COMNET nos cursos do Departamento de Ciência da Computação da UnB."
+>
+  <!-- Banner Topo -->
+  <section class="bg-gradient-to-r from-unb-blue to-slate-900 text-white py-16">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="max-w-3xl">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/60 border border-emerald-800 px-3 py-1 rounded-full">
+          {t('teaching.tag')}
+        </span>
+        <h1 class="text-3xl sm:text-4xl font-extrabold mt-3">
+          {t('teaching.title')}
+        </h1>
+        <p class="text-slate-300 mt-3 text-base sm:text-lg leading-relaxed">
+          {t('teaching.subtitle')}
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Navegação por Âncoras -->
+  <div class="bg-white border-b border-slate-200 sticky top-20 z-40 shadow-xs">
+    <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex gap-4 overflow-x-auto text-sm font-semibold">
+      <a href="#graduacao" class="text-unb-blue hover:text-unb-green px-3 py-1.5 rounded-md hover:bg-slate-100 transition-colors whitespace-nowrap">
+        🏛️ Graduação ({gradDisciplinas.length})
+      </a>
+      <a href="#posgraduacao" class="text-slate-700 hover:text-unb-green px-3 py-1.5 rounded-md hover:bg-slate-100 transition-colors whitespace-nowrap">
+        🎓 Pós-Graduação PPGI ({posDisciplinas.length})
+      </a>
+      <a href="#metodologia" class="text-slate-700 hover:text-unb-green px-3 py-1.5 rounded-md hover:bg-slate-100 transition-colors whitespace-nowrap">
+        🔬 Infraestrutura Didática
+      </a>
+    </div>
+  </div>
+
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-16 space-y-20">
+
+    <!-- SEÇÃO 1: GRADUAÇÃO -->
+    <section id="graduacao" class="scroll-mt-36">
+      <div class="flex items-center justify-between mb-8">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-unb-blue bg-blue-50 border border-blue-200 px-3 py-1 rounded-full">
+            Formação Básica & Avançada
+          </span>
+          <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
+            {t('teaching.grad.title')}
+          </h2>
+          <p class="text-sm text-slate-500 mt-1">
+            {t('teaching.grad.subtitle')}
+          </p>
+        </div>
+        <span class="text-sm font-bold bg-slate-100 text-slate-700 px-3 py-1.5 rounded-lg border border-slate-200">
+          {gradDisciplinas.length} Disciplinas Oferecidas
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+        {gradDisciplinas.map((d) => (
+          <div class="p-6 rounded-2xl bg-white border border-slate-200 hover:border-emerald-500/60 shadow-xs hover:shadow-md transition-all flex flex-col justify-between group">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <span class="text-xs font-bold px-2.5 py-1 rounded-md bg-emerald-50 text-emerald-800 border border-emerald-200">
+                  Cód. {d.codigo}
+                </span>
+                <span class="text-xs text-slate-400 font-medium">UnB • CIC</span>
+              </div>
+              <h3 class="text-lg font-bold text-slate-900 group-hover:text-emerald-700 transition-colors mb-2">
+                {d.nome}
+              </h3>
+              <p class="text-xs text-slate-600 font-medium mb-3">
+                {d.curso}
+              </p>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                {d.ementa}
+              </p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- SEÇÃO 2: PÓS-GRADUAÇÃO -->
+    <section id="posgraduacao" class="scroll-mt-36">
+      <div class="flex items-center justify-between mb-8">
+        <div>
+          <span class="text-xs font-bold uppercase tracking-wider text-purple-700 bg-purple-50 border border-purple-200 px-3 py-1 rounded-full">
+            Mestrado & Doutorado
+          </span>
+          <h2 class="text-2xl sm:text-3xl font-extrabold text-slate-900 mt-2">
+            {t('teaching.pos.title')}
+          </h2>
+          <p class="text-sm text-slate-500 mt-1">
+            {t('teaching.pos.subtitle')}
+          </p>
+        </div>
+        <span class="text-sm font-bold bg-purple-50 text-purple-700 px-3 py-1.5 rounded-lg border border-purple-200">
+          PPGI Nota 5 CAPES
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+        {posDisciplinas.map((d) => (
+          <div class="p-6 rounded-2xl bg-white border border-slate-200 hover:border-purple-300 shadow-xs hover:shadow-md transition-all flex flex-col justify-between">
+            <div>
+              <div class="flex items-center justify-between gap-2 mb-3">
+                <span class="text-xs font-bold px-2.5 py-1 rounded-md bg-purple-100 text-purple-800 border border-purple-200">
+                  {d.codigo}
+                </span>
+                <span class="text-xs text-purple-600 font-semibold">{d.natureza}</span>
+              </div>
+              <h3 class="text-xl font-bold text-slate-900 mb-2">
+                {d.nome}
+              </h3>
+              <p class="text-xs text-slate-600 leading-relaxed">
+                {d.ementa}
+              </p>
+            </div>
+          </div>
+        ))}
+      </div>
+    </section>
+
+    <!-- SEÇÃO 3: METODOLOGIA E INFRAESTRUTURA DIDÁTICA -->
+    <section id="metodologia" class="scroll-mt-36 bg-gradient-to-br from-slate-900 to-slate-800 text-white rounded-3xl p-8 sm:p-12 shadow-xl">
+      <div class="max-w-3xl space-y-4">
+        <span class="text-xs font-bold uppercase tracking-wider text-emerald-400 bg-emerald-950/80 border border-emerald-800 px-3 py-1 rounded-full">
+          Prática Experimental
+        </span>
+        <h2 class="text-2xl sm:text-3xl font-extrabold text-white">
+          Integração Teórico-Prática nos Laboratórios do CIC/EST
+        </h2>
+        <p class="text-slate-300 text-sm sm:text-base leading-relaxed">
+          As disciplinas associadas ao COMNET combinam fundamentação matemática rigorosa com ampla prática laboratorial. Os estudantes utilizam emuladores industriais, analisadores de pacotes (Wireshark), roteadores virtuais, bancadas de rádio definido por software (SDR) e ambientes em nuvem próprios do laboratório.
+        </p>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 pt-6">
+          <div class="p-4 rounded-xl bg-white/10 border border-white/10 backdrop-blur-sm">
+            <div class="text-2xl font-bold text-emerald-400">100%</div>
+            <p class="text-xs text-slate-300 mt-1">Disciplinas com suporte a laboratórios práticos e projetos</p>
+          </div>
+          <div class="p-4 rounded-xl bg-white/10 border border-white/10 backdrop-blur-sm">
+            <div class="text-2xl font-bold text-teal-300">PPGI</div>
+            <p class="text-xs text-slate-300 mt-1">Conceito 5 da CAPES na pós-graduação em Informática</p>
+          </div>
+          <div class="p-4 rounded-xl bg-white/10 border border-white/10 backdrop-blur-sm">
+            <div class="text-2xl font-bold text-emerald-400">CIC/EST</div>
+            <p class="text-xs text-slate-300 mt-1">Aulas e atividades no Campus Darcy Ribeiro</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+  </div>
+</BaseLayout>
