@@ -30,3 +30,4 @@ No âmbito do COMNET/CIC/UnB, o projeto fomentou o intercâmbio de docentes e di
 - **Coordenação:** Pesquisadores COMNET e Instituições Parceiras
 - **Vigência:** 2008 - 2012
 - **Financiador:** CAPES / CNPq (Edital Casadinho)
+

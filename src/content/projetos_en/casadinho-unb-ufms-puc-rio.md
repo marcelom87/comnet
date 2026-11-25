@@ -30,3 +30,4 @@ Within COMNET at CIC/UnB, the project supported faculty and student academic exc
 - **Coordination:** COMNET Researchers & Partner Institutions
 - **Period:** 2008 - 2012
 - **Funding:** CAPES / CNPq (Casadinho Grant)
+
